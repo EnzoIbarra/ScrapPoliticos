@@ -1,0 +1,156 @@
+{
+    "municipality": "La Victoria de Acentejo",
+    "url": "https://www.lavictoriadeacentejo.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Juan Antonio García",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es"
+        },
+        {
+            "nombre": "Yurena Gutiérrez",
+            "partido": null,
+            "cargo": "Concejal de Cultura",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es"
+        },
+        {
+            "nombre": "Kevin Moscoso",
+            "partido": null,
+            "cargo": "Concejal de Deportes",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es"
+        },
+        {
+            "nombre": "info@lavictoriadeacentejo.es",
+            "partido": null,
+            "cargo": null,
+            "email": "info@lavictoriadeacentejo.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.lavictoriadeacentejo.es"
+        },
+        {
+            "nombre": "Juan Antonio García Abreu",
+            "partido": null,
+            "cargo": "alcalde-presidente del Ayuntamiento de La Victoria de Acentejo",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/saluda-del-alcalde"
+        },
+        {
+            "nombre": "Juan Antonio García Abreu",
+            "partido": "Partido Socialista",
+            "cargo": "Alcalde – Presidente. Urbanismo, Transición Ecológica, Agencia de Desarrollo Local y Fondos Europeos, Área de Empleo, Relaciones Institucionales y Parque Móvil",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias"
+        },
+        {
+            "nombre": "José Daniel Izquierdo Barroso",
+            "partido": "Partido Socialista",
+            "cargo": "Primer Teniente de Alcalde. Área de Economía y Hacienda, Innovación Tecnológica, Servicios Municipales, Parques y Jardines, Cementerio, Bienestar Animal e Industria",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias"
+        },
+        {
+            "nombre": "María Yurena Gutiérrez González",
+            "partido": "Partido Socialista",
+            "cargo": "Segunda Teniente de Alcalde. Área de Cultura, Fiestas, Juventud, Participación Ciudadana, Turismo, Educación y Formación",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias"
+        },
+        {
+            "nombre": "Sonia Gutiérrez Hernández",
+            "partido": "Partido Socialista",
+            "cargo": "Tercera Teniente de Alcalde. Área de Bienestar Social, Coordinación del Centro de Día de Mayores, Centro de Rehabilitación Psicosocial, Unidad de Violencia de Género, Igualdad y Drogodependencia",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias"
+        },
+        {
+            "nombre": "Juan Corona Martín",
+            "partido": "Partido Socialista",
+            "cargo": "Cuarto Teniente de Alcalde. Concejal sin delegación",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias"
+        },
+        {
+            "nombre": "Estefanía Fernández Santos",
+            "partido": "Partido Socialista",
+            "cargo": "Concejal sin delegación",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias"
+        },
+        {
+            "nombre": "Juan Ramón Afonso Gutiérrez",
+            "partido": "Partido Socialista",
+            "cargo": "Área de Obras Públicas, Agricultura, Seguridad, Tráfico, Protección Civil, Medio Ambiente, Accesibilidad y Movilidad",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias"
+        },
+        {
+            "nombre": "Kevin Moscoso Hernández",
+            "partido": "Partido Socialista",
+            "cargo": "Deportes y Patrimonio Histórico",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias"
+        },
+        {
+            "nombre": "Almudena Providencia Afonso Hernández",
+            "partido": "Partido Socialista",
+            "cargo": "Tercera Edad, Sanidad, Comercio, Consumo, Recursos Humanos, Régimen Interior y PFAE",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias"
+        },
+        {
+            "nombre": "Víctor Padilla Gutiérrez",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal sin delegación",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias"
+        },
+        {
+            "nombre": "Verónica Gutiérrez Valladares",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal sin delegación",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias"
+        },
+        {
+            "nombre": "Adonais Pérez García",
+            "partido": "Partido Popular",
+            "cargo": "Concejal sin delegación",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias"
+        },
+        {
+            "nombre": "Gerardo Afonso Afonso",
+            "partido": "No adscrito",
+            "cargo": "Concejal sin delegación",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/corporacion-y-concejalias",
+        "https://www.lavictoriadeacentejo.es",
+        "https://www.lavictoriadeacentejo.es/ayuntamiento-de-la-victoria-acentejo/saluda-del-alcalde"
+    ]
+}

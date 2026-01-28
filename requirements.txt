@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pysocks
+openai
+pandas
+python-dotenv
+playwright
+pytesseract
+Pillow

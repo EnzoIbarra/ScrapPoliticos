@@ -1,0 +1,134 @@
+{
+    "municipality": "Puerto del Rosario",
+    "url": "https://www.puertodelrosario.org",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Ayuntamiento de Puerto del Rosario",
+            "partido": null,
+            "cargo": "Contacto",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.puertodelrosario.org/contacto"
+        },
+        {
+            "nombre": "Casa Consistorial",
+            "partido": null,
+            "cargo": null,
+            "email": "protocolo@puertodelrosario.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.puertodelrosario.org/contacto"
+        },
+        {
+            "nombre": "Cristobal David de Vera Cabrera",
+            "partido": null,
+            "cargo": "Alcalde-Presidente de Puerto del Rosario",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/el-alcalde-2"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": "El Alcalde",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/el-alcalde-2"
+        },
+        {
+            "nombre": "CRISTÓBAL DAVID DE VERA CABRERA",
+            "partido": null,
+            "cargo": "ALCALDE-PRESIDENTE AYUNTAMIENTO DE PUERTO DEL ROSARIO – CONCEJALÍA DE SERVICIOS SOCIALES",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/organizacion-municipal/el-equipo-de-gobierno"
+        },
+        {
+            "nombre": "JUAN MANUEL VERDUGO MUÑOZ",
+            "partido": null,
+            "cargo": "PRIMER TENIENTE DE ALCALDE. AYUNTAMIENTO DE PUERTO DEL ROSARIO – CONCEJALÍA DE ECONOMÍA Y HACIENDA, PROMOCIÓN ECONÓMICA, CULTURA Y CONSUMO",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/organizacion-municipal/el-equipo-de-gobierno"
+        },
+        {
+            "nombre": "DOMINGO DAVID DE LEÓN SUÁREZ",
+            "partido": null,
+            "cargo": "SEGUNDO TENIENTE DE ALCALDE. AYUNTAMIENTO DE PUERTO DEL ROSARIO – CONCEJALÍA DE SERVICIOS MUNICIPALES, PUEBLOS Y BARRIOS, PATRIMONIO HISTÓRICO Y SECTOR PRIMARIO",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/organizacion-municipal/el-equipo-de-gobierno"
+        },
+        {
+            "nombre": "MARÍA FRANCO MEDINA",
+            "partido": null,
+            "cargo": "TERCERA TENIENTE DE ALCALDE. AYUNTAMIENTO DE PUERTO DEL ROSARIO – CONCEJALÍA DE PERSONAL, CONTRATACIÓN RÉGIMEN INTERIOR Y RELACIONES INSTITUCIONALES",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/organizacion-municipal/el-equipo-de-gobierno"
+        },
+        {
+            "nombre": "ANTONIA FERNÁNDEZ ARAGÓN",
+            "partido": null,
+            "cargo": "CUARTA TENIENTE DE ALCALDE. AYUNTAMIENTO DE PUERTO DEL ROSARIO – CONCEJALÍA DE  VIVIENDA, PLAYAS, MOVILIDAD Y ACCESIBILIDAD",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/organizacion-municipal/el-equipo-de-gobierno"
+        },
+        {
+            "nombre": "ANA MARÍA HERNÁNDEZ GONZÁLEZ",
+            "partido": null,
+            "cargo": "QUINTA TENIENTE DE ALCALDE. AYUNTAMIENTO DE PUERTO DEL ROSARIO – CONCEJALÍA DE OBRAS MUNICIPALES, URBANISMO Y PLANEAMIENTO",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/organizacion-municipal/el-equipo-de-gobierno"
+        },
+        {
+            "nombre": "TACOREMI GUTIÉRREZ GUTIÉRREZ",
+            "partido": null,
+            "cargo": "SEXTA TENIENTE DE ALCALDE. AYUNTAMIENTO DE PUERTO DEL ROSARIO – CONCEJALÍA DE FESTEJOS, COMERCIO, BIENESTAR ANIMAL, EDUCACIÓN, IGUALDAD, DIVERSIDAD Y LGTBI.",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/organizacion-municipal/el-equipo-de-gobierno"
+        },
+        {
+            "nombre": "ERICA PILAR GONZÁLEZ PÉREZ",
+            "partido": null,
+            "cargo": "SÉPTIMA TENIENTE DE ALCALDE.CONCEJALÍA DE DESARROLLO LOCAL, EMPLEO, PARQUES Y ZONAS VERDES, Y CEMENTERIOS",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/organizacion-municipal/el-equipo-de-gobierno"
+        },
+        {
+            "nombre": "JENIFER PÉREZ CABRERA",
+            "partido": null,
+            "cargo": "CONCEJALÍA DE MEDIO AMBIENTE, TRÁFICO, JUVENTUD Y PARTICIPACIÓN CIUDADANA",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/organizacion-municipal/el-equipo-de-gobierno"
+        },
+        {
+            "nombre": "ROSA MARIA RODRÍGUEZ FUENTES",
+            "partido": null,
+            "cargo": "CONCEJALÍA DE TURISMO, NUEVAS TECNOLOGÍAS, TRANSPARENCIA, SALUD PÚBLICA Y PRENSA Y COMUNICACIÓN",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/organizacion-municipal/el-equipo-de-gobierno"
+        },
+        {
+            "nombre": "LUIS CHACÓN MARTEL",
+            "partido": null,
+            "cargo": "CONCEJALÍA DE DEPORTES, TRANSPORTES, PATRIMONIO ECONÓMICO, INDUSTRIA Y ENERGÍA",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/organizacion-municipal/el-equipo-de-gobierno"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.puertodelrosario.org/ayuntamiento",
+        "https://www.puertodelrosario.org",
+        "https://www.puertodelrosario.org/contacto",
+        "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/organizacion-municipal/el-equipo-de-gobierno",
+        "https://www.puertodelrosario.org/ayuntamiento/areas-tematicas/el-alcalde-2"
+    ]
+}

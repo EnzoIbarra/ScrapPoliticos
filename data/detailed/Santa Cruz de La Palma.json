@@ -1,0 +1,414 @@
+{
+    "municipality": "Santa Cruz de La Palma",
+    "url": "https://www.santacruzdelapalma.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Asier Antona",
+            "partido": "PP",
+            "cargo": "Alcalde",
+            "email": "alcaldia@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Raico Arrocha Camacho",
+            "partido": "CC",
+            "cargo": "Primera Tenencia de Alcaldía",
+            "email": "raico.arrocha@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Omaira Pérez García",
+            "partido": "PP",
+            "cargo": "Segunda Tenencia de Alcaldía",
+            "email": "omaira.perez@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Yessica Pérez López",
+            "partido": "CC",
+            "cargo": "Tercera Tenencia de Alcaldía",
+            "email": "yessica.perez@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Juan José Cabrera Guelmes",
+            "partido": "PP",
+            "cargo": "Cuarta Tenencia de Alcaldía",
+            "email": "juan.cabrera@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Alberto Jesús Perdomo",
+            "partido": "CC",
+            "cargo": "Concejal Delegado",
+            "email": "alberto.perdomo@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Juan Guerra Guerra",
+            "partido": "CC",
+            "cargo": "Quinta Tenencia de Alcaldía",
+            "email": "juan.guerra@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Sergio Hidalgo Hernández",
+            "partido": "PP",
+            "cargo": "Concejal Delegado",
+            "email": "hidalgo@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Saray González Álvarez",
+            "partido": "PP",
+            "cargo": "Concejala Delegada",
+            "email": "saray.gonzalez@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Bernardo López Acosta",
+            "partido": "PP",
+            "cargo": "Concejal Delegado",
+            "email": "bernardo.lopez@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Jesús Pérez Hernández",
+            "partido": "PP",
+            "cargo": "Concejal Delegado",
+            "email": "jesus.perez@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Juan José Neris Hernández",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": "juanjo.neris@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "María Lemes Rodríguez",
+            "partido": "PSOE",
+            "cargo": "Concejala",
+            "email": "illini.lemes@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "David Tames Valiente",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": "david.temes@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Carla Rodríguez Rodríguez",
+            "partido": "PSOE",
+            "cargo": "Concejala",
+            "email": "carla.rodriguez@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Manuel Ángel Garrido Abolafia",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": "manuel.garrido@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Maeve Sanjuán Duque",
+            "partido": "NC",
+            "cargo": "Concejala",
+            "email": "maeve.sanjuan@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": "alcaldia@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto"
+        },
+        {
+            "nombre": "Agencia de Desarrollo Local",
+            "partido": null,
+            "cargo": "Agencia de Desarrollo Local",
+            "email": "adl@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": "Alcaldía",
+            "email": "alcaldia@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Artesanía",
+            "partido": null,
+            "cargo": "Artesanía",
+            "email": "carlos.perez@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Ayuntamiento",
+            "partido": null,
+            "cargo": "Ayuntamiento",
+            "email": "alcaldia@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Cementerio",
+            "partido": null,
+            "cargo": "Cementerio",
+            "email": "raico.arrocha@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Comercio",
+            "partido": null,
+            "cargo": "Comercio",
+            "email": "omaira.perez@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Cuentas",
+            "partido": null,
+            "cargo": "Cuentas",
+            "email": "juan.guerra@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Cultura",
+            "partido": null,
+            "cargo": "Cultura",
+            "email": "alberto.perdomo@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Deportes",
+            "partido": null,
+            "cargo": "Deportes",
+            "email": "jesus.perez@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Educación",
+            "partido": null,
+            "cargo": "Educación",
+            "email": "omaira.perez@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Fiestas",
+            "partido": null,
+            "cargo": "Fiestas",
+            "email": "raico.arrocha@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Hacienda",
+            "partido": null,
+            "cargo": "Hacienda",
+            "email": "juan.guerra@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Juventud",
+            "partido": null,
+            "cargo": "Juventud",
+            "email": "carlos.perez@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Medio Ambiente",
+            "partido": null,
+            "cargo": "Medio Ambiente",
+            "email": "carlos.perez@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Mercado",
+            "partido": null,
+            "cargo": "Mercado",
+            "email": "carlos.perez@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Movimiento Vecinal",
+            "partido": null,
+            "cargo": "Movimiento Vecinal",
+            "email": "raico.arrocha@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Nuevas Tecnologías",
+            "partido": null,
+            "cargo": "Nuevas Tecnologías",
+            "email": "juan.guerra@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Obras",
+            "partido": null,
+            "cargo": "Obras",
+            "email": "saray.gonzalez@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Proyectos",
+            "partido": null,
+            "cargo": "Proyectos",
+            "email": "juan.cabrera@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Servicios Públicos",
+            "partido": null,
+            "cargo": "Servicios",
+            "email": "saray.gonzalez@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Servicios Sociales",
+            "partido": null,
+            "cargo": "Servicios Sociales",
+            "email": "yessica.perez@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Urbanismo",
+            "partido": null,
+            "cargo": "Urbanismo",
+            "email": "urbanismo@santacruzdelapalma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+        },
+        {
+            "nombre": "Asier Antona",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/noticias/eyJpdiI6Inc0T0JjbkVPeUdzRWtSQ3VWSFJibVE9PSIsInZhbHVlIjoic0toREJCMlhVNW81LzYyZm5lUlgzdz09IiwibWFjIjoiMjUyOWY3NzQ0YTU5ZWNmMWU1YWZhNWMxYmZhMjhkYzExMjBmMzU4OGEyNDcwMWE3MDliNWE3YjBhNTYyZjk4MSIsInRhZyI6IiJ9"
+        },
+        {
+            "nombre": "Yéssica Pérez",
+            "partido": null,
+            "cargo": "Tercera Teniente de Alcaldía",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/noticias/eyJpdiI6Inc0T0JjbkVPeUdzRWtSQ3VWSFJibVE9PSIsInZhbHVlIjoic0toREJCMlhVNW81LzYyZm5lUlgzdz09IiwibWFjIjoiMjUyOWY3NzQ0YTU5ZWNmMWU1YWZhNWMxYmZhMjhkYzExMjBmMzU4OGEyNDcwMWE3MDliNWE3YjBhNTYyZjk4MSIsInRhZyI6IiJ9"
+        },
+        {
+            "nombre": "Carlos García",
+            "partido": null,
+            "cargo": "Director insular de la Administración General del Estado en La Palma",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/noticias/eyJpdiI6Inc0T0JjbkVPeUdzRWtSQ3VWSFJibVE9PSIsInZhbHVlIjoic0toREJCMlhVNW81LzYyZm5lUlgzdz09IiwibWFjIjoiMjUyOWY3NzQ0YTU5ZWNmMWU1YWZhNWMxYmZhMjhkYzExMjBmMzU4OGEyNDcwMWE3MDliNWE3YjBhNTYyZjk4MSIsInRhZyI6IiJ9"
+        },
+        {
+            "nombre": "David del Pino Franquet",
+            "partido": null,
+            "cargo": "Director General de Seguridad de la Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad del Gobierno de Canarias",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/noticias/eyJpdiI6Inc0T0JjbkVPeUdzRWtSQ3VWSFJibVE9PSIsInZhbHVlIjoic0toREJCMlhVNW81LzYyZm5lUlgzdz09IiwibWFjIjoiMjUyOWY3NzQ0YTU5ZWNmMWU1YWZhNWMxYmZhMjhkYzExMjBmMzU4OGEyNDcwMWE3MDliNWE3YjBhNTYyZjk4MSIsInRhZyI6IiJ9"
+        },
+        {
+            "nombre": "Policía Local",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/noticias/eyJpdiI6Inc0T0JjbkVPeUdzRWtSQ3VWSFJibVE9PSIsInZhbHVlIjoic0toREJCMlhVNW81LzYyZm5lUlgzdz09IiwibWFjIjoiMjUyOWY3NzQ0YTU5ZWNmMWU1YWZhNWMxYmZhMjhkYzExMjBmMzU4OGEyNDcwMWE3MDliNWE3YjBhNTYyZjk4MSIsInRhZyI6IiJ9"
+        },
+        {
+            "nombre": "Policía Nacional",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/noticias/eyJpdiI6Inc0T0JjbkVPeUdzRWtSQ3VWSFJibVE9PSIsInZhbHVlIjoic0toREJCMlhVNW81LzYyZm5lUlgzdz09IiwibWFjIjoiMjUyOWY3NzQ0YTU5ZWNmMWU1YWZhNWMxYmZhMjhkYzExMjBmMzU4OGEyNDcwMWE3MDliNWE3YjBhNTYyZjk4MSIsInRhZyI6IiJ9"
+        },
+        {
+            "nombre": "Policía Canaria",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/noticias/eyJpdiI6Inc0T0JjbkVPeUdzRWtSQ3VWSFJibVE9PSIsInZhbHVlIjoic0toREJCMlhVNW81LzYyZm5lUlgzdz09IiwibWFjIjoiMjUyOWY3NzQ0YTU5ZWNmMWU1YWZhNWMxYmZhMjhkYzExMjBmMzU4OGEyNDcwMWE3MDliNWE3YjBhNTYyZjk4MSIsInRhZyI6IiJ9"
+        },
+        {
+            "nombre": "Guardia Civil",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/noticias/eyJpdiI6Inc0T0JjbkVPeUdzRWtSQ3VWSFJibVE9PSIsInZhbHVlIjoic0toREJCMlhVNW81LzYyZm5lUlgzdz09IiwibWFjIjoiMjUyOWY3NzQ0YTU5ZWNmMWU1YWZhNWMxYmZhMjhkYzExMjBmMzU4OGEyNDcwMWE3MDliNWE3YjBhNTYyZjk4MSIsInRhZyI6IiJ9"
+        },
+        {
+            "nombre": "Guardia Civil de Tráfico",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/noticias/eyJpdiI6Inc0T0JjbkVPeUdzRWtSQ3VWSFJibVE9PSIsInZhbHVlIjoic0toREJCMlhVNW81LzYyZm5lUlgzdz09IiwibWFjIjoiMjUyOWY3NzQ0YTU5ZWNmMWU1YWZhNWMxYmZhMjhkYzExMjBmMzU4OGEyNDcwMWE3MDliNWE3YjBhNTYyZjk4MSIsInRhZyI6IiJ9"
+        },
+        {
+            "nombre": "Protección Civil",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/noticias/eyJpdiI6Inc0T0JjbkVPeUdzRWtSQ3VWSFJibVE9PSIsInZhbHVlIjoic0toREJCMlhVNW81LzYyZm5lUlgzdz09IiwibWFjIjoiMjUyOWY3NzQ0YTU5ZWNmMWU1YWZhNWMxYmZhMjhkYzExMjBmMzU4OGEyNDcwMWE3MDliNWE3YjBhNTYyZjk4MSIsInRhZyI6IiJ9"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.santacruzdelapalma.es/web/sclapalma/contacto",
+        "https://www.santacruzdelapalma.es/web/sclapalma/noticias/eyJpdiI6Inc0T0JjbkVPeUdzRWtSQ3VWSFJibVE9PSIsInZhbHVlIjoic0toREJCMlhVNW81LzYyZm5lUlgzdz09IiwibWFjIjoiMjUyOWY3NzQ0YTU5ZWNmMWU1YWZhNWMxYmZhMjhkYzExMjBmMzU4OGEyNDcwMWE3MDliNWE3YjBhNTYyZjk4MSIsInRhZyI6IiJ9",
+        "https://www.santacruzdelapalma.es",
+        "https://www.santacruzdelapalma.es/web/sclapalma/organigrama",
+        "https://www.santacruzdelapalma.es/web/sclapalma/contacto/ver-todo"
+    ]
+}

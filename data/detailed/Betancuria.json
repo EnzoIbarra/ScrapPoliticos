@@ -1,0 +1,149 @@
+{
+    "municipality": "Betancuria",
+    "url": "https://www.aytobetancuria.org",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Enrique Cerdeña Méndez",
+            "partido": null,
+            "cargo": "Alcalde - Presidente",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aytobetancuria.org"
+        },
+        {
+            "nombre": "Esperanza González Méndez",
+            "partido": null,
+            "cargo": "Segunda Teniente de Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aytobetancuria.org"
+        },
+        {
+            "nombre": "Elsa Perera Padrón",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aytobetancuria.org"
+        },
+        {
+            "nombre": "José Cerdeña Rodríguez",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aytobetancuria.org"
+        },
+        {
+            "nombre": "Enrique Pérez Brito",
+            "partido": null,
+            "cargo": "Concejal - Oposición",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aytobetancuria.org"
+        },
+        {
+            "nombre": "Manuel Alejandro Méndez Dominguez",
+            "partido": null,
+            "cargo": "Concejal - Oposición",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aytobetancuria.org"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": "Contacto",
+            "email": "alcaldia@aytobetancuria.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytobetancuria.org/contacto"
+        },
+        {
+            "nombre": "Intervención",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytobetancuria.org/contacto"
+        },
+        {
+            "nombre": "Oficina Técnica",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytobetancuria.org/contacto"
+        },
+        {
+            "nombre": "Policía Local",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytobetancuria.org/contacto"
+        },
+        {
+            "nombre": "Recaudación",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytobetancuria.org/contacto"
+        },
+        {
+            "nombre": "Estadística",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytobetancuria.org/contacto"
+        },
+        {
+            "nombre": "Secretaría",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytobetancuria.org/contacto"
+        },
+        {
+            "nombre": "Servicios Sociales",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytobetancuria.org/contacto"
+        },
+        {
+            "nombre": "Cultura y Deportes",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytobetancuria.org/contacto"
+        },
+        {
+            "nombre": "Enrique Pérez Brito",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aytobetancuria.org/ayuntamiento/grupo-de-gobierno"
+        },
+        {
+            "nombre": "Manuel Alejandro Méndez Dominguez",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aytobetancuria.org/ayuntamiento/grupo-de-gobierno"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.aytobetancuria.org/ayuntamiento/grupo-de-gobierno",
+        "https://www.aytobetancuria.org",
+        "https://www.aytobetancuria.org/contacto",
+        "https://www.aytobetancuria.org/ayuntamiento"
+    ]
+}

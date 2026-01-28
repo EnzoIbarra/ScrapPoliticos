@@ -1,0 +1,34 @@
+{
+    "municipality": "Fuencaliente",
+    "url": "https://www.fuencalientedelapalma.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Ayuntamiento de Fuencaliente de La Palma",
+            "partido": null,
+            "cargo": "Ayuntamiento",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.fuencalientedelapalma.es"
+        },
+        {
+            "nombre": "Oficina de Atención Ciudadana",
+            "partido": null,
+            "cargo": "Atención Ciudadana",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.fuencalientedelapalma.es"
+        },
+        {
+            "nombre": "Turismo Fuencaliente",
+            "partido": null,
+            "cargo": "Turismo",
+            "email": "info@turismofuencalientedelapalma.com",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.fuencalientedelapalma.es"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.fuencalientedelapalma.es"
+    ]
+}

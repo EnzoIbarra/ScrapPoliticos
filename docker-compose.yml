@@ -1,0 +1,23 @@
+version: "3.8"
+
+services:
+  tor:
+    image: dockage/tor-privoxy:latest
+    ports:
+      - "8118:8118" # HTTP Proxy
+      - "9050:9050" # SOCKS5 Proxy
+    restart: always
+
+  scraper:
+    build: .
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./.env:/app/.env
+    environment:
+      - HTTP_PROXY=http://tor:8118
+      - HTTPS_PROXY=http://tor:8118
+      - PYTHONUNBUFFERED=1
+    depends_on:
+      - tor
+    restart: "no"

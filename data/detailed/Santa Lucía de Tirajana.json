@@ -1,0 +1,220 @@
+{
+    "municipality": "Santa Lucía de Tirajana",
+    "url": "https://www.santaluciagc.com",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Francisco José García López",
+            "partido": null,
+            "cargo": "Alcalde-Presidente",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Julio Jesús Ojeda Medina",
+            "partido": "PSOE",
+            "cargo": "1ª Tenencia de Alcaldía. Concejal-Delegado de Actividad Física y Deportes, y Juventud",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Yaiza Pérez Álvarez",
+            "partido": "Nueva Canarias",
+            "cargo": "2ª Tenencia de Alcaldía. Concejala-Delegada de Cultura, Identidad y Oficina de Atención Ciudadana",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Minerva Pérez Rodríguez",
+            "partido": "Nueva Canarias",
+            "cargo": "3ª Tenencia de Alcaldía. Concejala-Delegada de Obras Públicas y Promoción de la Autonomía Personal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Verónica Suárez Pulido",
+            "partido": "PSOE",
+            "cargo": "4ª Tenencia de Alcaldía. Concejala-Delegada de Comercio, Turismo, Litoral, Contratación y Asesoría Jurídica",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Sergio Vega Almeida",
+            "partido": "UxGC",
+            "cargo": "5ª Tenencia de Alcaldía. Concejal-Delegado de Desarrollo Local,  Promoción Económica, Emprendimiento y  Mercados",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Roberto Ramírez Vega",
+            "partido": null,
+            "cargo": "6ª Tenencia de Alcaldía. Concejal-Delegado de Hacienda, Gestión, Recaudación e Inspección Tributaria, Nuevas Tecnologías y Administración Electrónica, Régimen Interno y Patrimonio",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "José Miguel Vera Mayor",
+            "partido": "PSOE",
+            "cargo": "7ª Concejal-Delegado de Servicios Públicos, Parque Móvil, Parques, Jardines y Agua",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Ramón Leví Ramos Sánchez",
+            "partido": "Nueva Canarias",
+            "cargo": "8ª Tenencia de Alcaldía. Concejal-Delegado de Ordenación del Territorio, Gestión y Disciplina Urbanística, Actividades Clasificadas e Inocuas, Cementerios, Relación con el Instituto Tecnológico de Canarias (ITC), Movilidad, Transportes y Santa Lucía casco",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Ofelia Alvarado Santana",
+            "partido": "Nueva Canarias",
+            "cargo": "Concejala-Delegada de Solidaridad, Escuelas Infantiles y Recursos Humanos",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "José Mario Bordón Vera",
+            "partido": null,
+            "cargo": "Concejal-Delegado de Sostenibilidad, Educación, Bienestar Animal y Vivienda",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Arminda Santana Alonso",
+            "partido": null,
+            "cargo": "Concejala-Delegada de Participación Ciudadana, Festejos, Transparencia, Promoción de la Salud y Consumo",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Juan Francisco Guedes González",
+            "partido": null,
+            "cargo": "Concejal-Delegado de Sector Primario, Recogida de Residuos, Limpieza Viaria, Multas, Sanciones, Vados y Protección Civil",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Olga Cáceres Peñate",
+            "partido": "PSOE",
+            "cargo": "Concejala-Delegada de Igualdad, Diversidad, Estadística y Padrón Municipal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Saúl Antonio Goyes López",
+            "partido": "PSOE",
+            "cargo": "Concejal-Delegado de Atención Social y Comunitaria, Infancia, Familia y Subvenciones",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Santiago Miguel Rodríguez Hernández",
+            "partido": "Fortaleza",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Ana María Mayor Alemán",
+            "partido": "Fortaleza",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Pedro Sánchez Vega",
+            "partido": "Fortaleza",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Jassary Alvarado Valino",
+            "partido": "Fortaleza",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Alejandro Javier Betancor Mendoza",
+            "partido": "Fortaleza",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Sergio Méndez Santiago",
+            "partido": "VOX",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Juan Eusebio Ramos Talavera",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Antonio Abraham Gómez González",
+            "partido": "AGRUPACIÓN DE VECINOS – PARTIDO POPULAR (AV-PP)",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Juan José Ramos López",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Eva Lucía Araña López",
+            "partido": "NO ADSCRITOS",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "José Manuel Moreno Pérez",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaluciagc.com/ayuntamiento/corporacion"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.santaluciagc.com",
+        "https://www.santaluciagc.com/ayuntamiento",
+        "https://www.santaluciagc.com/ayuntamiento/corporacion"
+    ]
+}

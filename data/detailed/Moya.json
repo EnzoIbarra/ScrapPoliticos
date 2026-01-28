@@ -1,0 +1,293 @@
+{
+    "municipality": "Moya",
+    "url": "https://www.villademoya.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": "Saluda del alcalde",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Oficina de Atención Ciudadana",
+            "partido": null,
+            "cargo": "Atención Ciudadana",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Área de Política Social",
+            "partido": null,
+            "cargo": "Política Social",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Medioambiente",
+            "partido": null,
+            "cargo": "Medioambiente",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Área de Agricultura",
+            "partido": null,
+            "cargo": "Agricultura",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Área de Consumo y Comercio",
+            "partido": null,
+            "cargo": "Consumo y Comercio",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Área de Ganadería",
+            "partido": null,
+            "cargo": "Ganadería",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Área de Deportes",
+            "partido": null,
+            "cargo": "Deportes",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Área de Cultura",
+            "partido": null,
+            "cargo": "Cultura",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Área de Educación",
+            "partido": null,
+            "cargo": "Educación",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Área: Espacio Joven",
+            "partido": null,
+            "cargo": "Juventud",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Área de Turismo",
+            "partido": null,
+            "cargo": "Turismo",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Área de Festejos",
+            "partido": null,
+            "cargo": "Festejos",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Área de Urbanismo",
+            "partido": null,
+            "cargo": "Urbanismo",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Departamento Informática y Telecomunicaciones",
+            "partido": null,
+            "cargo": "Informática y telecomunicaciones",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es"
+        },
+        {
+            "nombre": "Raúl Afonso Suárez",
+            "partido": null,
+            "cargo": "Alcalde de la Villa de Moya",
+            "email": "alcaldia@villademoya.es",
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/saluda-del-alcalde"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": null,
+            "email": "alcaldia@villademoya.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es/ayuntamiento/saluda-del-alcalde"
+        },
+        {
+            "nombre": "Departamento Informática y Telecomunicaciones",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es/ayuntamiento/saluda-del-alcalde"
+        },
+        {
+            "nombre": "Área de la Mujer",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es/ayuntamiento/saluda-del-alcalde"
+        },
+        {
+            "nombre": "Atención Ciudadana",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es/ayuntamiento/saluda-del-alcalde"
+        },
+        {
+            "nombre": "Raúl Afonso Suárez",
+            "partido": "PARTIDO POPULAR VILLA DE MOYA",
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Octavio Pedro Suárez García",
+            "partido": "PARTIDO POPULAR VILLA DE MOYA",
+            "cargo": "Primer teniente de alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Ana Belén Rivero Medina",
+            "partido": "PARTIDO POPULAR VILLA DE MOYA",
+            "cargo": "Segunda teniente de alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Lucia Rosa Rodríguez Batista",
+            "partido": "PARTIDO POPULAR VILLA DE MOYA",
+            "cargo": "Tercera teniente de alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Bernabé Martín Guerra Ojeda",
+            "partido": "PARTIDO POPULAR VILLA DE MOYA",
+            "cargo": "Cuarto teniente de alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Lidia Esther Rodríguez Díaz",
+            "partido": "PARTIDO POPULAR VILLA DE MOYA",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Santiago Santana de la Fe",
+            "partido": "PARTIDO POPULAR VILLA DE MOYA",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Gilberto Sosa Betancor",
+            "partido": "PARTIDO POPULAR VILLA DE MOYA",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Concepción Hernández Rodríguez",
+            "partido": "PARTIDO POPULAR VILLA DE MOYA",
+            "cargo": "Concejal sin delegaciones",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Zaira Maria Quintana Suárez",
+            "partido": "PARTIDO POPULAR VILLA DE MOYA",
+            "cargo": "Concejal sin delegaciones",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Daniel Alejandro Ponce Fleitas",
+            "partido": "MIXTO",
+            "cargo": "Portavoz del Grupo Mixto",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "María Rosa García García",
+            "partido": "MIXTO",
+            "cargo": "Concejal sin delegaciones",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Elisa Isabel Santana de la Fe",
+            "partido": "MIXTO",
+            "cargo": "Portavoz suplente del Grupo Mixto",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Raúl Afonso",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.villademoya.es/cursos-y-talleres/210-la-villa-de-moya-celebra-un-nuevo-pleno-juvenil-"
+        },
+        {
+            "nombre": "Área de Juventud",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademoya.es/cursos-y-talleres/210-la-villa-de-moya-celebra-un-nuevo-pleno-juvenil-"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.villademoya.es",
+        "https://www.villademoya.es/cursos-y-talleres/210-la-villa-de-moya-celebra-un-nuevo-pleno-juvenil-",
+        "https://www.villademoya.es/ayuntamiento/corporacion",
+        "https://www.villademoya.es/ayuntamiento/saluda-del-alcalde"
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "municipality": "Tuineje",
+    "url": "https://www.ayuntamientotuineje.com",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "CANDELARIA UMPIERREZ RAMOS",
+            "partido": "CCA",
+            "cargo": "ALCALDESA – PRESIDENTA",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientotuineje.com/equipo-de-gobierno"
+        },
+        {
+            "nombre": "JOSE DAVID HERRERA GINORY",
+            "partido": "CCA",
+            "cargo": "CONCEJAL DE FESTEJOS, JUVENTUD, EDUCACION, INFANCIA, SEGURIDAD Y EMERGENCIA, Y PROTECCION CIVIL",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientotuineje.com/equipo-de-gobierno"
+        },
+        {
+            "nombre": "JONATHAN PEÑA BARRETO",
+            "partido": "CCA",
+            "cargo": "CONCEJAL DE PARQUES Y JARDINES, SECTOR PRIMARIO, PARQUE MOVIL, POLICIA LOCAL, PATRIMONIO Y TRAFICO Y TRANSPORTES",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientotuineje.com/equipo-de-gobierno"
+        },
+        {
+            "nombre": "EVELYN AVILA HERNANDEZ",
+            "partido": "CCA",
+            "cargo": "CONCEJALA DE PLANEAMIENTO, DISCIPLINA URBANISTICA, MEDIO AMBIENTE Y MINERIA, Y URBANISMO",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientotuineje.com/equipo-de-gobierno"
+        },
+        {
+            "nombre": "PEDRO JESUS RODRIGUEZ DE LEON",
+            "partido": "CCA",
+            "cargo": "CONCEJAL DE SERVICIOS SOCIALES, EMPLEO, DESARROLLO LOCAL, IGUALDAD, SOLIDARIDAD Y PARTICIPACION CIUDADANA Y ACCESIBILIDAD",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientotuineje.com/equipo-de-gobierno"
+        },
+        {
+            "nombre": "MARIA DEL CARMEN RODRIGUEZ GOPAR",
+            "partido": "CCA",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientotuineje.com/equipo-de-gobierno"
+        },
+        {
+            "nombre": "DULCE MARIA GARCIA ALONSO",
+            "partido": "PSOE",
+            "cargo": "CONCEJAL DE DEPORTES, CULTURA, TURISMO Y NUEVAS TECNOLOGÍAS",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientotuineje.com/equipo-de-gobierno"
+        },
+        {
+            "nombre": "MIGUEL DARIO ANDUJAR DIAZ",
+            "partido": "PSOE",
+            "cargo": "CONCEJAL DE OBRAS, SERVICIOS, VIVIENDA Y CEMENTERIO",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientotuineje.com/equipo-de-gobierno"
+        },
+        {
+            "nombre": "MARIA NOELIA GARCIA RODRIGUEZ",
+            "partido": "PSOE",
+            "cargo": "CONCEJALA DE ECONOMÍA Y HACIENDA, MAYORES, SANIDAD Y PLAYAS",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientotuineje.com/equipo-de-gobierno"
+        },
+        {
+            "nombre": "Candelaria Umpiérrez Ramos",
+            "partido": null,
+            "cargo": "Alcaldesa de Tuineje",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientotuineje.com/escribir-a-la-alcaldesa"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": null,
+            "email": "alcaldia@tuineje.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientotuineje.com/contacto"
+        },
+        {
+            "nombre": "Agricultura",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientotuineje.com/contacto"
+        },
+        {
+            "nombre": "Cultura",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientotuineje.com/contacto"
+        },
+        {
+            "nombre": "Deportes",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientotuineje.com/contacto"
+        },
+        {
+            "nombre": "Educación",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientotuineje.com/contacto"
+        },
+        {
+            "nombre": "Festejos",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientotuineje.com/contacto"
+        },
+        {
+            "nombre": "Intervención",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientotuineje.com/contacto"
+        },
+        {
+            "nombre": "Juzgado",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientotuineje.com/contacto"
+        },
+        {
+            "nombre": "Oficina Técnica",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientotuineje.com/contacto"
+        },
+        {
+            "nombre": "Policía Local",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientotuineje.com/contacto"
+        },
+        {
+            "nombre": "Servicios Sociales",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientotuineje.com/contacto"
+        },
+        {
+            "nombre": "Tercera Edad",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientotuineje.com/contacto"
+        },
+        {
+            "nombre": "Tesorería",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientotuineje.com/contacto"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.ayuntamientotuineje.com/contacto",
+        "https://www.ayuntamientotuineje.com/plenos-y-actas-municipales",
+        "https://www.ayuntamientotuineje.com",
+        "https://www.ayuntamientotuineje.com/equipo-de-gobierno",
+        "https://www.ayuntamientotuineje.com/escribir-a-la-alcaldesa"
+    ]
+}

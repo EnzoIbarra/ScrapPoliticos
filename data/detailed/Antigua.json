@@ -1,0 +1,58 @@
+{
+    "municipality": "Antigua",
+    "url": "https://www.ayto-antigua.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Ayuntamiento de Antigua",
+            "partido": null,
+            "cargo": "Ayuntamiento",
+            "email": "atencionalciudadano@ayto-antigua.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayto-antigua.es"
+        },
+        {
+            "nombre": "Oficina de Atención Ciudadana",
+            "partido": null,
+            "cargo": "Atención al ciudadano",
+            "email": "atencionalciudadano@ayto-antigua.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayto-antigua.es"
+        },
+        {
+            "nombre": "Matías Fidel Peña García",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayto-antigua.es"
+        },
+        {
+            "nombre": "Juan Pedro Galván Lasso",
+            "partido": null,
+            "cargo": "1° Teniente de Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayto-antigua.es"
+        },
+        {
+            "nombre": "Alcaldía",
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayto-antigua.es/ayuntamiento"
+        },
+        {
+            "nombre": "Ayuntamiento de Antigua",
+            "cargo": "Responsable del tratamiento",
+            "email": "atencionalciudadano@ayto-antigua.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayto-antigua.es/ayuntamiento"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.ayto-antigua.es/contacto",
+        "https://www.ayto-antigua.es",
+        "https://www.ayto-antigua.es/ayuntamiento"
+    ]
+}

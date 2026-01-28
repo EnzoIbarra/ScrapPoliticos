@@ -1,0 +1,222 @@
+{
+    "municipality": "Arona",
+    "url": "https://www.arona.org",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Fátima Lemes Reverón",
+            "partido": "Partido Popular",
+            "cargo": "Alcaldesa",
+            "email": "portalweb@arona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arona.org/Ayuntamiento-de-Arona"
+        },
+        {
+            "nombre": "Área ADESA",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Archivo Municipal",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Atención Ciudadana",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Ayuntamiento de Arona",
+            "partido": null,
+            "cargo": null,
+            "email": "contact_mail",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Contratación",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Coronavirus",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Cultura",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Deportes",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Economía y Hacienda",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Educación",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Fiestas",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Juventud",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Medio Ambiente",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Obras e Infraestructuras",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Participación Ciudadana",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Patrimonio Histórico",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Promoción Económica y Empleo",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Sanidad y Salud Pública",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Seguridad y Movilidad Urbana",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Servicios Sociales",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Transparencia",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Transportes y Servicios",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Turismo",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Urbanismo",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        },
+        {
+            "nombre": "Vivienda",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.arona.org/Tu-Ayuntamiento/Prensa/Noticias/ctl/Ver/mid/422?id=94257",
+        "https://www.arona.org/Tu-Ayuntamiento",
+        "https://www.arona.org/Proyectos-destacados-del-Gobierno-Municipal",
+        "https://www.arona.org/Ayuntamiento-de-Arona",
+        "https://www.arona.org"
+    ]
+}

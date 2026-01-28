@@ -1,0 +1,18 @@
+{
+    "municipality": "Villa de Mazo",
+    "url": "https://www.villademazo.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Ayuntamiento Villa de Mazo",
+            "partido": null,
+            "cargo": "Ayuntamiento",
+            "email": "ayuntamiento@villademazo.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.villademazo.es"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.villademazo.es"
+    ]
+}

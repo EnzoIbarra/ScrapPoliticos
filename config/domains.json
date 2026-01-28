@@ -1,0 +1,354 @@
+[
+    {
+        "municipality": "Agaete",
+        "url": "www.agaete.es"
+    },
+    {
+        "municipality": "Agüimes",
+        "url": "www.aguimes.es"
+    },
+    {
+        "municipality": "Artenara",
+        "url": "www.artenara.es"
+    },
+    {
+        "municipality": "Arucas",
+        "url": "www.arucas.org"
+    },
+    {
+        "municipality": "Firgas",
+        "url": "www.firgas.es"
+    },
+    {
+        "municipality": "Gáldar",
+        "url": "www.galdar.es"
+    },
+    {
+        "municipality": "Ingenio",
+        "url": "www.ingenio.es"
+    },
+    {
+        "municipality": "La Aldea de San Nicolás",
+        "url": "www.laaldeadesannicolas.es"
+    },
+    {
+        "municipality": "Las Palmas de Gran Canaria",
+        "url": "www.laspalmasgc.es"
+    },
+    {
+        "municipality": "Mogán",
+        "url": "www.mogan.es"
+    },
+    {
+        "municipality": "Moya",
+        "url": "www.villademoya.es"
+    },
+    {
+        "municipality": "San Bartolomé de Tirajana",
+        "url": "www.maspalomas.com"
+    },
+    {
+        "municipality": "Santa Brígida",
+        "url": "www.santabrigida.es"
+    },
+    {
+        "municipality": "Santa Lucía de Tirajana",
+        "url": "www.santaluciagc.com"
+    },
+    {
+        "municipality": "Santa María de Guía",
+        "url": "www.santamariadeguia.es"
+    },
+    {
+        "municipality": "Tejeda",
+        "url": "www.tejeda.es"
+    },
+    {
+        "municipality": "Telde",
+        "url": "www.telde.es"
+    },
+    {
+        "municipality": "Teror",
+        "url": "www.teror.es"
+    },
+    {
+        "municipality": "Valsequillo de Gran Canaria",
+        "url": "www.valsequillogc.es"
+    },
+    {
+        "municipality": "Valleseco",
+        "url": "www.valleseco.es"
+    },
+    {
+        "municipality": "Vega de San Mateo",
+        "url": "www.vegasanmateo.es"
+    },
+    {
+        "municipality": "Arrecife",
+        "url": "www.arrecife.es"
+    },
+    {
+        "municipality": "Haría",
+        "url": "www.ayuntamientodeharia.com"
+    },
+    {
+        "municipality": "San Bartolomé",
+        "url": "www.sanbartolome.es"
+    },
+    {
+        "municipality": "Teguise",
+        "url": "www.teguise.es"
+    },
+    {
+        "municipality": "Tías",
+        "url": "www.ayuntamientodetias.es"
+    },
+    {
+        "municipality": "Tinajo",
+        "url": "www.tinajo.es"
+    },
+    {
+        "municipality": "Yaiza",
+        "url": "www.yaiza.org"
+    },
+    {
+        "municipality": "Antigua",
+        "url": "www.ayto-antigua.es"
+    },
+    {
+        "municipality": "Betancuria",
+        "url": "www.aytobetancuria.org"
+    },
+    {
+        "municipality": "La Oliva",
+        "url": "www.laoliva.es"
+    },
+    {
+        "municipality": "Pájara",
+        "url": "www.pajara.es"
+    },
+    {
+        "municipality": "Puerto del Rosario",
+        "url": "www.puertodelrosario.org"
+    },
+    {
+        "municipality": "Tuineje",
+        "url": "www.ayuntamientotuineje.com"
+    },
+    {
+        "municipality": "Adeje",
+        "url": "www.adeje.es"
+    },
+    {
+        "municipality": "Arafo",
+        "url": "www.arafo.es"
+    },
+    {
+        "municipality": "Arico",
+        "url": "www.ayuntamientodearico.com"
+    },
+    {
+        "municipality": "Arona",
+        "url": "www.arona.org"
+    },
+    {
+        "municipality": "Buenavista del Norte",
+        "url": "www.buenavistadelnorte.com"
+    },
+    {
+        "municipality": "Candelaria",
+        "url": "www.candelaria.es"
+    },
+    {
+        "municipality": "El Rosario",
+        "url": "www.ayuntamientoelrosario.org"
+    },
+    {
+        "municipality": "El Sauzal",
+        "url": "www.elsauzal.es"
+    },
+    {
+        "municipality": "El Tanque",
+        "url": "www.eltanque.es"
+    },
+    {
+        "municipality": "Fasnia",
+        "url": "www.ayuntamientodefasnia.es"
+    },
+    {
+        "municipality": "Garachico",
+        "url": "www.garachico.es"
+    },
+    {
+        "municipality": "Granadilla de Abona",
+        "url": "www.granadilladeabona.org"
+    },
+    {
+        "municipality": "Guía de Isora",
+        "url": "www.guiadeisora.org"
+    },
+    {
+        "municipality": "Güímar",
+        "url": "www.guimar.es"
+    },
+    {
+        "municipality": "Icod de los Vinos",
+        "url": "www.icoddelosvinos.es"
+    },
+    {
+        "municipality": "La Guancha",
+        "url": "www.laguancha.es"
+    },
+    {
+        "municipality": "La Matanza de Acentejo",
+        "url": "www.matanceros.com"
+    },
+    {
+        "municipality": "La Orotava",
+        "url": "www.villadelaorotava.org"
+    },
+    {
+        "municipality": "La Victoria de Acentejo",
+        "url": "www.lavictoriadeacentejo.es"
+    },
+    {
+        "municipality": "La Laguna (San Cristóbal)",
+        "url": "www.aytolalaguna.org"
+    },
+    {
+        "municipality": "Los Realejos",
+        "url": "www.ayto-realejos.es"
+    },
+    {
+        "municipality": "Los Silos",
+        "url": "www.lossilos.es"
+    },
+    {
+        "municipality": "Puerto de la Cruz",
+        "url": "www.puertodelacruz.es"
+    },
+    {
+        "municipality": "San Juan de la Rambla",
+        "url": "www.aytosanjuandelarambla.es"
+    },
+    {
+        "municipality": "San Miguel de Abona",
+        "url": "www.sanmigueldeabona.es"
+    },
+    {
+        "municipality": "Santa Cruz de Tenerife",
+        "url": "www.santacruzdetenerife.es"
+    },
+    {
+        "municipality": "Santa Úrsula",
+        "url": "www.santaursula.es"
+    },
+    {
+        "municipality": "Santiago del Teide",
+        "url": "www.santiagodelteide.org"
+    },
+    {
+        "municipality": "Tacoronte",
+        "url": "www.tacoronte.es"
+    },
+    {
+        "municipality": "Tegueste",
+        "url": "www.tegueste.org"
+    },
+    {
+        "municipality": "Vilaflor de Chasna",
+        "url": "www.vilaflordechasna.es"
+    },
+    {
+        "municipality": "Agulo",
+        "url": "www.agulo.org"
+    },
+    {
+        "municipality": "Alajeró",
+        "url": "www.ayuntamientoalajero.es"
+    },
+    {
+        "municipality": "Hermigua",
+        "url": "www.hermigua.es"
+    },
+    {
+        "municipality": "San Sebastián de la Gomera",
+        "url": "www.sansebastiangomera.org"
+    },
+    {
+        "municipality": "Valle Gran Rey",
+        "url": "www.vallegranrey.es"
+    },
+    {
+        "municipality": "Vallehermoso",
+        "url": "aytovallehermoso.net"
+    },
+    {
+        "municipality": "El Pinar de El Hierro",
+        "url": "www.aytoelpinar.org"
+    },
+    {
+        "municipality": "La Frontera",
+        "url": "www.aytofrontera.org"
+    },
+    {
+        "municipality": "Valverde",
+        "url": "www.aytovalverde.org"
+    },
+    {
+        "municipality": "Barlovento",
+        "url": "www.barlovento.es"
+    },
+    {
+        "municipality": "Breña Alta",
+        "url": "www.balta.org"
+    },
+    {
+        "municipality": "Breña Baja",
+        "url": "www.bbaja.es"
+    },
+    {
+        "municipality": "Fuencaliente",
+        "url": "www.fuencalientedelapalma.es"
+    },
+    {
+        "municipality": "Garafía",
+        "url": "www.garafia.es"
+    },
+    {
+        "municipality": "Los Llanos de Aridane",
+        "url": "www.aridane.org"
+    },
+    {
+        "municipality": "El Paso",
+        "url": "www.elpaso.es"
+    },
+    {
+        "municipality": "Puntagorda",
+        "url": "www.puntagorda.es"
+    },
+    {
+        "municipality": "Puntallana",
+        "url": "www.puntallana.es"
+    },
+    {
+        "municipality": "San Andrés y Sauces",
+        "url": "www.sanandresysauces.es"
+    },
+    {
+        "municipality": "Santa Cruz de La Palma",
+        "url": "www.santacruzdelapalma.es"
+    },
+    {
+        "municipality": "Tazacorte",
+        "url": "www.tazacorte.es"
+    },
+    {
+        "municipality": "Tijarafe",
+        "url": "www.tijarafe.net"
+    },
+    {
+        "municipality": "Villa de Mazo",
+        "url": "www.villademazo.es"
+    }
+]

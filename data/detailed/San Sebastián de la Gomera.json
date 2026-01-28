@@ -1,0 +1,134 @@
+{
+    "municipality": "San Sebastián de la Gomera",
+    "url": "https://www.sansebastiangomera.org",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Francisco José Fernández Reyes",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.sansebastiangomera.org"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sansebastiangomera.org"
+        },
+        {
+            "nombre": "Comercio",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sansebastiangomera.org"
+        },
+        {
+            "nombre": "Deportes y Juventud",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sansebastiangomera.org"
+        },
+        {
+            "nombre": "Educación",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sansebastiangomera.org"
+        },
+        {
+            "nombre": "Fiestas y cultura",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sansebastiangomera.org"
+        },
+        {
+            "nombre": "Hacienda y gestión económica",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sansebastiangomera.org"
+        },
+        {
+            "nombre": "Medio Ambiente",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sansebastiangomera.org"
+        },
+        {
+            "nombre": "Participación Ciudadana",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sansebastiangomera.org"
+        },
+        {
+            "nombre": "Servicios Sociales",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sansebastiangomera.org"
+        },
+        {
+            "nombre": "Obras y Servicios",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sansebastiangomera.org"
+        },
+        {
+            "nombre": "Tráfico y Vía Pública",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sansebastiangomera.org"
+        },
+        {
+            "nombre": "Francisco José Fernández Reyes",
+            "partido": null,
+            "cargo": "Premio Méritos Humanos San Sebastián de La Gomera 2026",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.sansebastiangomera.org/category/noticias/ "
+        },
+        {
+            "nombre": "María Leonor Márquez Sánchez",
+            "partido": null,
+            "cargo": "Romera Mayor de las Fiestas Patronales de San Sebastián de La Gomera 2026",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.sansebastiangomera.org/category/noticias/ "
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": "Alcaldesa",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sansebastiangomera.org/category/noticias/ "
+        }
+    ],
+    "pages_scanned": [
+        "https://www.sansebastiangomera.org",
+        "https://www.sansebastiangomera.org/category/noticias/ ",
+        "https://www.sansebastiangomera.org/contactar-con-la-corporacion",
+        "https://www.sansebastiangomera.org/el-ayuntamiento-de-san-sebastian-de-la-gomera-abre-el-plazo-para-participar-en-el-carnaval-2026",
+        "https://www.sansebastiangomera.org/?page_id=78"
+    ]
+}

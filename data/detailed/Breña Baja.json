@@ -1,0 +1,53 @@
+{
+    "municipality": "Breña Baja",
+    "url": "https://www.bbaja.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Comisión de Fiesta de San José",
+            "partido": null,
+            "cargo": "Organización",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.bbaja.es"
+        },
+        {
+            "nombre": "Ayuntamiento de Breña Baja",
+            "partido": null,
+            "cargo": "Organización",
+            "email": "bbaja@bbaja.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.bbaja.es"
+        },
+        {
+            "nombre": "Comisión de Fiesta de San José",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.bbaja.es/es"
+        },
+        {
+            "nombre": "Ayuntamientos de Breña Baja, Breña Alta y Santa Cruz de La Palma",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.bbaja.es/es"
+        },
+        {
+            "nombre": "bbaja@bbaja.es",
+            "partido": null,
+            "cargo": null,
+            "email": "bbaja@bbaja.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.bbaja.es/es"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.bbaja.es",
+        "https://www.bbaja.es/es/index.php/ayuntamiento/plenos",
+        "https://www.bbaja.es/es/index.php/ayuntamiento/contacto",
+        "https://www.bbaja.es/es"
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "municipality": "San Miguel de Abona",
+    "url": "https://www.sanmigueldeabona.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Arturo González",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es"
+        },
+        {
+            "nombre": "Lot García",
+            "partido": null,
+            "cargo": "Primer teniente de alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es"
+        },
+        {
+            "nombre": "Julián Martín",
+            "partido": null,
+            "cargo": "Concejal de Deportes",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es"
+        },
+        {
+            "nombre": "Arturo E. González Hernández",
+            "partido": "CC",
+            "cargo": "Alcalde-Presidente",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/saluda-del-alcalde-3"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": "Saluda del Alcalde",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sanmigueldeabona.es/saluda-del-alcalde-3"
+        },
+        {
+            "nombre": "Atención Ciudadana",
+            "partido": null,
+            "cargo": "Oficina de Atención Ciudadana",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sanmigueldeabona.es/saluda-del-alcalde-3"
+        },
+        {
+            "nombre": "Arturo E. González Hernández",
+            "partido": "CC",
+            "cargo": "Alcalde – Presidente",
+            "email": "alcaldia@sanmigueldeabona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Lot García Delgado",
+            "partido": "CC",
+            "cargo": "Primer Teniente de Alcalde",
+            "email": "lotgarcia@sanmigueldeabona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Sergio Martín Negrín",
+            "partido": "CC",
+            "cargo": "Segundo Teniente de Alcalde",
+            "email": "sergio@sanmigueldeabona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Nuria Marrero Donate",
+            "partido": "CC",
+            "cargo": "Tercera Teniente de Alcalde",
+            "email": "nuriamarrero@sanmigueldeabona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Julián Jesús Martín Martín",
+            "partido": "CC",
+            "cargo": "Cuarto Teniente de Alcalde",
+            "email": "julianmartin@sanmigueldeabona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Antonio Manuel Rodríguez Gómez",
+            "partido": "CC",
+            "cargo": "Quinto Teniente de Alcalde",
+            "email": "antoniomanuelrodriguez@sanmigueldeabona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Rafael Alejandro Baute Santana",
+            "partido": "CC",
+            "cargo": "Sexto Teniente de Alcalde",
+            "email": "rafaelbaute@sanmigueldeabona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "María Pilar Méndez Martín",
+            "partido": null,
+            "cargo": null,
+            "email": "pilarmendez@sanmigueldeabona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Yurena María Melián Encinoso",
+            "partido": null,
+            "cargo": null,
+            "email": "yurenamelian@sanmigueldeabona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Rosa Albina Ramos Cabello",
+            "partido": "CC",
+            "cargo": null,
+            "email": "rosaalbinaramos@sanmigueldeabona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Laura Remedios Paiz Acosta",
+            "partido": "CC",
+            "cargo": null,
+            "email": "laurapaiz@sanmigueldeabona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Juan Valentín Padilla",
+            "partido": "CC",
+            "cargo": null,
+            "email": "juanvalentin@sanmigueldeabona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Zenaida María Cabrera Dorta",
+            "partido": "CC",
+            "cargo": null,
+            "email": "zenaidacabrera@sanmigueldeabona.org",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "José Carlos Rodríguez Rodríguez",
+            "partido": "PSOE",
+            "cargo": null,
+            "email": "psoesanmiguel@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Marta Carballo García",
+            "partido": "PSOE",
+            "cargo": null,
+            "email": "psoesanmiguel@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Carol Alejandra Correa Correa",
+            "partido": "PSOE",
+            "cargo": null,
+            "email": "psoesanmiguel@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Erika Sánchez Quintero",
+            "partido": "PSOE",
+            "cargo": null,
+            "email": "psoesanmiguel@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Valentín E. González Évora",
+            "partido": "PP",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Ana María Lemus Marrero",
+            "partido": "PP",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Fausto Félix Pons Medina",
+            "partido": "PP",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Alexis Reverón Donate",
+            "partido": "VOX",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.sanmigueldeabona.es/corporacion-municipal"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.sanmigueldeabona.es/ayuntamiento",
+        "https://www.sanmigueldeabona.es/saluda-del-alcalde-3",
+        "https://www.sanmigueldeabona.es/corporacion-municipal",
+        "https://www.sanmigueldeabona.es"
+    ]
+}

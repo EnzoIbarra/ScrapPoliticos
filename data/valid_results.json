@@ -1,0 +1,152 @@
+[
+    {
+        "municipality": "Las Palmas de Gran Canaria",
+        "url": "https://www.laspalmasgc.es",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Carolina Darias",
+                "partido": null,
+                "cargo": "Alcaldesa de las palmas de gran canaria",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.laspalmasgc.es"
+            },
+            {
+                "nombre": "Concejal de Presidencia, Hacienda, Modernización y Recursos Humanos",
+                "partido": null,
+                "cargo": "Concejal",
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.laspalmasgc.es"
+            },
+            {
+                "nombre": "Concejalía de Seguridad, Convivencia y Cultura",
+                "partido": null,
+                "cargo": "Concejalía",
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.laspalmasgc.es"
+            },
+            {
+                "nombre": "Carla Campo",
+                "partido": null,
+                "cargo": "Concejala de juventud y deporte",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.laspalmasgc.es"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Santa Lucía de Tirajana",
+        "url": "https://www.santaluciagc.com",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Ayuntamiento Santa Lucía de Tirajana",
+                "cargo": "Ayuntamiento",
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.santaluciagc.com"
+            },
+            {
+                "nombre": "Alcaldía",
+                "cargo": "Alcaldía",
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.santaluciagc.com"
+            },
+            {
+                "nombre": "Oficina de Atención Ciudadana",
+                "cargo": "Atención ciudadana",
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.santaluciagc.com"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Garachico",
+        "url": "https://www.garachico.es",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Ayuntamiento de Garachico",
+                "partido": null,
+                "cargo": "Órgano gestor",
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.garachico.es"
+            },
+            {
+                "nombre": "Ayuntamiento de Garachico",
+                "partido": null,
+                "cargo": "Oficina contable",
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.garachico.es"
+            },
+            {
+                "nombre": "Ayuntamiento de Garachico",
+                "partido": null,
+                "cargo": "Unidad tramitadora",
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.garachico.es"
+            },
+            {
+                "nombre": "Ayuntamiento de Garachico",
+                "partido": null,
+                "cargo": "Órgano gestor",
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.garachico.es"
+            },
+            {
+                "nombre": "Hospital Residencia de Ancianos Nuestra Señora de la Concepción de Garachico",
+                "partido": null,
+                "cargo": "Oficina contable",
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.garachico.es"
+            },
+            {
+                "nombre": "Ayuntamiento de Garachico",
+                "partido": null,
+                "cargo": "Unidad tramitadora",
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.garachico.es"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Icod de los Vinos",
+        "url": "https://www.icoddelosvinos.es",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Javier Sierra Jorge",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.icoddelosvinos.es"
+            },
+            {
+                "nombre": "Atención ciudadana",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.icoddelosvinos.es"
+            }
+        ],
+        "error": null
+    }
+]

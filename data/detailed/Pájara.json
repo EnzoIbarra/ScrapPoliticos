@@ -1,0 +1,78 @@
+{
+    "municipality": "Pájara",
+    "url": "https://www.pajara.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Alcalde",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.pajara.es/ayuntamiento/ayuntamiento/actas-y-plenos"
+        },
+        {
+            "nombre": "Concejales del Grupo de Gobierno",
+            "partido": null,
+            "cargo": "Concejales",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.pajara.es/ayuntamiento/ayuntamiento/actas-y-plenos"
+        },
+        {
+            "nombre": "Concejales del Grupo de la Oposición",
+            "partido": null,
+            "cargo": "Concejales",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.pajara.es/ayuntamiento/ayuntamiento/actas-y-plenos"
+        },
+        {
+            "nombre": "Gestión Tributaria – Recaudación del Ayuntamiento de Pájara",
+            "partido": null,
+            "cargo": null,
+            "email": "contribuyentes@pajara.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.pajara.es/prueba/recaudacion"
+        },
+        {
+            "nombre": "Oficina Pájara",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.pajara.es/prueba/recaudacion"
+        },
+        {
+            "nombre": "Oficina Morro",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.pajara.es/prueba/recaudacion"
+        },
+        {
+            "nombre": "recaudacion.pajara@sdci.es",
+            "partido": null,
+            "cargo": null,
+            "email": "recaudacion.pajara@sdci.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.pajara.es/prueba/recaudacion"
+        },
+        {
+            "nombre": "Ayuntamiento de Pájara",
+            "partido": null,
+            "cargo": "Contacto",
+            "email": "info@pajara.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.pajara.es/contacto"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.pajara.es/ayuntamiento",
+        "https://www.pajara.es/ayuntamiento/ayuntamiento/actas-y-plenos",
+        "https://www.pajara.es/prueba/recaudacion",
+        "https://www.pajara.es/contacto",
+        "https://www.pajara.es"
+    ]
+}

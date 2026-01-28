@@ -1,0 +1,142 @@
+{
+    "municipality": "Santa Úrsula",
+    "url": "https://www.santaursula.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Juan Manuel Acosta Méndez",
+            "partido": "AGRUPACIÓN INDEPENDIENTE DE SANTA ÚRSULA (AISU)",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "José Manuel Amador Gutiérrez",
+            "partido": "AGRUPACIÓN INDEPENDIENTE DE SANTA ÚRSULA (AISU)",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "María Efigenia González Díaz",
+            "partido": "AGRUPACIÓN INDEPENDIENTE DE SANTA ÚRSULA (AISU)",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Antonio Damián González González",
+            "partido": "AGRUPACIÓN INDEPENDIENTE DE SANTA ÚRSULA (AISU)",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "José Feliciano López Hernández",
+            "partido": "AGRUPACIÓN INDEPENDIENTE DE SANTA ÚRSULA (AISU)",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Salomé Fernández Padrón",
+            "partido": "AGRUPACIÓN INDEPENDIENTE DE SANTA ÚRSULA (AISU)",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Elisa Hernández Martín",
+            "partido": "AGRUPACIÓN INDEPENDIENTE DE SANTA ÚRSULA (AISU)",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Ramón García Díaz",
+            "partido": "AGRUPACIÓN INDEPENDIENTE DE SANTA ÚRSULA (AISU)",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Samuel Hernández Rodríguez",
+            "partido": "AGRUPACIÓN INDEPENDIENTE DE SANTA ÚRSULA (AISU)",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Rosario Martín García",
+            "partido": "AGRUPACIÓN INDEPENDIENTE DE SANTA ÚRSULA (AISU)",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Marina Andrea Lorenzo de León",
+            "partido": "AGRUPACIÓN INDEPENDIENTE DE SANTA ÚRSULA (AISU)",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Estela María Fernández Pulido",
+            "partido": "PARTIDO POPULAR",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Jorge Alejandro Ojeda-Deurván Francés",
+            "partido": "PARTIDO POPULAR",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Darío Mesa Martín",
+            "partido": "PARTIDO POPULAR",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Raquel María Conejo Arroyo",
+            "partido": "GRUPO MUNICIPAL MIXTO",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Mariana Cueva García",
+            "partido": "GRUPO MUNICIPAL MIXTO",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.santaursula.es",
+        "https://www.santaursula.es/el-ayuntamiento-de-santa-ursula-refuerza-su-apuesta-por-el-empleo-juvenil-con-el-proyecto-primera-experiencia-santa-ursula-2025-2",
+        "https://www.santaursula.es/ayuntamiento/bienvenida",
+        "https://www.santaursula.es/ayuntamiento/plenos",
+        "https://www.santaursula.es/ayuntamiento/corporacion-municipal"
+    ]
+}

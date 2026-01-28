@@ -1,0 +1,246 @@
+{
+    "municipality": "Puerto de la Cruz",
+    "url": "https://www.puertodelacruz.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": null,
+            "email": "alcaldia@puertodelacruz.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.puertodelacruz.es"
+        },
+        {
+            "nombre": "Leopoldo José Afonso Hernández",
+            "partido": "PP",
+            "cargo": "ALCALDE",
+            "email": "alcaldia@puertodelacruz.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Área genérica de Alcaldía (Política Estratégica y Régimen Interior) y Seguridad Ciudadana",
+            "partido": null,
+            "cargo": null,
+            "email": "alcaldia@puertodelacruz.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "David Hernández Díaz",
+            "partido": "ACP",
+            "cargo": "PRIMER TENIENTE DE ALCALDE",
+            "email": "dhernandez@puertodelacruz.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Área genérica de Ciudad Sostenible y Agenda Urbana, Participación Ciudadana e Igualdad",
+            "partido": null,
+            "cargo": null,
+            "email": "dhernandez@puertodelacruz.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Alonso Dionisio Acevedo Abrante",
+            "partido": "CC",
+            "cargo": "SEGUNDO TENIENTE DE ALCALDE",
+            "email": "aacevedo@puertodelacruz.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Área genérica de Servicios Generales y Desarrollo Comercial",
+            "partido": null,
+            "cargo": null,
+            "email": "aacevedo@puertodelacruz.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Pedro Antonio Campos García",
+            "partido": "PP",
+            "cargo": "TERCER TENIENTE DE ALCALDE",
+            "email": "pacampos@puertodelacruz.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Área genérica de Hacienda, Contratación Pública Patrimonio y Gestión del Personal",
+            "partido": null,
+            "cargo": null,
+            "email": "pacampos@puertodelacruz.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Desiré Díaz Torres",
+            "partido": "PP",
+            "cargo": "CUARTA TENIENTE DE ALCALDE",
+            "email": "ddtorres@puertodelacruz.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Área genérica de Turismo, Promoción Cultural, Fiestas, Mercado, Desarrollo Tecnológico y Organismo Autónomo Local",
+            "partido": null,
+            "cargo": null,
+            "email": "ddtorres@puertodelacruz.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Alberto Cabo Padrón",
+            "partido": "ACP",
+            "cargo": "QUINTO TENIENTE DE ALCALDE",
+            "email": "acpadron@puertodelacruz.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Área genérica de Deportes, Promoción de la Salud, Drogodependencias y Empleo",
+            "partido": null,
+            "cargo": null,
+            "email": "acpadron@puertodelacruz.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Elsie Tavío Ribal",
+            "partido": "CC",
+            "cargo": "SEXTA TENIENTE DE ALCALDE Concejal Específico de Comercio, Industria, Artesanía, Sector Primario",
+            "email": "etavio@puertodelacruz.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Josefa Reina López",
+            "partido": "PP",
+            "cargo": "SÉPTIMA TENIENTE DE ALCALDE Área genérica de Acción Social y Bienestar Animal, Educación, Infancia, Juventud y Políticas Inclusivas (Mayores y Accesibilidad Universal)",
+            "email": "jreina@puertodelacruz.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Área genérica de Acción Social y Bienestar Animal, Educación, Infancia, Juventud y Políticas Inclusivas (Mayores y Accesibilidad Universal)",
+            "partido": null,
+            "cargo": null,
+            "email": "jreina@puertodelacruz.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Felipe Rodríguez Villalba",
+            "partido": "PP",
+            "cargo": "Concejal Específico del Complejo Turístico Costa Martiánez, Playas, Aparcamientos públicos, Cementerio y Patronato del Museo Arqueológico",
+            "email": "frvillalba@puertodelacruz.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Luis Javier González Hernández",
+            "partido": "PP",
+            "cargo": "Concejal Específico de Fiestas, Mercado Municipal y Desarrollo Tecnológico",
+            "email": "lgonzalez@puertodelacruz.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Claudia Hernández Aguiar",
+            "partido": "PP",
+            "cargo": "Concejal Específica de Educación, Juventud, Infancia y Políticas Inclusivas (Mayores y Accesibilidad Universal)",
+            "email": "chernandez@puertodelacruz.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Marco Antonio González Mesa",
+            "partido": "PSOE",
+            "cargo": "CONCEJAL",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Flora Isabel Perera Méndez",
+            "partido": "PSOE",
+            "cargo": "CONCEJALA",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Roberto Medina González",
+            "partido": "PSOE",
+            "cargo": "CONCEJAL",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "María de la Macarena García Carrillo",
+            "partido": "PSOE",
+            "cargo": "CONCEJALA",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Jesús Reverón Quintero",
+            "partido": "PSOE",
+            "cargo": "CONCEJAL",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Noemí Fernández García",
+            "partido": "PSOE",
+            "cargo": "CONCEJALA",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Daniel González Martín",
+            "partido": "PSOE",
+            "cargo": "CONCEJAL",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Enrique José Moll Rubio",
+            "partido": "PSOE",
+            "cargo": "CONCEJAL",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Rebeca Toste Barreto",
+            "partido": "PSOE",
+            "cargo": "CONCEJALA",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Reina Rodríguez Méndez",
+            "partido": "PSOE",
+            "cargo": "CONCEJAL",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal"
+        }
+    ],
+    "pages_scanned": [
+        "http://www.puertodelacruz.es/tuayuntamiento",
+        "https://www.puertodelacruz.es/ayuntamiento/corporacion-municipal",
+        "https://www.puertodelacruz.es/saluda-del-alcalde",
+        "https://www.puertodelacruz.es",
+        "https://www.puertodelacruz.es/plenomunicipal"
+    ]
+}

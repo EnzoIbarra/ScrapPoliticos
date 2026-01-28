@@ -1,0 +1,109 @@
+{
+    "municipality": "Garafía",
+    "url": "https://www.garafia.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "José Ángel Sánchez Rodríguez",
+            "partido": "Partido Popular",
+            "cargo": "Alcalde – Presidente",
+            "email": "alcalde@garafia.org",
+            "tipo": "Persona",
+            "source_url": "https://www.garafia.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Daina del Arco Iris Sgobino Gallizio",
+            "partido": "Partido Popular",
+            "cargo": "Segunda Teniente de Alcalde",
+            "email": "ssociales@garafia.org",
+            "tipo": "Persona",
+            "source_url": "https://www.garafia.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Daina del Arco Iris Sgobino Gallizio",
+            "partido": "Partido Popular",
+            "cargo": "Concejala de Área de Servicios Sociales, Turismo, Cultura y Medio Ambiente",
+            "email": "cultura@garafia.org",
+            "tipo": "Persona",
+            "source_url": "https://www.garafia.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Francisco José Hernández Herrera",
+            "partido": "Partido Popular",
+            "cargo": "Tercer Teniente de Alcalde",
+            "email": "obras@garafia.org",
+            "tipo": "Persona",
+            "source_url": "https://www.garafia.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Francisco José Hernández Herrera",
+            "partido": "Partido Popular",
+            "cargo": "Concejal de Área de Obras e Infraestructuras Públicas y de Servicios Municipales",
+            "email": "servicios@garafia.org",
+            "tipo": "Persona",
+            "source_url": "https://www.garafia.es/corporacion-municipal"
+        },
+        {
+            "nombre": "María Yéssica Bonilla Santana",
+            "partido": "Partido Popular",
+            "cargo": "Concejal de Área Fiestas, Deportes, Educación y Juventud",
+            "email": "deportes@garafia.org",
+            "tipo": "Persona",
+            "source_url": "https://www.garafia.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Lorena Rodríguez Pérez",
+            "partido": "Coalición Canaria- Partido Nacionalista Canario",
+            "cargo": "Primera Teniente de Alcalde",
+            "email": "desarrollo@garafia.org",
+            "tipo": "Persona",
+            "source_url": "https://www.garafia.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Lorena Rodríguez Pérez",
+            "partido": "Coalición Canaria- Partido Nacionalista Canario",
+            "cargo": "Concejal de Área de Agencia de Empleo y Desarrollo Local, Agricultura y Ganadería",
+            "email": "desarrollo@garafia.org",
+            "tipo": "Persona",
+            "source_url": "https://www.garafia.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Ayto. Villa de Garafía",
+            "partido": null,
+            "cargo": "Dirección de contacto",
+            "email": "mrodriguez@garafia.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.garafia.es/contacto"
+        },
+        {
+            "nombre": "recuperacioncultivos@garafia.org",
+            "partido": null,
+            "cargo": null,
+            "email": "recuperacioncultivos@garafia.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.garafia.es/poda-vid-espaldera"
+        },
+        {
+            "nombre": "Antonio Perdomo Molina",
+            "partido": null,
+            "cargo": "Ingeniero Técnico Agrícola y Profesor asociado de fruticultura de la ULL",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.garafia.es/poda-vid-espaldera"
+        },
+        {
+            "nombre": "Agencia de Empleo y Desarrollo Local",
+            "partido": null,
+            "cargo": "Agencia de Empleo y Desarrollo Local",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.garafia.es/poda-vid-espaldera"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.garafia.es/corporacion-municipal",
+        "https://www.garafia.es/contacto",
+        "https://www.garafia.es",
+        "https://www.garafia.es/poda-vid-espaldera"
+    ]
+}

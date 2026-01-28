@@ -1,0 +1,58 @@
+{
+    "municipality": "Ingenio",
+    "url": "https://www.ingenio.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "info@ingenio.es",
+            "partido": null,
+            "cargo": null,
+            "email": "info@ingenio.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ingenio.es"
+        },
+        {
+            "nombre": "Ana Hernández Rodríguez",
+            "partido": null,
+            "cargo": "Alcaldesa Presidenta Delegada de Policía y Medios de Comunicación",
+            "email": "oliverng@ingenio.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ingenio.es"
+        },
+        {
+            "nombre": "Oliver de la Cruz Navarro Guerra",
+            "partido": null,
+            "cargo": "Concejal Delegado de Igualdad y Diversidad, Nuevas Tecnologías, Movilidad y Transportes y Transparencia",
+            "email": "oliverng@ingenio.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ingenio.es"
+        },
+        {
+            "nombre": "Almudena Isabel Hernández Rodríguez",
+            "partido": null,
+            "cargo": "Concejala Delegada de Presidencia, Industria, Comercio, Desarrollo Local y Empleo",
+            "email": "almudenaihr@ingenio.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ingenio.es"
+        },
+        {
+            "nombre": "Rubén Cruz Liria",
+            "partido": null,
+            "cargo": "Concejal Delegado de Régimen Interior, Turismo y Medios de Comunicación",
+            "email": "rubencl@ingenio.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ingenio.es"
+        },
+        {
+            "nombre": "Vanesa Belén Martín Herrera",
+            "partido": null,
+            "cargo": "Alcaldesa - Presidenta Delegada de Deportes, la Fundación para la Promoción del Empleo, Formación Profesional y el Movimiento Cooperativo, y Recursos Humanos",
+            "email": "vanesamh@ingenio.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ingenio.es"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.ingenio.es"
+    ]
+}

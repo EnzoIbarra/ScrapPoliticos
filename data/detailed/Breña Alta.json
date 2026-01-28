@@ -1,0 +1,26 @@
+{
+    "municipality": "Breña Alta",
+    "url": "https://www.balta.org",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Jonathan Felipe",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.balta.org"
+        },
+        {
+            "nombre": "Ayuntamiento de Breña Alta",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.balta.org"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.balta.org"
+    ]
+}

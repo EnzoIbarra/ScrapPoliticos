@@ -1,0 +1,486 @@
+{
+    "municipality": "Alajeró",
+    "url": "https://www.ayuntamientoalajero.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Oficina Municipal de Playa de Santiago",
+            "partido": null,
+            "cargo": "Oficina Municipal",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientoalajero.es"
+        },
+        {
+            "nombre": "Registro e Información",
+            "partido": null,
+            "cargo": "departamento",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientoalajero.es"
+        },
+        {
+            "nombre": "Administración",
+            "partido": null,
+            "cargo": "departamento",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientoalajero.es"
+        },
+        {
+            "nombre": "Recaudación",
+            "partido": null,
+            "cargo": "departamento",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientoalajero.es"
+        },
+        {
+            "nombre": "Ayuntamiento de Alajeró",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientoalajero.es"
+        },
+        {
+            "nombre": "Manuel Plasencia Barroso",
+            "partido": null,
+            "cargo": "Alcalde Presidente",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-ayto/el-alcalde"
+        },
+        {
+            "nombre": "Agustín Moreno Hernández",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Agustín Mendoza",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Alejo Trujillo Rodríguez",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Pedro Trujillo Rodríguez",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Antonio Santos Moreno",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Miguel Trujillo",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Román Trujillo Gutiérrez",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Domingo Izquierdo Barroso",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Miguel Plasencia Simancas",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Alejo Trujillo Cabrera",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Juan Nieves Paz",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Miguel Lazo García",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Manuel Mora Mora",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Andrés Cordero Hernández",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Jorge Chinea Cruz",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Antonio Cordero Lazo",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Lorenzo Trujillo Grasso",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Federico García Grasso",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Plácido Montesino García",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Cándido Bernal Moreno",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Antonio José Cruz Medina",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Alejo Trujillo Trujillo",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Vicente Trujillo Trujillo",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Antonio Meneses Montesino",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Isaías Montesino Negrín",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Benjamín Montesino Negrín",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Celestino Darias Hernández",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Domingo Barroso Plasencia",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Ramón Bernal Ventura",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Francisco Herrera Méndez",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Román Trujillo Mora",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Domingo Coello Rodríguez",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Ernesto Fragoso Bencomo",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "José Borges Navarro",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Alejo Trujillo Fagundo",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Natividad Artieda Iraola",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Domingo Moreno Padrón",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Aurelio Perdomo Cruz",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Melchor Gaspar Baltasar",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "José Barroso Vera",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Avelino Rodríguez Vera",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Eugenio Bernal Izquierdo",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Álvaro Mendoza Muñoz",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "José Fernández Jiménez",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Vicente Plasencia Muñoz",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Joaquín Nebro López",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Enrique Quintero Arzola",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Manuel Ramón Plasencia Barroso",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Sarabel Moreno Acosta",
+            "partido": null,
+            "cargo": "Autoría",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Demensa Arzola Ramos",
+            "partido": null,
+            "cargo": "Autoría",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Esta dirección de correo electrónico está siendo protegida contra los robots de spam. Necesita tener JavaScript habilitado para poder verlo.",
+            "partido": null,
+            "cargo": "Contacto",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio"
+        },
+        {
+            "nombre": "Manuel Ramón Plasencia",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/prensa/ultimas-noticias/1092-el-ayuntamiento-de-alajero-aprueba-su-presupuesto-para-2026-por-un-importe-de-unos-4-803-373-euros"
+        },
+        {
+            "nombre": "Manuel Ramón Plasencia",
+            "partido": null,
+            "cargo": "Alcalde de Alajeró",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientoalajero.es/index.php/prensa/ultimas-noticias/1089-el-ayuntamiento-de-alajero-impulsa-el-programa-de-empleo-social"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.ayuntamientoalajero.es/index.php/prensa/ultimas-noticias/1089-el-ayuntamiento-de-alajero-impulsa-el-programa-de-empleo-social",
+        "https://www.ayuntamientoalajero.es/index.php/el-municipio/memoria-historica-y-heraldica/alcaldes-del-municipio",
+        "https://www.ayuntamientoalajero.es/index.php/prensa/ultimas-noticias/1092-el-ayuntamiento-de-alajero-aprueba-su-presupuesto-para-2026-por-un-importe-de-unos-4-803-373-euros",
+        "https://www.ayuntamientoalajero.es/index.php/el-ayto/el-alcalde",
+        "https://www.ayuntamientoalajero.es"
+    ]
+}

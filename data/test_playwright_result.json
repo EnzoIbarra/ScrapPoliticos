@@ -1,0 +1,147 @@
+{
+    "municipality": "Santa Cruz de La Palma",
+    "url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia",
+    "status": "success",
+    "method": "playwright",
+    "data": [
+        {
+            "nombre": "D. Asier Antona",
+            "partido": "PP",
+            "cargo": "Alcalde",
+            "email": "alcaldia@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "D. Raico Arrocha Camacho",
+            "partido": "CC",
+            "cargo": "Primera Tenencia de Alcaldía",
+            "email": "raico.arrocha@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "Dña. Omaira Pérez García",
+            "partido": "PP",
+            "cargo": "Segunda Tenencia de Alcaldía",
+            "email": "omaira.perez@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "Dña. Yessica Pérez López",
+            "partido": "CC",
+            "cargo": "Tercera Tenencia de Alcaldía",
+            "email": "yessica.perez@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "D. Juan José Cabrera Guelmes",
+            "partido": "PP",
+            "cargo": "Cuarta Tenencia de Alcaldía",
+            "email": "juan.cabrera@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "D. Alberto Jesús Perdomo",
+            "partido": "CC",
+            "cargo": "Concejal Delegado",
+            "email": "alberto.perdomo@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "D. Juan Guerra Guerra",
+            "partido": "CC",
+            "cargo": "Quinta Tenencia de Alcaldía",
+            "email": "juan.guerra@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "D. Sergio Hidalgo Hernández",
+            "partido": "PP",
+            "cargo": "Concejal Delegado",
+            "email": "hidalgo@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "Dña. Saray González Álvarez",
+            "partido": "PP",
+            "cargo": "Concejala Delegada",
+            "email": "saray.gonzalez@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "D. Bernardo López Acosta",
+            "partido": "PP",
+            "cargo": "Concejal Delegado",
+            "email": "bernardo.lopez@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "D. Jesús Pérez Hernández",
+            "partido": "PP",
+            "cargo": "Concejal Delegado",
+            "email": "jesus.perez@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "D. Juan José Neris Hernández",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": "juanjo.neris@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "Dña. María Lemes Rodríguez",
+            "partido": "PSOE",
+            "cargo": "Concejala",
+            "email": "illini.lemes@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "D. David Tames Valiente",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": "david.temes@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "Dña. Carla Rodríguez Rodríguez",
+            "partido": "PSOE",
+            "cargo": "Concejala",
+            "email": "carla.rodriguez@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "D. Manuel Ángel Garrido Abolafia",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": "manuel.garrido@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        },
+        {
+            "nombre": "Dña. Maeve Sanjuán Duque",
+            "partido": "NC",
+            "cargo": "Concejala",
+            "email": "maeve.sanjuan@santacruzdelapalma.es",
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia"
+    ]
+}

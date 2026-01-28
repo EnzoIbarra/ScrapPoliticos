@@ -1,0 +1,206 @@
+{
+    "municipality": "Santa Brígida",
+    "url": "https://www.santabrigida.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Avelina Fernández Manrique de Lara",
+            "partido": null,
+            "cargo": "Concejalía de Cultura",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es"
+        },
+        {
+            "nombre": "Ayuntamiento de Santa Brígida",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santabrigida.es"
+        },
+        {
+            "nombre": "JOSÉ ARMANDO ARMENGOL MARTÍN",
+            "partido": "Ando Sataute",
+            "cargo": "Alcalde- Presidente Concejal de HACIENDA, PLANIFICACIÓN ESTRATÉGICA, COORDINACIÓN INSTITUCIONAL, CONTRATACIÓN, DESARROLLO SOCIOECONÓMICO Y RURAL, MERCADOS MUNICIPALES, SERVICIO DE ATENCIÓN CIUDADANA E IGUALDAD",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "CARLOS CARRIÓN MARRERO",
+            "partido": "Psoe",
+            "cargo": "Primer Teniente de Alcalde Concejal de DEPORTES, SERVICIOS SOCIALES, ACCESIBILIDAD, EMPLEO Y RECURSOS HUMANOS",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "AVELINA FERNÁNDEZ MANRIQUE DE LARA",
+            "partido": "Ando Sataute",
+            "cargo": "Segunda Teniente de Alcalde Concejal de CULTURA, PATRIMONIO CULTURAL E HISTÓRICO, COMUNICACIÓN, NUEVAS TECNOLOGÍAS Y TRANSPARENCIA",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "MARÍA LOZANO LORDÁN",
+            "partido": "Psoe",
+            "cargo": "Tercera Teniente de Alcalde Concejal de URBANISMO, VIVIENDA Y PATRIMONIO",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "JOSÉ JAVIER RAMÍREZ MENDOZA",
+            "partido": "Ando Sataute",
+            "cargo": "Cuarto Teniente de Alcalde Concejal de VÍAS Y OBRAS, ALUMBRADO, ABASTECIMIENTO DE AGUA, SANEAMIENTO Y FESTEJOS",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "MARÍA PURIFICACIÓN AMADOR MONZÓN",
+            "partido": "Unidos por Gran Canaria",
+            "cargo": "Quinta Teniente de Alcalde Concejal de POLÍTICA ECONÓMICA Y FISCAL, RECAUDACIÓN, GESTIÓN DE LA DEUDA Y TESORERÍA",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "ADRIÁN CAMACHO MAYOR",
+            "partido": "Psoe",
+            "cargo": "Concejal de SEGURIDAD Y MOVILIDAD, SERVICIOS FUNERARIOS, MAYORES Y VOLUNTARIADO",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "ADRIÁN GARCÍA ARMAS",
+            "partido": "Ando Sataute",
+            "cargo": "Concejal de JUVENTUD, EDUCACIÓN, PARQUES Y JARDINES Y PARTICIPACIÓN",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "MARÍA SÁNCHEZ-FERNAUD VEGA",
+            "partido": "Ando Sataute",
+            "cargo": "Concejal de CONCEJAL DE LIMPIEZA, RECOGIDA SELECTIVA DE RESIDUOS SÓLIDOS, MEDIOAMBIENTE, COMERCIO, TURISMO Y BIENESTAR ANIMAL",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "CARMEN JUEZ JIMÉNEZ",
+            "partido": "Unidos por Gran Canaria",
+            "cargo": "Concejal de TURISMO Y COMERCIO, MERCADOS MUNICIPALES Y DESARROLLO RURAL, MAYORES",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "MARTÍN SOSA DOMÍNGUEZ",
+            "partido": "Partido Popular",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "CAROLINA ALONSO SANTANA",
+            "partido": "Partido Popular",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "ÁNGEL LUIS SANTANA",
+            "partido": "Partido Popular",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "RAQUEL SANTANA MARTÍN",
+            "partido": "Partido Popular",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "CARMEN DEL ROSARIO MONTESDEOCA SANTANA",
+            "partido": "Partido Popular",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "JUAN ARMANDO UMPIÉRREZ CABRERA",
+            "partido": "Plataforma Vecinal de Santa Brígida",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "ANTONIO ARIDANE HERRERA ROBAINA",
+            "partido": "VOX",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion"
+        },
+        {
+            "nombre": "Alcalde de Santa Brígida",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/saluda-del-alcalde"
+        },
+        {
+            "nombre": "Alcalde",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion/pleno-municipal"
+        },
+        {
+            "nombre": "Concejales",
+            "partido": null,
+            "cargo": "Concejales",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion/pleno-municipal"
+        },
+        {
+            "nombre": "Alcaldía-Presidencia",
+            "partido": null,
+            "cargo": "Alcaldía-Presidencia",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion/pleno-municipal"
+        },
+        {
+            "nombre": "Portavoces de los Grupos Políticos",
+            "partido": null,
+            "cargo": "Portavoces",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santabrigida.es/ayuntamiento/corporacion/pleno-municipal"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.santabrigida.es/ayuntamiento/corporacion/sesiones-del-pleno-municipal",
+        "https://www.santabrigida.es/ayuntamiento/corporacion",
+        "https://www.santabrigida.es/saluda-del-alcalde",
+        "https://www.santabrigida.es",
+        "https://www.santabrigida.es/ayuntamiento/corporacion/pleno-municipal"
+    ]
+}

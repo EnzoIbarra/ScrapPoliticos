@@ -1,0 +1,350 @@
+{
+    "municipality": "Santa Cruz de Tenerife",
+    "url": "https://www.santacruzdetenerife.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "José Manuel Bermúdez Esparza",
+            "partido": "CCa",
+            "cargo": "Alcalde - Presidente",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Carlos Enrique Tarife Hernández",
+            "partido": "PP",
+            "cargo": "Concejal Primer Teniente de Alcalde. Concejal de Gobierno del Área de Planificación Estratégica, Sostenibilidad Ambiental y Servicios Públicos",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Gladis de León León",
+            "partido": "CCa",
+            "cargo": "Concejala Segunda Teniente de Alcalde. Concejala de Gobierno del Área de Seguridad, Movilidad y Accesibilidad Universal. Concejala delegada de Igualdad y Diversidad Afectiva Sexual. Concejala-Presidenta del Tagoror del Distrito Anaga",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Zaida Candelaria González Rodríguez",
+            "partido": "PP",
+            "cargo": "Concejala Tercera Teniente de Alcalde. Concejala de Gobierno del Área de Planificación del Territorio. Concejala-Presidenta del Tagoror del Distrito Salud-La Salle",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "José Alberto Díaz-Estébanez León",
+            "partido": "CCa",
+            "cargo": "Concejal Cuarto Teniente de Alcalde y Concejal de Gobierno del Área de Hacienda y Patrimonio",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Alicia Cebrián Martínez de Lagos",
+            "partido": "PP",
+            "cargo": "Concejala Quinta Teniente de Alcalde. Concejala de Gobierno del Área de Calidad de Vida",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Rosario González Carballo",
+            "partido": "CCa",
+            "cargo": "Concejala Sexta Teniente de Alcalde. Concejala de Gobierno del Área de Políticas Sociales. Presidenta del Organismo Autónomo Instituto Municipal de Atención Social (hasta el 1 de enero de 2026)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Santiago Díaz Mejías",
+            "partido": "PP",
+            "cargo": "Concejal Séptimo Teniente de Alcalde. Concejal Delegado en materia de Cultura y Patrimonio Histórico. Presidente del Organismo Autónomo de Cultura y Concejal-Presidente del Distrito Tagoror Ofra - Costa Sur",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Javier Rivero Rodríguez",
+            "partido": "CCa",
+            "cargo": "Concejal Octavo Teniente de Alcalde. Concejal de Gobierno del Área de Infraestructuras. Concejal de Gobierno del Área de Presidencia. Concejal-Presidente del Tagoror del Distrito Suroeste",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Evelyn del Carmen Alonso Hernández",
+            "partido": "CCa",
+            "cargo": "Concejala Novena Teniente de Alcalde. Concejala delegada de Movilidad y Accesibilidad",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Purificación Dávila Carreira",
+            "partido": "CCa",
+            "cargo": "Concejala Concejala Delegada en materia de recursos humanos, tecnología, transparencia, protección de datos, organización (incluye modernización, régimen interno y calidad del dato), atención ciudadana, estadística y demarcación territorial, consumo, administración interna, gabinete de prensa, protocolo, soporte a distritos. Concejala-Presidenta del Tagoror del Distrito Centro-Ifara",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Javier Caraballero Morales",
+            "partido": "CCa",
+            "cargo": "Concejal Concejal delegado en materia de actividades festivas y recreativas. Presidente del Organismo Autónomo de Fiestas y Actividades Recreativas",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Ana Belén Mesa Vilar",
+            "partido": "CCa",
+            "cargo": "Concejala Concejala delegada de Vivienda",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Carmen Dolores Pérez Pérez",
+            "partido": "PP",
+            "cargo": "Concejala Concejala delegada en materia de empleo, comercio y turismo (Sociedad de Desarrollo)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Patricia Hernández Gutiérrez",
+            "partido": "PSOE",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Elena Mateo Morales",
+            "partido": "PSOE",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Florentino Guzmán-Plasencia Medina",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Matilde Zambudio Molina",
+            "partido": "PSOE",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Andrés Martín Casanova",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Alana Michelle Chinea Romero",
+            "partido": "PSOE",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "José Jorge Sabaté Bel",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Mónica Esther Brito Rodríguez",
+            "partido": "PSOE",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Antonio Cándido Rodríguez Hernández",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Ana Delia Darias Sánchez",
+            "partido": "PSOE",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Alejandro Santiago Gómez Rodríguez",
+            "partido": "VOX",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Luis De Los Reyes Sosa-Tolosa Del Valle",
+            "partido": "VOX",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Juan Manuel Hermoso Antolín",
+            "partido": "No Adscrito",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno"
+        },
+        {
+            "nombre": "Servicio de atención e información general básica",
+            "partido": null,
+            "cargo": "Atención e información general",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Oficinas de atención e información Ciudadana",
+            "partido": null,
+            "cargo": "Atención e información Ciudadana",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Oficina Municipal de Información al Consumidor",
+            "partido": null,
+            "cargo": "Información al Consumidor",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Policía Local",
+            "partido": null,
+            "cargo": "Protección civil",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Presidencia",
+            "partido": null,
+            "cargo": "Presidencia",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Servicios Públicos",
+            "partido": null,
+            "cargo": "Servicios Públicos",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Tributos",
+            "partido": null,
+            "cargo": "Tributos",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Atención social",
+            "partido": null,
+            "cargo": "Atención social",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Urbanismo",
+            "partido": null,
+            "cargo": "Urbanismo",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Cultura",
+            "partido": null,
+            "cargo": "Cultura",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Fiestas",
+            "partido": null,
+            "cargo": "Fiestas",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Distritos",
+            "partido": null,
+            "cargo": "Distritos",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Igualdad",
+            "partido": null,
+            "cargo": "Igualdad",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Medio-ambiente y sanidad",
+            "partido": null,
+            "cargo": "Medio-ambiente y sanidad",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        },
+        {
+            "nombre": "Participación ciudadana",
+            "partido": null,
+            "cargo": "Participación ciudadana",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santacruzdetenerife.es/web/telefonos"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.santacruzdetenerife.es",
+        "https://www.santacruzdetenerife.es/web/gobierno/sesiones-y-convocatorias/comision-control-del-pleno",
+        "https://www.santacruzdetenerife.es/web/telefonos",
+        "https://www.santacruzdetenerife.es/web/gobierno/gobierno-ciudad/componentes-pleno",
+        "https://www.santacruzdetenerife.es/web/gobierno/sesiones-y-convocatorias/sesiones-del-pleno"
+    ]
+}

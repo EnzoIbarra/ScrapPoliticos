@@ -1,0 +1,18 @@
+{
+    "municipality": "San Andrés y Sauces",
+    "url": "https://www.sanandresysauces.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Ayuntamiento de San Andrés y Sauces",
+            "partido": null,
+            "cargo": "Ayuntamiento",
+            "email": "prodae@sanandresysauces.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.sanandresysauces.es"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.sanandresysauces.es"
+    ]
+}

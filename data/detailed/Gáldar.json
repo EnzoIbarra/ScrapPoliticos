@@ -1,0 +1,29 @@
+{
+    "municipality": "Gáldar",
+    "url": "https://www.galdar.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Oficina de Atención a la Ciudadanía",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.galdar.es/contacto"
+        },
+        {
+            "nombre": "Ayuntamiento de Gáldar",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.galdar.es/contacto"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.galdar.es",
+        "https://www.galdar.es/contacto",
+        "https://www.galdar.es/ayuntamiento",
+        "https://www.galdar.es/app-movil"
+    ]
+}

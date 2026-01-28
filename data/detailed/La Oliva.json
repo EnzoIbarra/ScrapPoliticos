@@ -1,0 +1,366 @@
+{
+    "municipality": "La Oliva",
+    "url": "https://www.laoliva.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": "Alcaldía",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.laoliva.es/ayuntamiento"
+        },
+        {
+            "nombre": "Comercio",
+            "partido": null,
+            "cargo": "Concejalía de Comercio",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.laoliva.es/ayuntamiento"
+        },
+        {
+            "nombre": "Cultura",
+            "partido": null,
+            "cargo": "Concejalía de Cultura",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.laoliva.es/ayuntamiento"
+        },
+        {
+            "nombre": "Deportes",
+            "partido": null,
+            "cargo": "Concejalía de Deportes",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.laoliva.es/ayuntamiento"
+        },
+        {
+            "nombre": "Educación",
+            "partido": null,
+            "cargo": "Concejalía de Educación",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.laoliva.es/ayuntamiento"
+        },
+        {
+            "nombre": "Festejos",
+            "partido": null,
+            "cargo": "Concejalía de Festejos",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.laoliva.es/ayuntamiento"
+        },
+        {
+            "nombre": "Juventud",
+            "partido": null,
+            "cargo": "Concejalía de Juventud",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.laoliva.es/ayuntamiento"
+        },
+        {
+            "nombre": "Policía Local",
+            "partido": null,
+            "cargo": "Policía Local",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.laoliva.es/ayuntamiento"
+        },
+        {
+            "nombre": "Servicios Sociales",
+            "partido": null,
+            "cargo": "Concejalía de Servicios Sociales",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.laoliva.es/ayuntamiento"
+        },
+        {
+            "nombre": "Turismo",
+            "partido": null,
+            "cargo": "Concejalía de Turismo",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.laoliva.es/ayuntamiento"
+        },
+        {
+            "nombre": "Isaí Blanco",
+            "partido": null,
+            "cargo": "Alcalde de La Oliva",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/noticias/5291"
+        },
+        {
+            "nombre": "David Fajardo",
+            "partido": null,
+            "cargo": "Concejal de Medio Ambiente",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/noticias/5291"
+        },
+        {
+            "nombre": "Concejalía de Medio Ambiente",
+            "partido": null,
+            "cargo": "Concejalía",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.laoliva.es/noticias/5291"
+        },
+        {
+            "nombre": "Isaí Blanco Marrero",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Juan José Rodríguez Pérez",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "María Omaira Saavedra Vera",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Gleiber María Carreño Lasso",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "David Fajardo Junckersdorf",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Rubén González Montelongo",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Verónica Saavedra Hernández",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Julio Manuel Santana de Agustín",
+            "partido": "Partido Socialista Obrero Español",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Luis Alba Pérez",
+            "partido": "Partido Socialista Obrero Español",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Joana Pérez Carreño",
+            "partido": "Partido Socialista Obrero Español",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Christian Jesús Rodríguez Pérez",
+            "partido": "Partido Socialista Obrero Español",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Alejandra María Martín Rodríguez",
+            "partido": "Partido Socialista Obrero Español",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "David Hernández Martín",
+            "partido": "Partido Socialista Obrero Español",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "José Vicente Calero Saavedra",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Nereida Rodríguez Méndez",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Beatriz Benítez Ascanio",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Antonio Alfonso Pereira González",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "María Carballo Gil",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Pedro Manuel Blas Amador Jiménez",
+            "partido": "En Marcha",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Bárbara del Pino Guerra García (Fiamma)",
+            "partido": "En Marcha",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Oliver Cristhian González Cabrera",
+            "partido": "Nueva Canarias",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/concejales"
+        },
+        {
+            "nombre": "Isaí Blanco Marrero",
+            "partido": null,
+            "cargo": "Alcalde-Presidente",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/gobierno"
+        },
+        {
+            "nombre": "Julio Manuel Santana de Agustín",
+            "partido": null,
+            "cargo": "1º Teniente Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/gobierno"
+        },
+        {
+            "nombre": "Juan José Rodríguez Pérez",
+            "partido": null,
+            "cargo": "2º Teniente Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/gobierno"
+        },
+        {
+            "nombre": "Luis Alba Pérez",
+            "partido": null,
+            "cargo": "3º Teniente Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/gobierno"
+        },
+        {
+            "nombre": "María Omaira Saavedra Vera",
+            "partido": null,
+            "cargo": "4ª Teniente Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/gobierno"
+        },
+        {
+            "nombre": "David Hernández Martín",
+            "partido": null,
+            "cargo": "5º Teniente Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/gobierno"
+        },
+        {
+            "nombre": "Gleiber María Carreño Lasso",
+            "partido": null,
+            "cargo": "6ª Teniente Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/gobierno"
+        },
+        {
+            "nombre": "Joana Pérez Carreño",
+            "partido": null,
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/gobierno"
+        },
+        {
+            "nombre": "Alejandra María Martín Rodríguez",
+            "partido": null,
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/gobierno"
+        },
+        {
+            "nombre": "Verónica Saavedra Hernández",
+            "partido": null,
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laoliva.es/gobierno"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.laoliva.es/noticias/5291",
+        "https://www.laoliva.es/ayuntamiento",
+        "https://www.laoliva.es/gobierno",
+        "https://www.laoliva.es",
+        "https://www.laoliva.es/concejales"
+    ]
+}

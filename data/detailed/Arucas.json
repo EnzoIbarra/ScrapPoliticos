@@ -1,0 +1,630 @@
+{
+    "municipality": "Arucas",
+    "url": "https://www.arucas.org",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Juan Jesús Facundo Suárez",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek1nPT0="
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek1nPT0="
+        },
+        {
+            "nombre": "Juan Jesús Facundo Suárez",
+            "partido": "PSOE",
+            "cargo": null,
+            "email": "jjfacundo@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "María Esther Suárez Marrero",
+            "partido": "PSOE",
+            "cargo": null,
+            "email": "mesuarez@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "Oliverio de los Reyes Armas Guillén",
+            "partido": "PSOE",
+            "cargo": null,
+            "email": "oarmas@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "Beatriz del Pino Herrera Suárez",
+            "partido": "PSOE",
+            "cargo": null,
+            "email": "bpherrera@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "José María González Lorenzo",
+            "partido": "PSOE",
+            "cargo": null,
+            "email": "jmgonzalez@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "Jésica Guerra Almeida",
+            "partido": "PSOE",
+            "cargo": null,
+            "email": "jguerra@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "Octavio Manuel Rodríguez Sánchez",
+            "partido": "PSOE",
+            "cargo": null,
+            "email": "omrodriguez@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "Carlos Jesús González Matos",
+            "partido": "PSOE",
+            "cargo": null,
+            "email": "cjgonzalez@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "María José Valencia Almeida",
+            "partido": "PSOE",
+            "cargo": null,
+            "email": "mjvalencia@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "Santiago Sebastián Guerra Perez",
+            "partido": "PP",
+            "cargo": null,
+            "email": "sguerra@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "José Lorenzo Montesdeoca Santana",
+            "partido": "PP",
+            "cargo": null,
+            "email": "jlmontesdeoca@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "Dolores Paz Aguilar Rosales",
+            "partido": "PP",
+            "cargo": null,
+            "email": "dpaguilar@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "María Isabel Santana Rodríguez",
+            "partido": "PP",
+            "cargo": null,
+            "email": "misantana@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "Marcelo Francisco Afonso Gil",
+            "partido": "NC-FA",
+            "cargo": null,
+            "email": "mafonso@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "Gema Beatriz González Déniz",
+            "partido": "NC-FA",
+            "cargo": null,
+            "email": "gbgonzalez@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "Yessica Ninfa Piech Medina",
+            "partido": "VOX",
+            "cargo": null,
+            "email": "ynpiech@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "Macarena del Carmen del Pozo Perez",
+            "partido": "VOX",
+            "cargo": null,
+            "email": "mcdelpozo@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "María del Carmen González Medina",
+            "partido": "UxGC",
+            "cargo": null,
+            "email": "mcgonzalezm@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "Alejandro Pablo de Gabriel Arencibia",
+            "partido": "UxGC",
+            "cargo": null,
+            "email": "apdegabriel@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "José Eduardo Marrero de Armas",
+            "partido": "CCa",
+            "cargo": null,
+            "email": "jemarrero@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "Rafael Jesús Segura Acosta",
+            "partido": "Podemos",
+            "cargo": null,
+            "email": "rjsegura@arucas.org",
+            "tipo": "Persona",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0="
+        },
+        {
+            "nombre": "OFICINA DE ATENCIÓN CIUDADANA",
+            "partido": null,
+            "cargo": "Oficina de Atención Ciudadana",
+            "email": "oac@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "ACTIVIDADES CLASIFICADAS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "actividades@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "AGUAS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "agua@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "AGRICULTURA, GANADERÍA Y PESCA",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "desarrollolocal@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "ALCALDÍA",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "alcaldia@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "ALUMBRADO",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "alumbrado@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "BIBLIOTECA",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "biblioteca@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "BIENESTAR SOCIAL",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "serviciossociales@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "CATASTRO",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "catastro@arucas21.com",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "CEMENTERIOS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "cementerios@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "CENTRO DE INTERPRETACIÓN DEL LABRANTE",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "labrante@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "CENTRO OCUPACIONAL DE DISCAPACITADOS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "coa@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "COMPRAS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "compras@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "CONSUMO",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "consumo@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "CONTRATACIÓN",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "contratacion@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "CULTURA",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "cultura@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "DEPORTES",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "deportes@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "DESARROLLO LOCAL",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "desarrollolocal@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "EDUCACIÓN",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "educacion@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "EDUCACIÓN AMBIENTAL",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "educacionambiental@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "ESCUELAS ARTÍSTICAS MUNICIPALES",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "escuelasartisticas@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "ESTADÍSTICA",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "estadistica@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "FESTEJOS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "festejos@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "INTERVENCIÓN",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "intervencion@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "JUVENTUD",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "juventud@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "LIMPIEZA",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "limpieza@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "LOMO JURGON",
+            "partido": null,
+            "cargo": "",
+            "email": "info@atistirma.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "MAYORES",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "mayores@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "MEDIO AMBIENTE",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "medioambiente@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "MUSEO MUNICIPAL",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "museomunicipal@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "NUEVAS TECNOLOGÍAS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "informatica@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "OFICINA DE ATENCIÓN CIUDADANA",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "oac@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "PARQUES Y JARDINES",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "medioambiente@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "PARTICIPACIÓN CIUDADANA",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "participciudadana@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "PATRIMONIO HISTÓRICO",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "patrimoniohistorico@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "PLANES DE INVERSIÓN E INFRAESTRUCTURAS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "infraestructuras@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "PLAYAS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "medioambiente@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "POLICÍA LOCAL",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "policia@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "POLÍTICAS DE IGUALDAD",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "igualdad@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "PRESIDENCIA",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "presidencia@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "RADIO ARUCAS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "radio@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "RECAUDACIÓN",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "recaudacion@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "RECURSOS HUMANOS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "rrhh@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "SECRETARÍA",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "secretaria@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "SOCIEDAD MUNICIPAL PARA EL DESARROLLO DE ARUCAS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "arucas21@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "SOLIDARIDAD",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "solidaridad@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "TESORERÍA",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "tesoreria@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "TRÁFICO",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "trafico@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "TURISMO",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "turismo@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "UNIDAD DE ATENCIÓN A LAS DROGODEPENDENCIAS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "cad@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "URBANISMO",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "urbanismo@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "VÍAS Y OBRAS",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "viasyobras@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "VIVIENDA",
+            "partido": null,
+            "cargo": "Departamento",
+            "email": "vivienda@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        },
+        {
+            "nombre": "Ayuntamiento de Arucas",
+            "partido": null,
+            "cargo": "Contacto General",
+            "email": "ayuntamiento@arucas.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0=",
+        "https://www.arucas.org",
+        "https://www.arucas.org/modules.php?mod=portal&file=index",
+        "https://www.arucas.org/modules.php?mod=portal&file=ver_contacto",
+        "https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek1nPT0="
+    ]
+}

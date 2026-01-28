@@ -1,0 +1,168 @@
+{
+    "municipality": "Puntagorda",
+    "url": "https://www.puntagorda.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Vicente Rodríguez Lorenzo",
+            "partido": "PSOE",
+            "cargo": "Alcalde – Presidente",
+            "email": "alcaldia@puntagorda.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/ayuntamiento/equipo-de-gobierno"
+        },
+        {
+            "nombre": "Estefani Michelle Márquez Hernández",
+            "partido": "PSOE",
+            "cargo": "Primera Teniente de Alcalde. Concejala de Empleo, Cultura, Fiestas y Deportes.",
+            "email": "Cultura@puntagorda.es",
+            "email2": "Culturayfiestas@puntagorda.es",
+            "email3": "Fiestas@puntagorda.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/ayuntamiento/equipo-de-gobierno"
+        },
+        {
+            "nombre": "Daniel Maximilian Herkommer",
+            "partido": "PSOE",
+            "cargo": "Segundo Teniente de Alcalde. Concejal.",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/ayuntamiento/equipo-de-gobierno"
+        },
+        {
+            "nombre": "Sheila Pérez Pérez",
+            "partido": "PSOE",
+            "cargo": "Tercera Teniente de Alcalde. Concejala de Educación, Dependencia, Juventud y Formación.",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/ayuntamiento/equipo-de-gobierno"
+        },
+        {
+            "nombre": "Mª Mercedes Candelario Pérez",
+            "partido": "PSOE",
+            "cargo": "Concejala de Servicios Sociales, Sanidad e Igualdad.",
+            "email": "serviciossociales@puntagorda.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/ayuntamiento/equipo-de-gobierno"
+        },
+        {
+            "nombre": "Miguel Benigno García Morera",
+            "partido": "PSOE",
+            "cargo": "Concejal de Obras-Servicios",
+            "email": "obras@puntagorda.es",
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/ayuntamiento/equipo-de-gobierno"
+        },
+        {
+            "nombre": "Ana Genis Brito Rodríguez",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/ayuntamiento/equipo-de-gobierno"
+        },
+        {
+            "nombre": "Damián Pérez Sanfiel",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/ayuntamiento/equipo-de-gobierno"
+        },
+        {
+            "nombre": "Vicente Rodríguez Lorenzo",
+            "partido": null,
+            "cargo": "Alcalde de Puntagorda",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/ayuntamiento/bienvenida-del-sr-alcalde"
+        },
+        {
+            "nombre": "Vicente Rodríguez Lorenzo",
+            "partido": "PSOE",
+            "cargo": "Alcalde – Presidente",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Estefani Michelle Márquez Hernández",
+            "partido": "PSOE",
+            "cargo": "Primera Teniente de Alcalde. Concejala de Empleo, Cultura, Fiestas y Deportes",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Daniel Maximilian Herkommer",
+            "partido": "PSOE",
+            "cargo": "Segundo Teniente de Alcalde. Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Sheila Pérez Pérez",
+            "partido": "PSOE",
+            "cargo": "Tercera Teniente de Alcalde. Concejala de Educación, Dependencia, Juventud y Formación",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Mª Mercedes Candelario Pérez",
+            "partido": "PSOE",
+            "cargo": "Concejala de Servicios Sociales, Sanidad e Igualdad",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Miguel Benigno García Morera",
+            "partido": "PSOE",
+            "cargo": "Concejal de Obras y Servicios",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Mónica de los Ángeles Gómez Curiel",
+            "partido": "CCa-PNC",
+            "cargo": "Concejala. Portavoz Grupo Municipal. (Renuncia al cargo)",
+            "email": "puntagordacc@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Alejandra González Pérez",
+            "partido": "CCa-PNC",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Ariana Barreto Rodríguez",
+            "partido": "CCa-PNC",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/corporacion-municipal"
+        },
+        {
+            "nombre": "Alfonso Ballesteros Machín",
+            "partido": "PP",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.puntagorda.es/corporacion-municipal"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.puntagorda.es",
+        "https://www.puntagorda.es/ayuntamiento",
+        "https://www.puntagorda.es/corporacion-municipal",
+        "https://www.puntagorda.es/ayuntamiento/bienvenida-del-sr-alcalde",
+        "https://www.puntagorda.es/ayuntamiento/equipo-de-gobierno"
+    ]
+}

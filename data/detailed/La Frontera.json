@@ -1,0 +1,254 @@
+{
+    "municipality": "La Frontera",
+    "url": "https://www.aytofrontera.org",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Alcalde",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/saludo-del-alcalde.html"
+        },
+        {
+            "nombre": "Ayuntamiento de La Frontera",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/saludo-del-alcalde.html"
+        },
+        {
+            "nombre": "Equipo de gobierno",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/saludo-del-alcalde.html"
+        },
+        {
+            "nombre": "Grupos de la oposición",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/saludo-del-alcalde.html"
+        },
+        {
+            "nombre": "Pablo Rodríguez Cejas",
+            "partido": "AHI",
+            "cargo": "Alcalde - Presidente",
+            "email": "alcaldia@aytofrontera.org",
+            "tipo": "Persona",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/corporacion-local.html"
+        },
+        {
+            "nombre": "Marcos Antonio Casañas Barrera",
+            "partido": "AHI –UF",
+            "cargo": "Primer Teniente de Alcalde. Concejal delegado de Obras y Servicios, Planeamiento, Urbanismo, Vivienda, Desarrollo Local y Agricultura",
+            "email": "mcasanas@aytofrontera.org",
+            "tipo": "Persona",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/corporacion-local.html"
+        },
+        {
+            "nombre": "Norberto Betancor González",
+            "partido": null,
+            "cargo": "Segundo Teniente de Alcalde. Concejal delegado de Deportes, Fiestas, Cultura e Identidad cultural",
+            "email": "nbetancor@aytofrontera.org",
+            "tipo": "Persona",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/corporacion-local.html"
+        },
+        {
+            "nombre": "Susana Inmaculada Pérez García",
+            "partido": "AHI –UF",
+            "cargo": "Tercer Teniente de Alcalde. Concejala delegada de Personal, Participación Ciudadana, Educación y Comercio",
+            "email": "sperez@aytofrontera.org",
+            "tipo": "Persona",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/corporacion-local.html"
+        },
+        {
+            "nombre": "Rocío Armas Morales",
+            "partido": "AHI",
+            "cargo": "Concejala delegada de Juventud, Igualdad, Servicios Sociales y Medio Ambiente",
+            "email": "rarmas@aytofrontera.org",
+            "tipo": "Persona",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/corporacion-local.html"
+        },
+        {
+            "nombre": "Adelaida González González",
+            "partido": "AHI-UF",
+            "cargo": "Concejala delegada de Turismo, Nuevas Tecnologías y Transporte Urbano",
+            "email": "agonzalez@aytofrontera.org",
+            "tipo": "Persona",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/corporacion-local.html"
+        },
+        {
+            "nombre": "Mercedes Álvarez Fernández",
+            "partido": "PSOE",
+            "cargo": "Concejala. Portavoz del PSOE en el Ayuntamiento",
+            "email": "malvarez@aytofrontera.org",
+            "tipo": "Persona",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/corporacion-local.html"
+        },
+        {
+            "nombre": "Juan Luis Acosta González",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/corporacion-local.html"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": null,
+            "email": "alcaldia@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Obras y Servicios",
+            "partido": null,
+            "cargo": null,
+            "email": "obras@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Desarrollo Local",
+            "partido": null,
+            "cargo": null,
+            "email": "aedl@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Desarrollo Local",
+            "partido": null,
+            "cargo": null,
+            "email": "adl@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Servicios Sociales",
+            "partido": null,
+            "cargo": null,
+            "email": "ss@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Deportes",
+            "partido": null,
+            "cargo": null,
+            "email": "deportes@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Cultura",
+            "partido": null,
+            "cargo": null,
+            "email": "cultura@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Fiestas",
+            "partido": null,
+            "cargo": null,
+            "email": "fiestas@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Juventud",
+            "partido": null,
+            "cargo": null,
+            "email": "juventud@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Catastro",
+            "partido": null,
+            "cargo": null,
+            "email": "catastro@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Prensa y Turismo",
+            "partido": null,
+            "cargo": null,
+            "email": "prensa@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Policia Local",
+            "partido": null,
+            "cargo": null,
+            "email": "jefatura@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Biblioteca Municipal",
+            "partido": null,
+            "cargo": null,
+            "email": "biblioteca@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Policía Local",
+            "partido": null,
+            "cargo": null,
+            "email": "policia@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "El Hoyo - Guardería",
+            "partido": null,
+            "cargo": null,
+            "email": "guarderia@aytofrontera.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html"
+        },
+        {
+            "nombre": "Alcaldía Presidencia",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/noticias/noticias-municipales/el-carnaval-del-universo-calienta-motores-el-ayuntamiento-de-la-frontera-publica-las-bases-del-concurso-para-el-coso-del-carnaval-2026.html"
+        },
+        {
+            "nombre": "Alcalde",
+            "partido": null,
+            "cargo": "Saludo del Alcalde",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/noticias/noticias-municipales/el-carnaval-del-universo-calienta-motores-el-ayuntamiento-de-la-frontera-publica-las-bases-del-concurso-para-el-coso-del-carnaval-2026.html"
+        },
+        {
+            "nombre": "Corporación Local",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytofrontera.org/noticias/noticias-municipales/el-carnaval-del-universo-calienta-motores-el-ayuntamiento-de-la-frontera-publica-las-bases-del-concurso-para-el-coso-del-carnaval-2026.html"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.aytofrontera.org/noticias/noticias-municipales/el-carnaval-del-universo-calienta-motores-el-ayuntamiento-de-la-frontera-publica-las-bases-del-concurso-para-el-coso-del-carnaval-2026.html",
+        "https://www.aytofrontera.org/ayuntamiento/saludo-del-alcalde.html",
+        "https://www.aytofrontera.org/ayuntamiento/corporacion-local.html",
+        "https://www.aytofrontera.org/ayuntamiento/dependencias-y-contacto.html",
+        "https://www.aytofrontera.org"
+    ]
+}

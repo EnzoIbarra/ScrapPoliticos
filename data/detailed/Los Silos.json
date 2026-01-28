@@ -1,0 +1,22 @@
+{
+    "municipality": "Los Silos",
+    "url": "https://www.lossilos.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Ayuntamiento de Los Silos",
+            "partido": null,
+            "cargo": null,
+            "email": "ayuntamiento@lossilos.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.lossilos.es"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.lossilos.es/ubicacion-ayuntamiento-de-los-silos",
+        "https://www.lossilos.es/plenos",
+        "https://www.lossilos.es/ayuntamiento",
+        "https://www.lossilos.es/contacta-con-el-ayuntamiento",
+        "https://www.lossilos.es"
+    ]
+}

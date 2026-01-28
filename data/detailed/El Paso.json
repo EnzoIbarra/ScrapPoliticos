@@ -1,0 +1,26 @@
+{
+    "municipality": "El Paso",
+    "url": "https://www.elpaso.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Eloy Martín",
+            "partido": null,
+            "cargo": "Alcalde Presidente",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.elpaso.es"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.elpaso.es"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.elpaso.es"
+    ]
+}

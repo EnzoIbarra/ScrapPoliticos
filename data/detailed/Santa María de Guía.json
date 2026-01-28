@@ -1,0 +1,42 @@
+{
+    "municipality": "Santa María de Guía",
+    "url": "https://www.santamariadeguia.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Alejandra García Díaz",
+            "partido": null,
+            "cargo": "Concejal de Sector Primario",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santamariadeguia.es"
+        },
+        {
+            "nombre": "Alejandro Rivero",
+            "partido": null,
+            "cargo": "Concejal de Atención Ciudadana",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santamariadeguia.es"
+        },
+        {
+            "nombre": "Alfredo Gonçalves Ferreira",
+            "partido": null,
+            "cargo": "Alcalde de Santa María de Guía",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santamariadeguia.es"
+        },
+        {
+            "nombre": "Área de Sector Primario",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santamariadeguia.es"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.santamariadeguia.es"
+    ]
+}

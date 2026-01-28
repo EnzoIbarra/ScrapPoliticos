@@ -1,0 +1,182 @@
+{
+    "municipality": "Arico",
+    "url": "https://www.ayuntamientodearico.com",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Andrés Martínez",
+            "partido": null,
+            "cargo": "Alcalde de Arico",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientodearico.com"
+        },
+        {
+            "nombre": "Área de Educación",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientodearico.com"
+        },
+        {
+            "nombre": "Bienestar Social",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientodearico.com"
+        },
+        {
+            "nombre": "Concejalía de Mayores",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.ayuntamientodearico.com"
+        },
+        {
+            "nombre": "Andrés Celestino Martínez Morales",
+            "partido": "Partido Popular (PP)",
+            "cargo": "ALCALDE-PRESIDENTE",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027"
+        },
+        {
+            "nombre": "Olivia María Delgado Oval",
+            "partido": "Partido Socialista Obrero Español (PSOE)",
+            "cargo": "PRIMERA TENIENTE DE ALCALDE",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027"
+        },
+        {
+            "nombre": "Ariam Stefany Álvarez Trujillo",
+            "partido": "Partido Socialista Obrero Español (PSOE)",
+            "cargo": "SEGUNDA TENIENTE DE ALCALDE",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027"
+        },
+        {
+            "nombre": "Eudelia José Pestano Marrero",
+            "partido": "Partido Popular (PP)",
+            "cargo": "TERCERA TENIENTE DE ALCALDE",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027"
+        },
+        {
+            "nombre": "Agustín Tejera Dorta",
+            "partido": "Partido Socialista Obrero Español (PSOE)",
+            "cargo": "CUARTO TENIENTE DE ALCALDE",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027"
+        },
+        {
+            "nombre": "José Miguel Beby García",
+            "partido": "Partido Socialista Obrero Español (PSOE)",
+            "cargo": "CONCEJAL DELEGADO",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027"
+        },
+        {
+            "nombre": "Laura Morales Oramas",
+            "partido": "Partido Socialista Obrero Español (PSOE)",
+            "cargo": "CONCEJALA DELEGADA",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027"
+        },
+        {
+            "nombre": "Sebastián González Gómez",
+            "partido": "Partido Socialista Obrero Español (PSOE)",
+            "cargo": "CONCEJAL DELEGADO",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027"
+        },
+        {
+            "nombre": "Víctor Jorge García González",
+            "partido": "Coalición Canaria (CC)",
+            "cargo": "CONCEJAL",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027"
+        },
+        {
+            "nombre": "Davinia García González",
+            "partido": "Coalición Canaria (CC)",
+            "cargo": "CONCEJALA",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027"
+        },
+        {
+            "nombre": "Álvaro José Arbelo González",
+            "partido": "Coalición Canaria (CC)",
+            "cargo": "CONCEJAL",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027"
+        },
+        {
+            "nombre": "José Luis Hervella Perdomo",
+            "partido": "Arico Somos Todos (ARICO-ST)",
+            "cargo": "CONCEJAL",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027"
+        },
+        {
+            "nombre": "María Josefa García Marrero",
+            "partido": "Arico Somos Todos (ARICO-ST)",
+            "cargo": "CONCEJALA",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027"
+        },
+        {
+            "nombre": "Olivia Delgado",
+            "partido": null,
+            "cargo": "Primera Teniente de Alcalde y Concejala de Hacienda",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-aprueba-inicialmente-el-presupuesto-de-2026-por-mas-de-148-millones-de-euros-antes-de-finalizar-2025"
+        },
+        {
+            "nombre": "Andrés Martínez",
+            "partido": "PP",
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/andres-martinez-asume-la-alcaldia-de-arico-tras-el-pleno-extraordinario-celebrado-este-martes-23-de-diciembre"
+        },
+        {
+            "nombre": "Olivia Delgado",
+            "partido": "PSOE",
+            "cargo": "Primera Teniente de Alcalde; Alcaldesa (anterior)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodearico.com/andres-martinez-asume-la-alcaldia-de-arico-tras-el-pleno-extraordinario-celebrado-este-martes-23-de-diciembre"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.ayuntamientodearico.com/andres-martinez-asume-la-alcaldia-de-arico-tras-el-pleno-extraordinario-celebrado-este-martes-23-de-diciembre",
+        "https://www.ayuntamientodearico.com/plenos",
+        "https://www.ayuntamientodearico.com/corporacion-municipal-mandato-arico-2023-2027",
+        "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-aprueba-inicialmente-el-presupuesto-de-2026-por-mas-de-148-millones-de-euros-antes-de-finalizar-2025",
+        "https://www.ayuntamientodearico.com"
+    ]
+}

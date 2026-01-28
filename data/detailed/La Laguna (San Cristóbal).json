@@ -1,0 +1,30 @@
+{
+    "municipality": "La Laguna (San Cristóbal)",
+    "url": "https://www.aytolalaguna.org",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Ángel Chinea",
+            "partido": null,
+            "cargo": "Concejal de Obras, Infraestructuras y Accesibilidad de La Laguna",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aytolalaguna.org/actualidad/noticias/El-Ayuntamiento-acomete-el-asfaltado-de-la-Avenida-El-Sol-una-de-las-principales-vias-de-Bajamar"
+        },
+        {
+            "nombre": "Concejalía de Obras, Infraestructuras y Accesibilidad del Ayuntamiento de La Laguna",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aytolalaguna.org/actualidad/noticias/El-Ayuntamiento-acomete-el-asfaltado-de-la-Avenida-El-Sol-una-de-las-principales-vias-de-Bajamar"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.aytolalaguna.org/actualidad/noticias/El-Ayuntamiento-acomete-el-asfaltado-de-la-Avenida-El-Sol-una-de-las-principales-vias-de-Bajamar",
+        "https://www.aytolalaguna.org/ayuntamiento/corporacion-municipal-y-grupos-politicos",
+        "https://www.aytolalaguna.org/ayuntamiento/anuncios-municipales",
+        "https://www.aytolalaguna.org/ayuntamiento",
+        "https://www.aytolalaguna.org"
+    ]
+}

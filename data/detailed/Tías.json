@@ -1,0 +1,198 @@
+{
+    "municipality": "Tías",
+    "url": "https://www.ayuntamientodetias.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "José Juan Cruz Saavedra",
+            "partido": null,
+            "cargo": "Alcalde de Tías",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/ayuntamiento/saluda-del-alcalde"
+        },
+        {
+            "nombre": "José Juan Cruz Saavedra",
+            "partido": "PSOE",
+            "cargo": "Alcalde",
+            "email": "alcaldia@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "José Juan Cruz Saavedra",
+            "partido": "PSOE",
+            "cargo": "Alcalde",
+            "email": "jjcruz@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Marcial Nicolás Saavedra Sanginés",
+            "partido": "UNIDAS SÍ PODEMOS",
+            "cargo": "Primer Teniente de Alcalde Servicios Sociales. Participación ciudadana. Actuaciones en la promoción de la igualdad entre hombres y mujeres, así como contra la violencia de género. Bienestar animal. Protección Civil. Agricultura y Ganadería. Mayores y tercera edad.",
+            "email": "mnsaavedra@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Carmen Gloria Rodríguez Rodríguez",
+            "partido": "PSOE",
+            "cargo": "Segunda Teniente de Alcalde Medio ambiente urbano. Gestión de residuos sólidos urbanos, protección contra la contaminación acústica, lumínica y atmosférica en las zonas urbanas. Abastecimiento de agua potable a domicilio y evacuación y tratamiento de aguas residuales. Albergue de Tegoyo. Jardines. Energías Renovables. Desarrollo Económico y Empleo. Asimismo: Deportes. Movilidad y transporte colectivo urbano. Accesibilidad y Pesca.",
+            "email": "cgrodriguez@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Carmelo Tomás Silvera Cabrera",
+            "partido": "PSOE",
+            "cargo": "Economía y Hacienda. Régimen interior. Recursos humanos. Atención al Ciudadano. Estadística. Asimismo: Sanidad. Protección de la salud pública. Transparencia. Protección de datos. Contratación",
+            "email": "ctsilvera@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "María José González Díaz",
+            "partido": "PSOE",
+            "cargo": "Cultura (Centro Culturales, Bibliotecas, Teatro, Sala exposiciones, Plaza del Pavón, Casa Sr. Justo, edificio de cultura y antiguo colegio de La Asomada), Escuela de Música, Juventud. Protección y gestión del patrimonio histórico. Artesanía. Cementerio y actividades funerarias. Archivo.",
+            "email": "mjgonzalez@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Ulpiano Manuel Calero Cabrera",
+            "partido": "PSOE",
+            "cargo": "Quinto teniente de alcalde. Urbanismo (Plan General, Plan de Modernización). Obras y Servicios Municipales. Asimismo: Limpieza de dependencias. Parque Móvil. Parques Infantiles. Playas.",
+            "email": "umcalero@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Ismael Cruz Ramos",
+            "partido": "PSOE",
+            "cargo": "Deportes. Sanidad. Protección de la salud pública. Promoción de la participación de los ciudadanos en el uso eficiente y sostenible de las tecnologías de la información y las comunicaciones. Innovación y Nuevas Tecnologías. Protocolo.",
+            "email": "icruz@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Sergio García González",
+            "partido": "PSOE",
+            "cargo": "Servicio Municipal de Taxis y relativo a Tráfico. Alumbrado público.",
+            "email": "sgarcia@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Miriam Hernández Kajan",
+            "partido": "PSOE",
+            "cargo": "Educación. Fiestas patronales del municipio. Comercio y venta ambulante.",
+            "email": "mhernandez@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Christopher Notario Déniz",
+            "partido": "PSOE",
+            "cargo": "Limpieza de dependencias. Parque Móvil. Parques Infantiles. Playas.",
+            "email": "cnotario@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Mariana Grisel Pérez Noriega",
+            "partido": "PSOE",
+            "cargo": "Actividades clasificadas. Aperturas y Espectáculos Públicos. Inocuas (Ocupación vías pública, disciplina). Patrimonio. Vivienda. Transparencia. Protección de Datos.",
+            "email": "mgperez@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Francisco Javier Aparicio Betancort",
+            "partido": "PP",
+            "cargo": null,
+            "email": "fjaparicio.aytotias@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Maria Nerea Santana Alonso",
+            "partido": "PP",
+            "cargo": null,
+            "email": "mnsantana@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Ayoze Pérez García",
+            "partido": "PP",
+            "cargo": null,
+            "email": "aperezgarcia@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Ylenia Vizcaino Batista",
+            "partido": "PP",
+            "cargo": null,
+            "email": "yvizcaino@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Saray Rodríguez Marrero",
+            "partido": "PP",
+            "cargo": null,
+            "email": "srmarrero@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Alejandro Curbelo Delgado",
+            "partido": "PP",
+            "cargo": null,
+            "email": "acurbelo@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Antonio González Fernández",
+            "partido": "PP",
+            "cargo": null,
+            "email": "Agfernandez@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Amado Jesús Vizcaíno Eugenio",
+            "partido": "CCA-PNC",
+            "cargo": null,
+            "email": "avizcaino@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "Agustina Martín Perdomo",
+            "partido": "CCA-PNC",
+            "cargo": null,
+            "email": "mamartin@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        },
+        {
+            "nombre": "María Esther Tamargo Acebal",
+            "partido": "VOX",
+            "cargo": null,
+            "email": "metamargo@ayuntamientodetias.es",
+            "tipo": "Persona",
+            "source_url": "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.ayuntamientodetias.es/portal-transparencia/datos-biograficos-y-retribuciones-del-alcalde-y-concejales",
+        "https://www.ayuntamientodetias.es/portal-transparencia/informacion-de-relevancia-juridica",
+        "https://www.ayuntamientodetias.es/ayuntamiento/saluda-del-alcalde",
+        "https://www.ayuntamientodetias.es",
+        "https://www.ayuntamientodetias.es/?page_id=4"
+    ]
+}

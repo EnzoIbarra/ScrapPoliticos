@@ -1,0 +1,19 @@
+{
+  "Santa Cruz de La Palma": {
+    "requires": "javascript",
+    "url": "https://www.santacruzdelapalma.es/web/sclapalma/organigrama#concejalia",
+    "scroll": true,
+    "scroll_delay": 2,
+    "wait_selector": null,
+    "notes": "Contenido carga dinámicamente con scroll. Requiere renderizado JS."
+  },
+  "Puntallana": {
+    "requires": "ocr",
+    "urls": [
+      "https://puntallana.es/grupo-de-gobierno/",
+      "https://puntallana.es/telefonos-interes/"
+    ],
+    "image_selectors": ["img"],
+    "notes": "Información en imágenes PNG/JPG. Requiere OCR para extraer texto."
+  }
+}

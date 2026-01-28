@@ -1,0 +1,326 @@
+{
+    "municipality": "Adeje",
+    "url": "https://www.adeje.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "José Miguel Rodríguez Fraga",
+            "partido": null,
+            "cargo": "ALCALDE",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": "Alcaldía",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es"
+        },
+        {
+            "nombre": "Oficina de atención al ciudadano",
+            "partido": null,
+            "cargo": "Oficina de atención al ciudadano",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es"
+        },
+        {
+            "nombre": "Oficina de información al consumidor (OMIC)",
+            "partido": null,
+            "cargo": "Oficina de información al consumidor (OMIC)",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es"
+        },
+        {
+            "nombre": "Empresa Municipal de Servicios (EMSA)",
+            "partido": null,
+            "cargo": "Empresa Municipal de Servicios (EMSA)",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es"
+        },
+        {
+            "nombre": "Servicios Sociales",
+            "partido": null,
+            "cargo": "Servicios Sociales",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es/alcalde"
+        },
+        {
+            "nombre": "Oficina de atención al ciudadano",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es/alcalde"
+        },
+        {
+            "nombre": "Oficina de atención al consumidor (OMIC)",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es/alcalde"
+        },
+        {
+            "nombre": "Servicios Sociales",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es/alcalde"
+        },
+        {
+            "nombre": "Empresa Municipal de Servicios (EMSA)",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es/alcalde"
+        },
+        {
+            "nombre": "Recaudación municipal",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es/alcalde"
+        },
+        {
+            "nombre": "José Miguel Rodríguez Fraga",
+            "partido": "PSOE",
+            "cargo": "Alcalde de Adeje",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Epifanio Díaz Hernández",
+            "partido": "PSOE",
+            "cargo": "Grupo Socialista (PSOE)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "María Mercedes Vargas Delgado",
+            "partido": "PSOE",
+            "cargo": "Grupo Socialista (PSOE)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Adolfo Sebastián Alonso Ferrera",
+            "partido": "PSOE",
+            "cargo": "Grupo Socialista (PSOE)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Patricia Paulsen Fölling",
+            "partido": "PSOE",
+            "cargo": "Grupo Socialista (PSOE)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Manuel Luis Méndez Martín",
+            "partido": "PSOE",
+            "cargo": "Grupo Socialista (PSOE)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "María Esther Rivero Vargas",
+            "partido": "PSOE",
+            "cargo": "Grupo Socialista (PSOE)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Raquel Rodríguez Alonso",
+            "partido": "PSOE",
+            "cargo": "Grupo Socialista (PSOE)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Carmen Lucía Rodríguez del Toro",
+            "partido": "PSOE",
+            "cargo": "Grupo Socialista (PSOE)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Alberto Álvarez Jiménez",
+            "partido": "PSOE",
+            "cargo": "Grupo Socialista (PSOE)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Coraima Afonso Navarro",
+            "partido": "PSOE",
+            "cargo": "Grupo Socialista (PSOE)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Juan Desiderio Afonso Ruiz",
+            "partido": "PSOE",
+            "cargo": "Grupo Socialista (PSOE)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "José Antonio López Delgado",
+            "partido": "PSOE",
+            "cargo": "Grupo Socialista (PSOE)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Alberto Antonio Melián Álvarez",
+            "partido": "COALICIÓN CANARIA",
+            "cargo": "Grupo Coalición Canaria (CC)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Juan José Gutiérrez Galdona",
+            "partido": "COALICIÓN CANARIA",
+            "cargo": "Grupo Coalición Canaria (CC)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "María Luz Cervero García",
+            "partido": "COALICIÓN CANARIA",
+            "cargo": "Grupo Coalición Canaria (CC)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Aythami Jesús Amaro Rodríguez",
+            "partido": "COALICIÓN CANARIA",
+            "cargo": "Grupo Coalición Canaria (CC)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "José Ricardo González Vargas",
+            "partido": "COALICIÓN CANARIA",
+            "cargo": "Grupo Coalición Canaria (CC)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Marta Isabel Lorenzo Velázquez",
+            "partido": "PARTIDO POPULAR",
+            "cargo": "Grupo Mixto (PP)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Christian Pablo Comellas Barreneche",
+            "partido": "VOX",
+            "cargo": "Grupo Mixto (Vox)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Gabriel González Fernández",
+            "partido": "PODEMOS-IU",
+            "cargo": "Grupo Mixto (Unidas Sí Podemos)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Oficina de información al consumidor (OMIC)",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Obras Municipales",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Limpieza",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Agromercado",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Seguridad ciudadana",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es/contenido/317"
+        },
+        {
+            "nombre": "Servicios funerarios",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.adeje.es/contenido/317"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.adeje.es",
+        "https://www.adeje.es/contenido/317",
+        "https://www.adeje.es/website/buzon.php",
+        "https://www.adeje.es/alcalde",
+        "https://www.adeje.es/contenido/582"
+    ]
+}

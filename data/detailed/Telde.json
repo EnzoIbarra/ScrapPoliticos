@@ -1,0 +1,510 @@
+{
+    "municipality": "Telde",
+    "url": "https://www.telde.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Iván Sánchez",
+            "partido": null,
+            "cargo": "Concejal de Vías y Obras",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es"
+        },
+        {
+            "nombre": "Juan Antonio Peña",
+            "partido": null,
+            "cargo": "Alcalde de Telde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es"
+        },
+        {
+            "nombre": "Juan Antonio Peña Medina",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": "alcaldia@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "María Inmaculada González Calderín",
+            "partido": null,
+            "cargo": "Primera Teniente de Alcalde. Concejala de Gobierno de Sector Primario, Playas y Contratación",
+            "email": "mariaglezcalderin@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Juan Francisco Artiles Carreño",
+            "partido": null,
+            "cargo": "Segundo Teniente de Alcalde. Concejal de Gobierno de Educación, Medioambiente y Bienestar Animal",
+            "email": "juanfartiles@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Juan Francisco Martel Santana",
+            "partido": null,
+            "cargo": "Tercer Teniente de Alcalde. Concejal de Gobierno de Cultura, Turismo y Servicios",
+            "email": "juanmartel@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Carmen Cecilia Batista Hernández",
+            "partido": null,
+            "cargo": "Cuarta Teniente de Alcalde. Concejala de Gobierno de Recursos Humanos",
+            "email": "carmenbatista@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Iván Sánchez Estévez",
+            "partido": null,
+            "cargo": "Quinto Teniente de Alcalde Concejal de Gobierno de Infraestructuras y Vivienda Concejal Delegado de Contratación",
+            "email": "ivansanchez@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "María Desirée Hernández Martín",
+            "partido": null,
+            "cargo": "Sexta Teniente de Alcalde Concejala de Gobierno de Economía, Hacienda y Empleo",
+            "email": "desireehernandez@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Miguel Ángel Rodríguez Marchena",
+            "partido": null,
+            "cargo": "Séptimo Teniente de Alcalde Concejal de Gobierno de Seguridad Ciudadana, Ocio y Deportes",
+            "email": "miguelrodriguez@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Adela de los Ángeles Álvarez Hernández",
+            "partido": null,
+            "cargo": "Octava Teniente de Alcalde Concejala de Gobierno de Cohesión Social",
+            "email": "adelaalvarez@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Juan Francisco Jiménez Moreno",
+            "partido": null,
+            "cargo": "Concejal Delegado de Asesoría Jurídica, Urbanismo y Planeamiento, Patrimonio Municipal, Aguas y Saneamiento",
+            "email": "juanfranciscojimenez@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Nayra Navarro Ruano",
+            "partido": null,
+            "cargo": "Concejala Delegada de Desarrollo Local, Comercio y Pymes, Transparencia y TICs",
+            "email": "nayranavarro@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Cristhian Santiago Santana Caballero",
+            "partido": null,
+            "cargo": "Concejal Delegado de Juventud y Deportes",
+            "email": "cristhiansantana@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Juan Pablo Rodríguez Martín",
+            "partido": null,
+            "cargo": "Concejal Delegado de Educación y Solidaridad",
+            "email": "juanpablorodriguez@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Janoa Anceaume Delgado",
+            "partido": null,
+            "cargo": "Concejala Delegada de Participación Ciudadana, Sanidad y Consumo",
+            "email": "janoanceaume@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "María Eugenia Melián Santana",
+            "partido": null,
+            "cargo": "Concejala Delegada de Vivienda y Contratación",
+            "email": "mariaeugeniamelian@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Alejandro Ramos Guerra",
+            "partido": "Partido Socialista Obrero Español",
+            "cargo": null,
+            "email": "grupopsoetelde@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Rut Wilkan Jiménez Pulido",
+            "partido": "Partido Socialista Obrero Español",
+            "cargo": null,
+            "email": "grupopsoetelde@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Inés Pulido García",
+            "partido": "Partido Socialista Obrero Español",
+            "cargo": null,
+            "email": "grupopsoetelde@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Pino María Ramírez Santana",
+            "partido": "Partido Socialista Obrero Español",
+            "cargo": null,
+            "email": "grupopsoetelde@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Juan Marrero Gutiérrez",
+            "partido": "Partido Socialista Obrero Español",
+            "cargo": null,
+            "email": "grupopsoetelde@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "José Luis Macías Alonso",
+            "partido": "Nueva Canarias-Frente Amplio Canarista",
+            "cargo": null,
+            "email": "jlmacias@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "María Celeste López Medina",
+            "partido": "Nueva Canarias-Frente Amplio Canarista",
+            "cargo": null,
+            "email": "celestelopez@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Sebastián Servando González Robaina",
+            "partido": "Nueva Canarias-Frente Amplio Canarista",
+            "cargo": null,
+            "email": "secretariopolitico@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Álvaro Juan Monzón Santana",
+            "partido": "Nueva Canarias-Frente Amplio Canarista",
+            "cargo": null,
+            "email": "secretariopolitico@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Rita Esmeralda Cabrera Sánchez",
+            "partido": "VOX",
+            "cargo": null,
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Hector José Suárez Morales",
+            "partido": "NO ADSCRITOS",
+            "cargo": null,
+            "email": "hectorsuarez@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "María del Pilar Mesa González",
+            "partido": "NO ADSCRITOS",
+            "cargo": null,
+            "email": "mp.mesa@telde.es",
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/concejales"
+        },
+        {
+            "nombre": "Carmen Cecilia Batista Hernández",
+            "partido": null,
+            "cargo": "Presidenta (Comisión de Pleno de Asuntos Económicos)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "María Desirée Hernández Martín",
+            "partido": null,
+            "cargo": "Vicepresidenta (Comisión de Pleno de Asuntos Económicos)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Juan Francisco Jiménez Moreno",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Económicos)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "María Inmaculada González Calderín",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Económicos)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Iván Sánchez Estévez",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Económicos)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Alejandro Ramos Guerra",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Económicos)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Inés Pulido García",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Económicos)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "José Luis Macías Alonso",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Económicos)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Juan Francisco Martel Santana",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Económicos)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Héctor José Suárez Morales",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Económicos)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Rita Esmeralda Cabrera Sánchez",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Económicos)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Iván Sánchez Estévez",
+            "partido": null,
+            "cargo": "Presidente (Comisión de Pleno de Desarrollo Sostenible)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Juan Francisco Martel Santana",
+            "partido": null,
+            "cargo": "Vicepresidente (Comisión de Pleno de Desarrollo Sostenible)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Juan Francisco Jiménez Moreno",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Desarrollo Sostenible)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Nayra Navarro Ruano",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Desarrollo Sostenible)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Miguel Ángel Rodríguez Marchena",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Desarrollo Sostenible)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Juan Marrero Gutiérrez",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Desarrollo Sostenible)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Pino María Ramírez Santana",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Desarrollo Sostenible)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "José Luis Macías Alonso",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Desarrollo Sostenible)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Álvaro Juan Monzón Santana",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Desarrollo Sostenible)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "María del Pilar Mesa González",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Desarrollo Sostenible)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Janoa Anceaume Delgado",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Desarrollo Sostenible)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Juan Francisco Martel Santana",
+            "partido": null,
+            "cargo": "Presidente (Comisión de Pleno de Asuntos Sociales)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Juan Pablo Rodríguez Martín",
+            "partido": null,
+            "cargo": "Vicepresidente (Comisión de Pleno de Asuntos Sociales)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Nayra Navarro Ruano",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Sociales)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Miguel Ángel Rodríguez Marchena",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Sociales)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Cristhian Santiago Santana Caballero",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Sociales)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "María Eugenia Melián Santana",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Sociales)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Adela de los Ángeles Álvarez Hernández",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Sociales)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Alejandro Ramos Guerra",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Sociales)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Rut Wilkan Jiménez Pulido",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Sociales)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "José Luis Macías Alonso",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Sociales)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        },
+        {
+            "nombre": "Sebastián Servando González Robaina",
+            "partido": null,
+            "cargo": "Vocal (Comisión de Pleno de Asuntos Sociales)",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.telde.es/ayuntamiento/pleno-y-comisiones"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.telde.es/ayuntamiento/pleno-y-comisiones",
+        "https://www.telde.es",
+        "https://www.telde.es/ayuntamiento/pleno-y-comisiones/convocatorias-de-plenos",
+        "https://www.telde.es/ayuntamiento/concejales",
+        "https://www.telde.es/ayuntamiento/pleno-y-comisiones/actas-de-plenos"
+    ]
+}

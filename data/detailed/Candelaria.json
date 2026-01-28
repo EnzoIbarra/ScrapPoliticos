@@ -1,0 +1,206 @@
+{
+    "municipality": "Candelaria",
+    "url": "https://www.candelaria.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "María Concepción Brito Núñez",
+            "partido": "PSC-PSOE",
+            "cargo": "Alcaldesa",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Jorge Baute Delgado",
+            "partido": "PSC-PSOE",
+            "cargo": "Concejal de Obras Públicas, Servicios Públicos, Transporte y Accesibilidad",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "José Francisco Pinto Ramos",
+            "partido": "PSC-PSOE",
+            "cargo": "Concejal de Gabinete de Alcaldía, Relaciones Institucionales, Protocolo, Régimen Interior y Cementerios",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Olivia Concepción Pérez Díaz",
+            "partido": "PSC-PSOE",
+            "cargo": "Concejala de Servicios Sociales, Igualdad y Sanidad",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Reinaldo José Triviño Blanco",
+            "partido": "PSC-PSOE",
+            "cargo": "Concejal de Planificación y Gestión Urbanística y Ambiental; Vivienda y Agenda Urbana",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Manuel Alberto González Pestano",
+            "partido": "PSC-PSOE",
+            "cargo": "Concejal de Cultura, Identidad Canaria, Patrimonio Histórico, Fiestas y Deportes",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Margarita Eva Tendero",
+            "partido": "PSC-PSOE",
+            "cargo": "Concejala de Desarrollo Rural y Pesquero, Medio Ambiente Natural, Educación y Juventud",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Airam Pérez Chinea",
+            "partido": "PSC-PSOE",
+            "cargo": "Concejal de Hacienda, Recursos Humanos y Empresas Concesionarias",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "María del Carmen Clemente Díaz",
+            "partido": "PSC-PSOE",
+            "cargo": "Concejala de Comercio, Consumo y Turismo",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Olegario Francisco Alonso Bello",
+            "partido": "PSC-PSOE",
+            "cargo": "Concejal de Seguridad y Emergencias y Parque Móvil",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Mónica Monserrat Yanes Delgado",
+            "partido": "PSC-PSOE",
+            "cargo": "Concejala de Atención y Participación Ciudadana y Empresas Municipales",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Jacobo López Fariña",
+            "partido": "PP",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Raquel Martín Castro",
+            "partido": "PP",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "María Carlota Díaz González",
+            "partido": "PP",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "José Daniel Sosa González",
+            "partido": "PP",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Shaila Castellano Batista",
+            "partido": "PP",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Miguel Eduardo Hernández Chitty",
+            "partido": "PP",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Ángela Cruz Perera",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "José Yeray Padilla Cruz",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "José Tortosa Pallarés",
+            "partido": "VOX",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Violeta López Jiménez",
+            "partido": "Unidas Si Podemos",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/?page_id=622"
+        },
+        {
+            "nombre": "Mari Brito",
+            "partido": null,
+            "cargo": "Alcaldesa",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.candelaria.es/alcaldesa-3"
+        },
+        {
+            "nombre": "Ayuntamiento de Candelaria",
+            "partido": null,
+            "cargo": "Institución Municipal",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.candelaria.es/alcaldesa-3"
+        },
+        {
+            "nombre": "Servicio de Atención a la Ciudadanía",
+            "partido": null,
+            "cargo": "Servicio",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.candelaria.es/alcaldesa-3"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.candelaria.es/organos-de-gobierno",
+        "https://www.candelaria.es/?page_id=622",
+        "https://www.candelaria.es/alcaldesa-3",
+        "https://www.candelaria.es/plenos",
+        "https://www.candelaria.es"
+    ]
+}

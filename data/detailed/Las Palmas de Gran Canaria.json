@@ -1,0 +1,214 @@
+{
+    "municipality": "Las Palmas de Gran Canaria",
+    "url": "https://www.laspalmasgc.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Carolina Darias San Sebastián",
+            "partido": "G. P. M. Socialista",
+            "cargo": "Alcaldesa-Presidenta",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Francisco Hernández Spínola",
+            "partido": "Grupo Político Municipal Socialista",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Josué Íñiguez Ollero",
+            "partido": "Grupo Político Municipal Socialista",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "María del Carmen Vargas Palmés",
+            "partido": "Grupo Político Municipal Socialista",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Mauricio Aurelio Roque González",
+            "partido": "Grupo Político Municipal Socialista",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Saturnina Santana Dumpiérrez",
+            "partido": "Grupo Político Municipal Socialista",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Carla Campoamor Abad",
+            "partido": "Grupo Político Municipal Socialista",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Carlos Alberto Díaz Mendoza",
+            "partido": "Grupo Político Municipal Socialista",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Esther Lidia Martín Martín",
+            "partido": "Grupo Político Municipal Socialista",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Héctor Javier Alemán Arencibia",
+            "partido": "Grupo Político Municipal Socialista",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Betsaida González Rodríguezo",
+            "partido": "Grupo Político Municipal Socialista",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Alexis Javier Rodríguez Suárez",
+            "partido": "Grupo Político Municipal Socialista",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Jimena Mercedes Delgado-Taramona Hernández",
+            "partido": "Grupo Político Municipal Popular",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Ignacio Felipe Guerra de la Torre",
+            "partido": "Grupo Político Municipal Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Olga Palacios Pérez",
+            "partido": "Grupo Político Municipal Popular",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Gustavo Sánchez Carrillo",
+            "partido": "Grupo Político Municipal Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "María del Mar Amador Montesdeoca",
+            "partido": "Grupo Político Municipal Popular",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Diego Fermín López-Galán Medina",
+            "partido": "Grupo Político Municipal Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "María Pilar Mas Suárez",
+            "partido": "Grupo Político Municipal Popular",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "María Victoria Trujillo León",
+            "partido": "Grupo Político Municipal Popular",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Ignacio García Marina",
+            "partido": "Grupo Político Municipal Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Andrés Alberto Rodríguez Almeida",
+            "partido": "Grupo Político Municipal Vox",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Rafael Miguel De Juan Miñón",
+            "partido": "Grupo Político Municipal Vox",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "Carmen Rosa Expósito Batista",
+            "partido": "Grupo Político Municipal Vox",
+            "cargo": "Concejala",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        },
+        {
+            "nombre": "David Suárez González",
+            "partido": "Grupo Político Municipal Mixto — Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.laspalmasgc.es/es/otras-secciones/contacto",
+        "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones/plenos",
+        "https://www.laspalmasgc.es/es/ayuntamiento/pleno-y-comisiones",
+        "https://www.laspalmasgc.es/es/ayuntamiento/empleo-publico/informacion-de-contacto-para-opositores-e-interesados-en-expedientes",
+        "https://www.laspalmasgc.es"
+    ]
+}

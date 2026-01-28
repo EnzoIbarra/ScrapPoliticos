@@ -1,0 +1,318 @@
+{
+    "municipality": "Tacoronte",
+    "url": "https://www.tacoronte.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Sandra Izquierdo",
+            "partido": null,
+            "cargo": "Alcaldesa",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es"
+        },
+        {
+            "nombre": "José Caro",
+            "partido": null,
+            "cargo": "Segundo Teniente de Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es"
+        },
+        {
+            "nombre": "Vanessa Luis-Ravelo",
+            "partido": null,
+            "cargo": "Concejala de Igualdad",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es"
+        },
+        {
+            "nombre": "Noemí García",
+            "partido": null,
+            "cargo": "Primera Teniente de Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es"
+        },
+        {
+            "nombre": "Área de Turismo",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.tacoronte.es"
+        },
+        {
+            "nombre": "Área de Aguas y Saneamiento",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.tacoronte.es"
+        },
+        {
+            "nombre": "Agencia de Empleo y Desarrollo Local",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.tacoronte.es"
+        },
+        {
+            "nombre": "Eduardo Dávila",
+            "partido": null,
+            "cargo": "Director de la Agencia de Empleo y Desarrollo Local",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es"
+        },
+        {
+            "nombre": "Área de Protección Civil",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.tacoronte.es"
+        },
+        {
+            "nombre": "Excmo. Ayuntamiento de Tacoronte",
+            "partido": null,
+            "cargo": null,
+            "email": "informacion@tacoronte.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/directorio"
+        },
+        {
+            "nombre": "Oficina de Información y Turismo",
+            "partido": null,
+            "cargo": null,
+            "email": "turismo@aytotacoronte.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/directorio"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": null,
+            "email": "alcaldia@aytotacoronte.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/directorio"
+        },
+        {
+            "nombre": "Compras",
+            "partido": null,
+            "cargo": null,
+            "email": "compras@tacoronte.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/directorio"
+        },
+        {
+            "nombre": "Intervención",
+            "partido": null,
+            "cargo": null,
+            "email": "intevencion@tacoronte.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/directorio"
+        },
+        {
+            "nombre": "Oficina Técnica",
+            "partido": null,
+            "cargo": null,
+            "email": "otecnica@tacoronte.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/directorio"
+        },
+        {
+            "nombre": "Sandra Izquierdo Fernández",
+            "partido": null,
+            "cargo": "Alcaldesa",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento"
+        },
+        {
+            "nombre": "Ayuntamiento",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.tacoronte.es/ayuntamiento"
+        },
+        {
+            "nombre": "Sandra Izquierdo Fernández",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Tarsis Morales Martín",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Raquel Torres Pérez",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Magdalena Ávila González",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Iván Hernández Machín",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Noemí García Martín",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Eduardo Dávila Pérez",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Vanessa Luis-Ravelo Alonso",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Candelaria Regalado Infante",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "José Daniel Díaz Armas",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Mª Raquel Marichal de la Paz",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "José Antonio Gil Goya",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Luz Mª González Expósito",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "José A. Caro Salas",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Yaiza Díaz Dorta",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Jesús Acosta Trujillo",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Carlos Medina Dorta",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Sandra Mª Ramos Perez",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "José Luis Almenara González",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "María Noemi Campillo Portaña",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Benito Manuel Regalado Reyes",
+            "partido": null,
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tacoronte.es/ayuntamiento/corporacion-municipal"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.tacoronte.es/ayuntamiento/directorio",
+        "https://www.tacoronte.es/ayuntamiento/actas-de-los-plenos",
+        "https://www.tacoronte.es/ayuntamiento/corporacion-municipal",
+        "https://www.tacoronte.es/ayuntamiento",
+        "https://www.tacoronte.es"
+    ]
+}

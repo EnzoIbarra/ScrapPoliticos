@@ -1,0 +1,46 @@
+{
+    "municipality": "San Bartolomé de Tirajana",
+    "url": "https://www.maspalomas.com",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Gabinete de Prensa",
+            "partido": null,
+            "cargo": "Gabinete de Prensa",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.maspalomas.com/mnunotprensa/2722-el-ayuntamiento-de-san-bartolome-de-tirajana-mejora-otra-area-recreativa"
+        },
+        {
+            "nombre": "Alejandro Marichal",
+            "partido": null,
+            "cargo": "Primer teniente de alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.maspalomas.com/mnunotprensa/2711-2025-pre-municipalizacion-del-servicio-de-hamacas-y-sombrillas"
+        },
+        {
+            "nombre": "Yilenia Vega",
+            "partido": null,
+            "cargo": "Concejala de Litoral",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.maspalomas.com/mnunotprensa/2711-2025-pre-municipalizacion-del-servicio-de-hamacas-y-sombrillas"
+        },
+        {
+            "nombre": "Gabinete de Prensa",
+            "partido": null,
+            "cargo": "Ilustre Ayuntamiento de la Villa de San Bartolomé de Tirajana",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.maspalomas.com/mnunotprensa/2711-2025-pre-municipalizacion-del-servicio-de-hamacas-y-sombrillas"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.maspalomas.com/mnunotprensa/2722-el-ayuntamiento-de-san-bartolome-de-tirajana-mejora-otra-area-recreativa",
+        "https://www.maspalomas.com/mnunotprensa/2711-2025-pre-municipalizacion-del-servicio-de-hamacas-y-sombrillas",
+        "https://www.maspalomas.com",
+        "https://www.maspalomas.com/tu-ayuntamiento",
+        "https://www.maspalomas.com/index.php"
+    ]
+}

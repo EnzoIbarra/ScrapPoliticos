@@ -1,0 +1,141 @@
+{
+    "municipality": "Tinajo",
+    "url": "https://www.tinajo.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Jesús Machín",
+            "partido": null,
+            "cargo": "Alcalde de Tinajo",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es"
+        },
+        {
+            "nombre": "Yurena Cubas",
+            "partido": null,
+            "cargo": "Concejal del área",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es"
+        },
+        {
+            "nombre": "Jesús Casimiro Machín Duque",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/saluda-del-alcalde"
+        },
+        {
+            "nombre": "Jesús Casimiro Machín Duque",
+            "partido": "CCa-PNC",
+            "cargo": "Alcalde",
+            "email": "alcaldia@tinajo.es",
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Luis Pérez Berriel",
+            "partido": "CCa-PNC",
+            "cargo": "Concejal",
+            "email": "luisperez@tinajo.es",
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Vianney Rodríguez Rodríguez",
+            "partido": "CCa-PNC",
+            "cargo": "Concejal",
+            "email": "vrodriguez@tinajo.es",
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Yurena Cubas Morales",
+            "partido": "CCa-PNC",
+            "cargo": "Concejala",
+            "email": "yurenacubas@tinajo.es",
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Jonathan Pérez Olivero",
+            "partido": "CCa-PNC",
+            "cargo": "Concejal",
+            "email": "jperez@tinajo.es",
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Yohana Raquel García Olivero",
+            "partido": "CCa-PNC",
+            "cargo": "Concejala",
+            "email": "yohanagarcia@tinajo.es",
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Coraima Morales Quintero",
+            "partido": "CCa-PNC",
+            "cargo": "Concejala",
+            "email": "coraimamorales@tinajo.es",
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Macarena Olivero Bonilla",
+            "partido": "CCa-PNC",
+            "cargo": "Concejala",
+            "email": "macarenaolivero@tinajo.es",
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Adriana Brito Guillén",
+            "partido": "CCa-PNC",
+            "cargo": "Concejala",
+            "email": "adrianabrito@tinajo.es",
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Begoña Del Pino Hernández Nobrega",
+            "partido": "PSOE",
+            "cargo": "Concejala",
+            "email": "begohdezpsoe@gmail.com",
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Manuel Florián Toribio Bernal",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Antonio Morales Fernández",
+            "partido": "M.R.T",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/corporacion-municipal"
+        },
+        {
+            "nombre": "Francisco Manuel Aisa Perdomo",
+            "partido": "M.R.T",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.tinajo.es/ayuntamiento/corporacion-municipal"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.tinajo.es/ayuntamiento/saluda-del-alcalde",
+        "https://www.tinajo.es/ayuntamiento/corporacion-municipal",
+        "https://www.tinajo.es",
+        "https://www.tinajo.es/ayuntamiento/equipo-de-gobierno"
+    ]
+}

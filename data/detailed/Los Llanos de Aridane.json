@@ -1,0 +1,454 @@
+{
+    "municipality": "Los Llanos de Aridane",
+    "url": "https://www.aridane.org",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Javier Llamas",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/"
+        },
+        {
+            "nombre": "Rosana González",
+            "partido": null,
+            "cargo": "Concejalía de Cultura",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/"
+        },
+        {
+            "nombre": "Rosana González",
+            "partido": null,
+            "cargo": "Director",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city"
+        },
+        {
+            "nombre": "Concejalía de Cultura",
+            "partido": null,
+            "cargo": "Concejalía",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city"
+        },
+        {
+            "nombre": "José Javier Pérez Llamas",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Idaira Pérez Domínguez",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "María Teresa Acosta Navajas",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Tamara Acosta Vera",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Francisco Javier Acosta Acosta",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Rubens Díaz Leal",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Verónica González Acosta",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Marlene González Almeida",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Carlos de Paz González",
+            "partido": "Coalición Canaria",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Victor Manuel González Hernández",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Virginia Santaella Pérez",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Álvaro Javier Pages Cárdenas",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Pablo Alberto Almeida López",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Eduardo Pérez Pérez",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "José María Rivera Carrillo",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "María Inmaculada Fernández Pérez",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "María Noelia García Leal",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Elena Concepción Marrero",
+            "partido": "Partido Popular",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Alicia María Vanoostende Simili",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Diego González Cabrera",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "María Nieves Barroso Ramos",
+            "partido": "PSOE",
+            "cargo": "Concejal",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.aridane.org/city/corporacionmunicipal"
+        },
+        {
+            "nombre": "Centralita",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Archivo Municipal",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Oficina de registro",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Recaudación",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Padrón de habitantes",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Intervención",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Catastro",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Secretaría",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Deportes",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Fiestas",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Alcaldía",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Recursos Humanos",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Desarrollo Local",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Urbanismo",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Infraestructuras",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Cultura",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Juventud",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Biblioteca",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Turismo",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Servicios Sociales",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Menores",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Museo del Vino",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Servicio de día de menores",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Banco de alimentos",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Policía local",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Protección Civil",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Oficina de Consumo",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Escuela Infantil",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "Contacto eventos",
+            "partido": null,
+            "cargo": null,
+            "email": "protocolo@aridane.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        },
+        {
+            "nombre": "informacion",
+            "partido": null,
+            "cargo": null,
+            "email": "informacion@aridane.org",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.aridane.org/city/contacto"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.aridane.org",
+        "https://www.aridane.org/city/contacto",
+        "https://www.aridane.org/city/corporacionmunicipal",
+        "https://www.aridane.org/city",
+        "https://www.aridane.org/city/"
+    ]
+}

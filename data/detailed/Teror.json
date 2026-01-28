@@ -1,0 +1,50 @@
+{
+    "municipality": "Teror",
+    "url": "https://www.teror.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Laura Quintana",
+            "partido": null,
+            "cargo": "Concejal de Movilidad",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.teror.es"
+        },
+        {
+            "nombre": "Davinia Falcón",
+            "partido": null,
+            "cargo": "Alcaldesa de San Mateo",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.teror.es"
+        },
+        {
+            "nombre": "Concejalía de Movilidad del Ayuntamiento de Teror",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.teror.es"
+        },
+        {
+            "nombre": "Concejalía de Cultura del Ayuntamiento de Teror",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.teror.es"
+        },
+        {
+            "nombre": "Concejalía de Igualdad",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.teror.es"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.teror.es"
+    ]
+}

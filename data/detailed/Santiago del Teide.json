@@ -1,0 +1,50 @@
+{
+    "municipality": "Santiago del Teide",
+    "url": "https://www.santiagodelteide.org",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Ayuntamiento de Santiago del Teide",
+            "partido": null,
+            "cargo": null,
+            "email": "ayuntamiento@santiagodelteide.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santiagodelteide.org"
+        },
+        {
+            "nombre": "Emilio José Navarro Castanedo",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.santiagodelteide.org"
+        },
+        {
+            "nombre": "GABINETE DE PRENSA AYUNTAMIENTO DE SANTIAGO DEL TEIDE",
+            "partido": null,
+            "cargo": null,
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santiagodelteide.org"
+        },
+        {
+            "nombre": "ASESORAMIENTO EMPLEO",
+            "partido": null,
+            "cargo": null,
+            "email": "agenciaempleo@santiagodelteide.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santiagodelteide.org"
+        },
+        {
+            "nombre": "SERVICIOS SOCIALES",
+            "partido": null,
+            "cargo": null,
+            "email": "serviciossociales@santiagodelteide.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.santiagodelteide.org"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.santiagodelteide.org"
+    ]
+}

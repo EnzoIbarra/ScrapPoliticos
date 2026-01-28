@@ -1,0 +1,205 @@
+{
+    "municipality": "Puntallana",
+    "url": "https://puntallana.es/grupo-de-gobierno/",
+    "status": "success",
+    "method": "ocr",
+    "data": [
+        {
+            "nombre": "Registro",
+            "cargo": "Registro",
+            "email": "registro@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Catastro",
+            "cargo": "Catastro",
+            "email": "catastro@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Oficina Técnica",
+            "cargo": "Oficina Técnica",
+            "email": "oficinatecnica@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Policía Local",
+            "cargo": "Policía Local",
+            "email": "policia@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Recaudación",
+            "cargo": "Recaudación",
+            "email": "rperez@tributostenerife.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "AEDL",
+            "cargo": "AEDL",
+            "email": "natalia.prodac@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Tesorería",
+            "cargo": "Tesorería",
+            "email": "tesoreria@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Intervención",
+            "cargo": "Intervención",
+            "email": "intervencion@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Recursos Humanos",
+            "cargo": "Recursos Humanos",
+            "email": "personal@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Juzgado",
+            "cargo": "Juzgado",
+            "email": "juzgadodepaz@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Secretaría",
+            "cargo": "Secretaría",
+            "email": "secretario@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Informática",
+            "cargo": "Informática",
+            "email": "informatica@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Servicios Sociales",
+            "cargo": "Servicios Sociales",
+            "email": "serviciossociales@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Servicio de Ayuda a Domicilio",
+            "cargo": "Servicio de Ayuda a Domicilio",
+            "email": "sad@serviciossociales@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Equipo de menores y familia",
+            "cargo": "Equipo de menores y familia",
+            "email": "etcomarcanoreste@gmail.com",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Residencia de Mayores",
+            "cargo": "Residencia de Mayores",
+            "email": "centromayores@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Cultura y Fiestas",
+            "cargo": "Cultura y Fiestas",
+            "email": "cultura@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Museo Casa Luján",
+            "cargo": "Museo Casa Luján",
+            "email": "casalujan@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Biblioteca Municipal",
+            "cargo": "Biblioteca Municipal",
+            "email": "biblioteca@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Juventud y Educación",
+            "cargo": "Juventud y Educación",
+            "email": "educacion@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Escuela Infantil Municipal",
+            "cargo": "Escuela Infantil Municipal",
+            "email": "escuelaifontil@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Deportes",
+            "cargo": "Deportes",
+            "email": "deportes@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Gimnasio Municipal",
+            "cargo": "Gimnasio Municipal",
+            "email": "gimnasio@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        },
+        {
+            "nombre": "Mercadillo Municipal",
+            "cargo": "Mercadillo Municipal",
+            "email": "mercadillo@puntallana.es",
+            "tipo": "Organización/Departamento",
+            "source_url": "https://puntallana.es/grupo-de-gobierno/",
+            "ocr_extracted": true
+        }
+    ],
+    "pages_scanned": [
+        "https://puntallana.es/grupo-de-gobierno/",
+        "https://puntallana.es/telefonos-interes/"
+    ],
+    "images_processed": 7
+}

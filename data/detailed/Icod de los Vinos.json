@@ -1,0 +1,26 @@
+{
+    "municipality": "Icod de los Vinos",
+    "url": "https://www.icoddelosvinos.es",
+    "status": "success",
+    "data": [
+        {
+            "nombre": "Javier Sierra Jorge",
+            "partido": null,
+            "cargo": "Alcalde",
+            "email": null,
+            "tipo": "Persona",
+            "source_url": "https://www.icoddelosvinos.es"
+        },
+        {
+            "nombre": "Oficina de Atención Ciudadana",
+            "partido": null,
+            "cargo": "Atención ciudadana",
+            "email": null,
+            "tipo": "Organización/Departamento",
+            "source_url": "https://www.icoddelosvinos.es"
+        }
+    ],
+    "pages_scanned": [
+        "https://www.icoddelosvinos.es"
+    ]
+}
