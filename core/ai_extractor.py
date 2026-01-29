@@ -56,20 +56,32 @@ class AIExtractor:
             api_key=self.api_key
         )
         
+        # 1. Extracción PREVIA de emails usando Regex (Fallback seguro)
+        found_emails = self._extract_emails_regex(text)
+        emails_context = ", ".join(found_emails) if found_emails else "Ninguno detectado por regex"
+
         prompt = f"""
-        Eres un experto en scraping y estructuración de datos políticos y municipales.
-        Tu tarea es extraer la lista de miembros de la corporación municipal (concejales, alcalde) Y contactos institucionales clave del siguiente texto.
+        Eres un experto en scraping de datos gubernamentales.
+        Tu ÚNICO objetivo es extraer la lista de CARGOS POLÍTICOS ELECTOS (Alcalde/sa y Concejales/as) del siguiente texto.
+        
+        CONTEXTO DE PROTECCIÓN:
+        Hemos pre-detectado estos emails ocultos en el código: [{emails_context}]
+        Usa esta lista para ASOCIARLOS a los políticos correspondientes si la inferencia directa falla.
+        
+        REGLAS ESTRICTAS DE FILTRADO:
+        1. SOLO extraer personas con cargos de "Alcalde", "Alcaldesa", "Concejal", "Concejala", "Teniente de Alcalde".
+        2. IGNORAR COMPLETAMENTE: Personal técnico, administrativos, secretarios, tesoreros, policía local, bedeles, o directores de área no electos.
+        3. IGNORAR departamentos genéricos o emails de "información" o "registro" si no están asociados directamente a un político.
 
-        Para cada entrada encontrada, extrae:
-        - "nombre": Nombre completo de la persona O nombre del departamento/área (ej: "Juan Pérez", "Área de Cultura", "Alcaldía").
-        - "partido": Partido político (siglas o nombre) solo si es una persona vinculada a uno.
-        - "cargo": Cargo o función (ej: "Alcalde", "Concejal de Fiestas", "Oficina de Atención Ciudadana").
-        - "email": Email de contacto directo o institucional.
-        - "tipo": Clasifica como "Persona" (si es un individuo con nombre propio) o "Organización/Departamento" (si es un contacto genérico de área).
+        Para cada cargo político encontrado, extrae:
+        - "nombre": Nombre completo de la persona.
+        - "partido": Partido político (siglas o nombre).
+        - "cargo": El cargo oficial (ej: "Concejal de Urbanismo").
+        - "email": Email personal o del área que dirige. (Prioriza los que coincidan con la lista pre-detectada).
 
-        Si no encuentras información relevante, devuelve una lista vacía [].
-        Devuelve ÚNICAMENTE un JSON válido con una lista de objetos bajo la clave "data". Sin texto adicional ni bloques de código markdown.
-
+        Si no encuentras cargos políticos, devuelve una lista vacía [].
+        Devuelve ÚNICAMENTE un JSON válido con una lista de objetos bajo la clave "data".
+        
         Texto:
         {text}
         """
@@ -107,3 +119,15 @@ class AIExtractor:
             return data["data"]
         
         return None
+
+    def _extract_emails_regex(self, text: str) -> List[str]:
+        """Extrae todos los emails únicos del texto usando regex."""
+        import re
+        # Regex básico pero robusto para emails
+        email_pattern = r'[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}'
+        emails = set(re.findall(email_pattern, text))
+        
+        # Filtrar extensiones de imagen falsas (a veces png@... pasa)
+        valid_emails = [e for e in emails if not e.lower().endswith(('.png', '.jpg', '.jpeg', '.gif', '.css', '.js'))]
+        
+        return list(valid_emails)

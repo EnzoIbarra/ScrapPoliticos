@@ -9,11 +9,8 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from core.logger import get_logger
-from core.detector import StrategyDetector
-from config import load_domains
-from scrapers.http_scraper import HTTPScraper
-from scrapers.javascript_scraper import JavaScriptScraper
-from scrapers.ocr_scraper import OCRScraper
+from core.strategy_manager import StrategyManager
+from config import load_domains, load_special_cases
 
 # Cargar variables de entorno
 load_dotenv()
@@ -22,13 +19,8 @@ logger = get_logger("ScrapPoliticos")
 
 class ScraperApp:
     def __init__(self):
-        self.detector = StrategyDetector()
-        self.scrapers = {
-            "http": HTTPScraper(),
-            "javascript": JavaScriptScraper(),
-            "playwright": JavaScriptScraper(), # Alias
-            "ocr": OCRScraper()
-        }
+        self.manager = StrategyManager()
+        self.special_cases = load_special_cases()
         self.output_dir = Path("data")
         self.output_dir.mkdir(exist_ok=True)
         self.results_file = self.output_dir / "results.json"
@@ -44,44 +36,27 @@ class ScraperApp:
         else:
             municipalities = load_domains()
 
-        logger.info(f"🚀 Iniciando scraping para {len(municipalities)} municipios...")
+        logger.info(f"🚀 Iniciando scraping secuencial para {len(municipalities)} municipios...")
         
         results = []
         
         for muni in municipalities:
             try:
-                result = self.process_municipality(muni)
+                # Inyectar configuración especial si existe
+                muni_name = muni['municipality']
+                if muni_name in self.special_cases:
+                    muni['config'] = self.special_cases[muni_name]
+
+                result = self.manager.execute_pipeline(muni)
                 results.append(result)
                 
                 # Guardado incremental por seguridad
                 self._save_results(results)
                 
             except Exception as e:
-                logger.error(f"Error crítico procesando {muni.get('municipality')}: {e}")
+                logger.error(f"Error crítico procesando {muni.get('municipality')}: {e}", exc_info=True)
                 
         logger.info("✅ Proceso de scraping finalizado exitosamente.")
-
-    def process_municipality(self, muni: dict):
-        """Orquesta la extracción para un solo municipio."""
-        muni_name = muni['municipality']
-        
-        # Detectar mejor estrategia
-        force_strategy = os.getenv("FORCE_STRATEGY")
-        if force_strategy:
-            strategy_name = force_strategy
-            logger.info(f"[{muni_name}] Forzando estrategia: {strategy_name}")
-        else:
-            strategy_name = self.detector.get_best_strategy(muni)
-
-        scraper = self.scrapers.get(strategy_name, self.scrapers["http"])
-        
-        # Enriquecer muni con config si es caso especial
-        if muni_name in self.detector.special_cases:
-            muni['config'] = self.detector.special_cases[muni_name]
-        
-        # Ejecutar
-        logger.info(f"[{muni_name}] Usando estrategia: {strategy_name}")
-        return scraper.scrape(muni)
 
     def _save_results(self, results):
         """Guarda los resultados en formato JSON."""

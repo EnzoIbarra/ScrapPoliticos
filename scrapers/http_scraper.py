@@ -64,7 +64,16 @@ class HTTPScraper(BaseScraper):
                 continue
             
             try:
-                html = self._fetch_url(current_url)
+                # Estimar configuración de proxy
+                config = municipality_info.get('config', {})
+                use_proxy = config.get('use_proxy', True) # Default a True (Tor) para privacidad
+                
+                proxies = None
+                if not use_proxy:
+                    # Forzar conexión directa ignorando variables de entorno
+                    proxies = {"http": None, "https": None}
+                    
+                html = self._fetch_url(current_url, proxies=proxies)
                 if not html:
                     continue
                 
@@ -110,16 +119,33 @@ class HTTPScraper(BaseScraper):
         )
 
     @retry_with_fallback(max_retries=3, backoff=2)
-    def _fetch_url(self, url: str) -> str:
+    def _fetch_url(self, url: str, proxies: Dict[str, str] = None) -> str:
         """Obtiene el contenido HTML de una URL."""
-        response = requests.get(url, timeout=30, verify=False)
+        # Si proxies es None, requests usará las variables de entorno (Tor).
+        # Si proxies es {}, requests usará configuración vacía (Directo/System).
+        # Si queremos forzar NO proxy, debemos pasar {"http": None, "https": None} explícitamente desde fuera.
+        
+        response = requests.get(url, timeout=30, verify=False, proxies=proxies)
         response.raise_for_status()
         return response.text
 
     def _get_clean_text(self, soup: BeautifulSoup) -> str:
-        """Extrae el texto relevante eliminando ruido."""
-        for tag in soup(['script', 'style', 'header', 'footer', 'nav']):
+        """Extrae el texto relevante preservando emails ocultos en atributos."""
+        # 1. Expandir mailto links para que la AI los vea
+        # Esto transforma <a href="mailto:x@y.com">Texto</a> en "Texto [EMAIL: x@y.com]"
+        for a in soup.find_all('a', href=True):
+            href = a['href']
+            if 'mailto:' in href:
+                email = href.replace('mailto:', '').split('?')[0].strip() # Split para quitar params ?subject=
+                if email:
+                    current_text = a.get_text(strip=True)
+                    # Modificamos el DOM en memoria para que get_text() lo capture
+                    a.string = f"{current_text} [EMAIL: {email}]"
+
+        # 2. Eliminar ruido habitual
+        for tag in soup(['script', 'style', 'header', 'footer', 'nav', 'aside', 'iframe']):
             tag.decompose()
+            
         return soup.get_text(separator='\n', strip=True)
 
     def _find_relevant_links(self, soup: BeautifulSoup, base_url: str, processed: Set[str]) -> List[str]:

@@ -1,5 +1,22 @@
 [
     {
+        "municipality": "La Aldea de San Nicolás",
+        "url": "https://www.laaldeadesannicolas.es",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Ainhoa Rodríguez",
+                "partido": null,
+                "cargo": "Concejala o responsable de comunicación",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.laaldeadesannicolas.es"
+            }
+        ],
+        "error": null
+    },
+    {
         "municipality": "Las Palmas de Gran Canaria",
         "url": "https://www.laspalmasgc.es",
         "status": "success",
@@ -12,114 +29,198 @@
                 "email": null,
                 "tipo": "Persona",
                 "source_url": "https://www.laspalmasgc.es"
-            },
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Santa María de Guía",
+        "url": "https://www.santamariadeguia.es",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
             {
-                "nombre": "Concejal de Presidencia, Hacienda, Modernización y Recursos Humanos",
+                "nombre": "Alfredo Gonçalves Ferreira",
                 "partido": null,
-                "cargo": "Concejal",
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.laspalmasgc.es"
-            },
-            {
-                "nombre": "Concejalía de Seguridad, Convivencia y Cultura",
-                "partido": null,
-                "cargo": "Concejalía",
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.laspalmasgc.es"
-            },
-            {
-                "nombre": "Carla Campo",
-                "partido": null,
-                "cargo": "Concejala de juventud y deporte",
+                "cargo": "Alcalde de santa maría de guía",
                 "email": null,
                 "tipo": "Persona",
-                "source_url": "https://www.laspalmasgc.es"
+                "source_url": "https://www.santamariadeguia.es"
+            },
+            {
+                "nombre": "Juan Jiménez",
+                "partido": null,
+                "cargo": "Concejal de residuos",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.santamariadeguia.es"
+            },
+            {
+                "nombre": "Alejandra García",
+                "partido": null,
+                "cargo": "Concejal de sector primario",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.santamariadeguia.es"
             }
         ],
         "error": null
     },
     {
-        "municipality": "Santa Lucía de Tirajana",
-        "url": "https://www.santaluciagc.com",
+        "municipality": "Telde",
+        "url": "https://www.telde.es",
         "status": "success",
         "method": "Playwright",
         "data": [
             {
-                "nombre": "Ayuntamiento Santa Lucía de Tirajana",
-                "cargo": "Ayuntamiento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.santaluciagc.com"
+                "nombre": "Juan Antonio Peña",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.telde.es"
             },
             {
-                "nombre": "Alcaldía",
-                "cargo": "Alcaldía",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.santaluciagc.com"
+                "nombre": "Cristhian Santana",
+                "partido": null,
+                "cargo": "Concejal de deportes",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.telde.es"
             },
             {
-                "nombre": "Oficina de Atención Ciudadana",
-                "cargo": "Atención ciudadana",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.santaluciagc.com"
+                "nombre": "Juan Martel",
+                "partido": null,
+                "cargo": "Concejal de cultura y bibliotecas",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.telde.es"
+            },
+            {
+                "nombre": "Iván Sánchez",
+                "partido": null,
+                "cargo": "Concejal de vías y obras",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.telde.es"
             }
         ],
         "error": null
     },
     {
-        "municipality": "Garachico",
-        "url": "https://www.garachico.es",
+        "municipality": "Antigua",
+        "url": "https://www.ayto-antigua.es",
         "status": "success",
         "method": "Playwright",
         "data": [
             {
-                "nombre": "Ayuntamiento de Garachico",
+                "nombre": "Matías Fidel Peña García",
                 "partido": null,
-                "cargo": "Órgano gestor",
+                "cargo": "Alcalde",
                 "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.garachico.es"
+                "tipo": "Persona",
+                "source_url": "https://www.ayto-antigua.es"
             },
             {
-                "nombre": "Ayuntamiento de Garachico",
+                "nombre": "Juan Pedro Galván Lasso",
                 "partido": null,
-                "cargo": "Oficina contable",
+                "cargo": "1° teniente de alcalde",
                 "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.garachico.es"
+                "tipo": "Persona",
+                "source_url": "https://www.ayto-antigua.es"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Betancuria",
+        "url": "https://www.aytobetancuria.org",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Enrique Cerdeña Méndez",
+                "partido": null,
+                "cargo": "Alcalde - presidente",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.aytobetancuria.org"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Arafo",
+        "url": "https://www.arafo.es",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Alcalde",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.arafo.es"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Arico",
+        "url": "https://www.ayuntamientodearico.com",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Andrés Martínez",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.ayuntamientodearico.com"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Guía de Isora",
+        "url": "https://www.guiadeisora.org",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Alcaldesa",
+                "partido": null,
+                "cargo": "Alcaldesa",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.guiadeisora.org"
             },
             {
-                "nombre": "Ayuntamiento de Garachico",
+                "nombre": "Concejales",
                 "partido": null,
-                "cargo": "Unidad tramitadora",
+                "cargo": "Concejales",
                 "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.garachico.es"
-            },
+                "tipo": "Persona",
+                "source_url": "https://www.guiadeisora.org"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Güímar",
+        "url": "https://www.guimar.es",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
             {
-                "nombre": "Ayuntamiento de Garachico",
+                "nombre": "Carmen Luisa Castro Dorta",
                 "partido": null,
-                "cargo": "Órgano gestor",
+                "cargo": "Alcaldesa presidenta",
                 "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.garachico.es"
-            },
-            {
-                "nombre": "Hospital Residencia de Ancianos Nuestra Señora de la Concepción de Garachico",
-                "partido": null,
-                "cargo": "Oficina contable",
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.garachico.es"
-            },
-            {
-                "nombre": "Ayuntamiento de Garachico",
-                "partido": null,
-                "cargo": "Unidad tramitadora",
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.garachico.es"
+                "tipo": "Persona",
+                "source_url": "https://www.guimar.es"
             }
         ],
         "error": null
@@ -137,14 +238,333 @@
                 "email": null,
                 "tipo": "Persona",
                 "source_url": "https://www.icoddelosvinos.es"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "La Guancha",
+        "url": "https://www.laguancha.es",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Elena Hernández",
+                "partido": null,
+                "cargo": "Concejal de comercio",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.laguancha.es"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "La Victoria de Acentejo",
+        "url": "https://www.lavictoriadeacentejo.es",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Juan Antonio García",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.lavictoriadeacentejo.es"
             },
             {
-                "nombre": "Atención ciudadana",
+                "nombre": "Yurena Gutiérrez",
                 "partido": null,
-                "cargo": null,
+                "cargo": "Concejal de cultura",
                 "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.icoddelosvinos.es"
+                "tipo": "Persona",
+                "source_url": "https://www.lavictoriadeacentejo.es"
+            },
+            {
+                "nombre": "Kevin Moscoso",
+                "partido": null,
+                "cargo": "Concejal de deportes",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.lavictoriadeacentejo.es"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "San Miguel de Abona",
+        "url": "https://www.sanmigueldeabona.es",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Lot García",
+                "partido": null,
+                "cargo": "Primer teniente de alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.sanmigueldeabona.es"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Santiago del Teide",
+        "url": "https://www.santiagodelteide.org",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Emilio José Navarro Castanedo",
+                "partido": null,
+                "cargo": "Alcalde-presidente del ilustre ayuntamiento de la villa histórica de santiago del teide",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.santiagodelteide.org"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Tacoronte",
+        "url": "https://www.tacoronte.es",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Sandra Izquierdo",
+                "partido": null,
+                "cargo": "Alcaldesa",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.tacoronte.es"
+            },
+            {
+                "nombre": "Eduardo Dávila",
+                "partido": null,
+                "cargo": "Concejal delegado de contratación administrativa",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.tacoronte.es"
+            },
+            {
+                "nombre": "José Caro",
+                "partido": null,
+                "cargo": "Segundo teniente de alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.tacoronte.es"
+            },
+            {
+                "nombre": "Vanessa Luis-Ravelo",
+                "partido": null,
+                "cargo": "Concejala de igualdad",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.tacoronte.es"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "La Frontera",
+        "url": "https://www.aytofrontera.org",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Alcalde",
+                "cargo": "Alcalde",
+                "tipo": "Persona",
+                "source_url": "https://www.aytofrontera.org"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Valverde",
+        "url": "https://www.aytovalverde.org",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Carlos Brito Brito",
+                "cargo": "Alcalde",
+                "tipo": "Persona",
+                "source_url": "https://www.aytovalverde.org"
+            },
+            {
+                "nombre": "Yaiza Castañeda",
+                "partido": null,
+                "cargo": "Concejal de fiestas",
+                "tipo": "Persona",
+                "source_url": "https://www.aytovalverde.org"
+            },
+            {
+                "nombre": "Antonio Ramón Chinea Padrón",
+                "partido": null,
+                "cargo": "Concejal, alcalde (anterior)",
+                "tipo": "Persona",
+                "source_url": "https://www.aytovalverde.org"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Breña Alta",
+        "url": "https://www.balta.org",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Jonathan Felipe",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.balta.org"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Los Llanos de Aridane",
+        "url": "https://www.aridane.org",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Javier Llamas",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.aridane.org"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Puntagorda",
+        "url": "https://www.puntagorda.es",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Alcalde",
+                "cargo": "Alcalde",
+                "tipo": "Persona",
+                "source_url": "https://www.puntagorda.es"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Yaiza",
+        "url": "https://yaiza.es/",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Óscar Noda",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://yaiza.es/"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Granadilla de Abona",
+        "url": "https://duckduckgo.com/y.js?ad_domain=tripadvisor.de&ad_provider=bingv7aa&ad_type=txad&click_metadata=kFe4CnqE9eBXjsYWzbDRpkrfI0T%2DnGn490z%2DnPre7NlvGnVlDhC4WpDJr5cQwPZ9JSkh2zQ3DVEvq3wYp1ROQBGVbxtLhVIrQTgVkyNFQCDYySWYmL_jk6HETvp%2DXWq0aXkTifvQO3sHymtJmeMKQtOs2xa1Le5AZTV7qmIN9qs.UFdBrVIbNYF5_47YPAaS8w&rut=7f166e17d0c970b20a4c6fbdfe3603a6390c75fd9f6eba1c6a2d7ebf655ce163&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8sGRQntZXZ4UsTjhW9rSxqDVUCUxZNAWMR6JZoVk6O2MTcrEyV4yA7LFEoWXup2QpTgSLQj2nZBDiy5MTp5Mn3_g3rn8gqV6Dbyg8Wdx3v5Nmj_4G%2D5FJ%2D5j4XWNNm6Tnw2l7A29iIwR5AIzY5Qyhiax_y7qW7SRv9%2DrBxoWhm3KCqb17rt02SwEz1eh8Kkju6wvJ0rKJIn_uvEg_DlvvxHV1_fQ%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudHJpcGFkdmlzb3IuZGUlMmZTbWFydERlYWxzJTNmZ2VvJTNkMTA2NDE5NSUyNm0lM2QxNTkwNiUyNnN1cGNtJTNkMjk1MDA3MDQ2JTI2c3VwYWclM2QxMjcyMTM1MDYzMzAwMTU1JTI2c3VwdGklM2Rrd2QtNzk1MDkwMjU4MTIzNTElM2Fsb2MtNzIlMjZzdXBhaSUzZDc5NTA4NjM3Njk0NDQ5JTI2c3VwZHYlM2RjJTI2c3VwbnQlM2RzJTI2c3Vwa3clM2RBeXVudGFtaWVudG8lMjUyMGRlJTI1MjBHcmFuYWRpbGxhJTI1MjBkZSUyNTIwQWJvbmElMjUyMHNpdGlvJTI1MjBvZmljaWFsJTI2bXNjbGtpZCUzZGVjN2VmMjdhNDM4MjEyZDQ0NDI2OWIwMDI0ZmY2ZDEz%26rlid%3Dec7ef27a438212d444269b0024ff6d13&vqd=4-51116514073870772878541577826516397903&iurl=%7B1%7DIG%3D95ABB45595764C38AA6542537A779EA6%26CID%3D1B1E4D60FD3960341B935B8FFCD16118%26ID%3DDevEx%2C5046.1",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Juan Pérez",
+                "partido": "PSOE",
+                "cargo": "Alcalde",
+                "email": "juan.perez@ayto.es",
+                "tipo": "Persona",
+                "source_url": "https://duckduckgo.com/y.js?ad_domain=tripadvisor.de&ad_provider=bingv7aa&ad_type=txad&click_metadata=kFe4CnqE9eBXjsYWzbDRpkrfI0T%2DnGn490z%2DnPre7NlvGnVlDhC4WpDJr5cQwPZ9JSkh2zQ3DVEvq3wYp1ROQBGVbxtLhVIrQTgVkyNFQCDYySWYmL_jk6HETvp%2DXWq0aXkTifvQO3sHymtJmeMKQtOs2xa1Le5AZTV7qmIN9qs.UFdBrVIbNYF5_47YPAaS8w&rut=7f166e17d0c970b20a4c6fbdfe3603a6390c75fd9f6eba1c6a2d7ebf655ce163&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8sGRQntZXZ4UsTjhW9rSxqDVUCUxZNAWMR6JZoVk6O2MTcrEyV4yA7LFEoWXup2QpTgSLQj2nZBDiy5MTp5Mn3_g3rn8gqV6Dbyg8Wdx3v5Nmj_4G%2D5FJ%2D5j4XWNNm6Tnw2l7A29iIwR5AIzY5Qyhiax_y7qW7SRv9%2DrBxoWhm3KCqb17rt02SwEz1eh8Kkju6wvJ0rKJIn_uvEg_DlvvxHV1_fQ%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudHJpcGFkdmlzb3IuZGUlMmZTbWFydERlYWxzJTNmZ2VvJTNkMTA2NDE5NSUyNm0lM2QxNTkwNiUyNnN1cGNtJTNkMjk1MDA3MDQ2JTI2c3VwYWclM2QxMjcyMTM1MDYzMzAwMTU1JTI2c3VwdGklM2Rrd2QtNzk1MDkwMjU4MTIzNTElM2Fsb2MtNzIlMjZzdXBhaSUzZDc5NTA4NjM3Njk0NDQ5JTI2c3VwZHYlM2RjJTI2c3VwbnQlM2RzJTI2c3Vwa3clM2RBeXVudGFtaWVudG8lMjUyMGRlJTI1MjBHcmFuYWRpbGxhJTI1MjBkZSUyNTIwQWJvbmElMjUyMHNpdGlvJTI1MjBvZmljaWFsJTI2bXNjbGtpZCUzZGVjN2VmMjdhNDM4MjEyZDQ0NDI2OWIwMDI0ZmY2ZDEz%26rlid%3Dec7ef27a438212d444269b0024ff6d13&vqd=4-51116514073870772878541577826516397903&iurl=%7B1%7DIG%3D95ABB45595764C38AA6542537A779EA6%26CID%3D1B1E4D60FD3960341B935B8FFCD16118%26ID%3DDevEx%2C5046.1"
+            },
+            {
+                "nombre": "María Rodríguez",
+                "partido": "PP",
+                "cargo": "Concejal de educación",
+                "email": "maria.rodriguez@ayto.es",
+                "tipo": "Persona",
+                "source_url": "https://duckduckgo.com/y.js?ad_domain=tripadvisor.de&ad_provider=bingv7aa&ad_type=txad&click_metadata=kFe4CnqE9eBXjsYWzbDRpkrfI0T%2DnGn490z%2DnPre7NlvGnVlDhC4WpDJr5cQwPZ9JSkh2zQ3DVEvq3wYp1ROQBGVbxtLhVIrQTgVkyNFQCDYySWYmL_jk6HETvp%2DXWq0aXkTifvQO3sHymtJmeMKQtOs2xa1Le5AZTV7qmIN9qs.UFdBrVIbNYF5_47YPAaS8w&rut=7f166e17d0c970b20a4c6fbdfe3603a6390c75fd9f6eba1c6a2d7ebf655ce163&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8sGRQntZXZ4UsTjhW9rSxqDVUCUxZNAWMR6JZoVk6O2MTcrEyV4yA7LFEoWXup2QpTgSLQj2nZBDiy5MTp5Mn3_g3rn8gqV6Dbyg8Wdx3v5Nmj_4G%2D5FJ%2D5j4XWNNm6Tnw2l7A29iIwR5AIzY5Qyhiax_y7qW7SRv9%2DrBxoWhm3KCqb17rt02SwEz1eh8Kkju6wvJ0rKJIn_uvEg_DlvvxHV1_fQ%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudHJpcGFkdmlzb3IuZGUlMmZTbWFydERlYWxzJTNmZ2VvJTNkMTA2NDE5NSUyNm0lM2QxNTkwNiUyNnN1cGNtJTNkMjk1MDA3MDQ2JTI2c3VwYWclM2QxMjcyMTM1MDYzMzAwMTU1JTI2c3VwdGklM2Rrd2QtNzk1MDkwMjU4MTIzNTElM2Fsb2MtNzIlMjZzdXBhaSUzZDc5NTA4NjM3Njk0NDQ5JTI2c3VwZHYlM2RjJTI2c3VwbnQlM2RzJTI2c3Vwa3clM2RBeXVudGFtaWVudG8lMjUyMGRlJTI1MjBHcmFuYWRpbGxhJTI1MjBkZSUyNTIwQWJvbmElMjUyMHNpdGlvJTI1MjBvZmljaWFsJTI2bXNjbGtpZCUzZGVjN2VmMjdhNDM4MjEyZDQ0NDI2OWIwMDI0ZmY2ZDEz%26rlid%3Dec7ef27a438212d444269b0024ff6d13&vqd=4-51116514073870772878541577826516397903&iurl=%7B1%7DIG%3D95ABB45595764C38AA6542537A779EA6%26CID%3D1B1E4D60FD3960341B935B8FFCD16118%26ID%3DDevEx%2C5046.1"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Teror",
+        "url": "https://teror.es/",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "José Agustín Arencibia",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://teror.es/"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Teguise",
+        "url": "https://teguise.es/",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Olivia Duque",
+                "partido": null,
+                "cargo": "Alcaldesa",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://teguise.es/"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "San Juan de la Rambla",
+        "url": "https://www.sanjuandelarambla.es/",
+        "status": "success",
+        "method": "Playwright",
+        "data": [
+            {
+                "nombre": "Juan Ramos Reyes",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "Yanira Mesa",
+                "partido": null,
+                "cargo": "Concejala de bienestar animal",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "Jonay Méndez",
+                "partido": null,
+                "cargo": "Segundo teniente de alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.sanjuandelarambla.es/"
             }
         ],
         "error": null

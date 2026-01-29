@@ -26,6 +26,19 @@ def analyze_and_filter():
 
     valid_results = []
     retry_queue = []
+    
+    # Cargar resultados válidos existentes para no perder datos previos
+    if valid_file.exists():
+        try:
+            with open(valid_file, 'r', encoding='utf-8') as f:
+                existing_valid = json.load(f)
+                # Crear diccionario para evitar duplicados (clave: municipio)
+                valid_map = {item['municipality']: item for item in existing_valid}
+                print(f"♻️ Cargados {len(existing_valid)} resultados válidos previos.")
+        except Exception:
+            valid_map = {}
+    else:
+        valid_map = {}
 
     print(f"📊 Analizando {len(results)} registros...")
 
@@ -36,10 +49,15 @@ def analyze_and_filter():
         
         # Criterio de éxito: Status success Y data no vacía
         if status == "success" and data and len(data) > 0:
-            valid_results.append(item)
+            # Upsert en el mapa de válidos
+            valid_map[muni_name] = item
         else:
+            # Si fallo, verificar si YA teníamos un resultado válido previo
+            if muni_name in valid_map:
+                print(f"ℹ️ Conservando resultado válido previo para {muni_name} a pesar del fallo actual.")
+                continue
+
             # Preparamos el item para la cola de reintento
-            # Solo necesitamos municipality y url, y la config si existe
             retry_item = {
                 "municipality": muni_name,
                 "url": item.get("url")
@@ -48,6 +66,9 @@ def analyze_and_filter():
                 retry_item["config"] = item["config"]
             
             retry_queue.append(retry_item)
+
+    # Convertir mapa a lista
+    valid_results = list(valid_map.values())
 
     # Guardar resultados válidos
     with open(valid_file, 'w', encoding='utf-8') as f:

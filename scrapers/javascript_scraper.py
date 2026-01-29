@@ -25,14 +25,31 @@ class JavaScriptScraper(BaseScraper):
         """Ejecuta Playwright para obtener el HTML renderizado."""
         muni_name = municipality_info['municipality']
         url = municipality_info['url']
+        if not url.startswith('http'):
+            url = f'https://{url}'
         config = municipality_info.get('config', {})
         
         logger.info(f"[{muni_name}] Iniciando Playwright para {url}")
         
+        # Configuración de proxy
+        use_proxy = config.get('use_proxy', True)
+        launch_args = {"headless": True}
+        
+        if not use_proxy:
+            # Crear un entorno limpio sin variables de proxy
+            import os
+            env = os.environ.copy()
+            env.pop("HTTP_PROXY", None)
+            env.pop("HTTPS_PROXY", None)
+            launch_args["env"] = env
+            logger.info(f"[{muni_name}] Desactivando proxy para Playwright (Conexión Directa)")
+        
         try:
             with sync_playwright() as p:
-                browser = p.chromium.launch(headless=True)
-                page = browser.new_page()
+                browser = p.chromium.launch(**launch_args)
+                # Crear contexto ignorando errores HTTPS
+                context = browser.new_context(ignore_https_errors=True)
+                page = context.new_page()
                 page.goto(url, wait_until="networkidle", timeout=300000)
                 
                 # Gestión de Scroll automático si se requiere
@@ -95,7 +112,17 @@ class JavaScriptScraper(BaseScraper):
         time.sleep(2)
 
     def _get_clean_text(self, soup: BeautifulSoup) -> str:
-        """Copia de la limpieza de texto (podría ir a utils)."""
-        for tag in soup(['script', 'style', 'header', 'footer', 'nav']):
+        """Extrae el texto relevante preservando emails ocultos en atributos."""
+        # 1. Expandir mailto links para que la AI los vea
+        for a in soup.find_all('a', href=True):
+            href = a['href']
+            if 'mailto:' in href:
+                email = href.replace('mailto:', '').split('?')[0].strip()
+                if email:
+                    current_text = a.get_text(strip=True)
+                    a.string = f"{current_text} [EMAIL: {email}]"
+
+        # 2. Eliminar ruido
+        for tag in soup(['script', 'style', 'header', 'footer', 'nav', 'aside']):
             tag.decompose()
         return soup.get_text(separator='\n', strip=True)

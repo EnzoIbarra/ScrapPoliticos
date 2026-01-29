@@ -60,4 +60,8 @@ def load_models_config() -> List[str]:
     return [
         "google/gemini-2.0-flash-exp:free",
         "meta-llama/llama-3.3-70b-instruct:free",
+        "deepseek/deepseek-r1-distill-llama-70b:free",
+        "qwen/qwen-2.5-coder-32b-instruct:free",
+        "microsoft/phi-3-medium-128k-instruct:free",
+        "nousresearch/hermes-3-llama-3.1-405b:free",
     ]

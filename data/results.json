@@ -1,292 +1,136 @@
 [
     {
         "municipality": "Agaete",
-        "url": "https://www.agaete.es",
+        "url": "https://www.agaete.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
         "error": "No se extrajeron datos de IA"
-    },
-    {
-        "municipality": "Agüimes",
-        "url": "https://www.aguimes.es",
-        "status": "success",
-        "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Alcalde",
-                "cargo": "Alcalde",
-                "tipo": "Persona",
-                "source_url": "https://www.aguimes.es"
-            },
-            {
-                "nombre": "Concejalía de Festejos",
-                "cargo": "Organizador de eventos",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.aguimes.es"
-            },
-            {
-                "nombre": "Atención Ciudadana",
-                "cargo": "Oficina de atención ciudadana",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.aguimes.es"
-            },
-            {
-                "nombre": "Área de Cultura",
-                "cargo": "Departamento de cultura",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.aguimes.es"
-            }
-        ],
-        "error": null
     },
     {
         "municipality": "Artenara",
-        "url": "https://www.artenara.es",
+        "url": "https://www.artenara.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
         "error": "No se extrajeron datos de IA"
-    },
-    {
-        "municipality": "Arucas",
-        "url": "https://www.arucas.org",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.arucas.org/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "Firgas",
-        "url": "https://www.firgas.es",
-        "status": "success",
-        "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Ayuntamiento de la Villa de Firgas",
-                "cargo": "Institución",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.firgas.es"
-            },
-            {
-                "nombre": "Grupo de Gobierno municipal",
-                "cargo": "Institución",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.firgas.es"
-            },
-            {
-                "nombre": "Área de Cultura",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.firgas.es"
-            },
-            {
-                "nombre": "Servicios Sociales",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.firgas.es"
-            },
-            {
-                "nombre": "Oficina de Atención Ciudadana",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.firgas.es"
-            }
-        ],
-        "error": null
-    },
-    {
-        "municipality": "Gáldar",
-        "url": "https://www.galdar.es",
-        "status": "success",
-        "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Consejo Municipal",
-                "cargo": "Órgano de gobierno",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.galdar.es"
-            },
-            {
-                "nombre": "Alcaldía",
-                "cargo": "Ejecutivo municipal",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.galdar.es"
-            },
-            {
-                "nombre": "Gabinete de Prensa",
-                "cargo": "Comunicación institucional",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.galdar.es"
-            },
-            {
-                "nombre": "Oficina de Atención Ciudadana",
-                "cargo": "Atención al público",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.galdar.es"
-            },
-            {
-                "nombre": "Relaciones Institucionales",
-                "cargo": "Coordinación institucional",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.galdar.es"
-            },
-            {
-                "nombre": "Área de Cultura",
-                "cargo": "Gestión cultural",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.galdar.es"
-            }
-        ],
-        "error": null
-    },
-    {
-        "municipality": "Ingenio",
-        "url": "https://www.ingenio.es",
-        "status": "success",
-        "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Atención Ciudadana",
-                "cargo": "Oficina de atención ciudadana",
-                "email": "info@ingenio.es",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ingenio.es"
-            },
-            {
-                "nombre": "Ayuntamiento de Ingenio",
-                "cargo": "Institución",
-                "email": "info@ingenio.es",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ingenio.es"
-            }
-        ],
-        "error": null
-    },
-    {
-        "municipality": "La Aldea de San Nicolás",
-        "url": "https://www.laaldeadesannicolas.es",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.laaldeadesannicolas.es/\nCall log:\n  - navigating to \"https://www.laaldeadesannicolas.es/\", waiting until \"networkidle\"\n"
     },
     {
         "municipality": "Mogán",
-        "url": "https://www.mogan.es",
+        "url": "https://www.mogan.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "No se extrajeron datos de IA"
+        "error": "Page.goto: net::ERR_TIMED_OUT at https://www.mogan.es/\nCall log:\n  - navigating to \"https://www.mogan.es/\", waiting until \"networkidle\"\n"
     },
     {
-        "municipality": "San Bartolomé de Tirajana",
-        "url": "https://www.maspalomas.com",
+        "municipality": "Santa Brígida",
+        "url": "https://www.santabrigida.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.maspalomas.com/\", waiting until \"networkidle\"\n"
+        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.santabrigida.es/\", waiting until \"networkidle\"\n"
     },
     {
         "municipality": "Tejeda",
-        "url": "https://www.tejeda.es",
+        "url": "https://tejeda.eu/",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "Page.goto: net::ERR_CONNECTION_REFUSED at https://www.tejeda.es/\nCall log:\n  - navigating to \"https://www.tejeda.es/\", waiting until \"networkidle\"\n"
+        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://tejeda.eu/\", waiting until \"networkidle\"\n"
     },
     {
-        "municipality": "Telde",
-        "url": "https://www.telde.es",
+        "municipality": "Teror",
+        "url": "https://teror.es/",
         "status": "success",
         "method": "Playwright",
         "data": [
             {
-                "nombre": "Juan Antonio Peña",
+                "nombre": "José Agustín Arencibia",
                 "partido": null,
                 "cargo": "Alcalde",
                 "email": null,
                 "tipo": "Persona",
-                "source_url": "https://www.telde.es"
+                "source_url": "https://teror.es/"
             },
             {
-                "nombre": "Cristhian Santana",
-                "partido": null,
-                "cargo": "Concejal de deportes",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.telde.es"
-            },
-            {
-                "nombre": "Juan Martel",
-                "partido": null,
-                "cargo": "Concejal de cultura y bibliotecas",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.telde.es"
-            },
-            {
-                "nombre": "Iván Sánchez",
-                "partido": null,
-                "cargo": "Concejal de vías y obras",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.telde.es"
-            },
-            {
-                "nombre": "Fran Cabrera",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.telde.es"
-            },
-            {
-                "nombre": "Hilda Zudán",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.telde.es"
-            },
-            {
-                "nombre": "Concejalía de Festejos",
+                "nombre": "Concejalía de Igualdad",
                 "partido": null,
                 "cargo": null,
                 "email": null,
                 "tipo": "Organización/Departamento",
-                "source_url": "https://www.telde.es"
+                "source_url": "https://teror.es/"
             },
             {
-                "nombre": "Concejalía de Actividad Física y Deportes",
+                "nombre": "Área de Cultura",
                 "partido": null,
                 "cargo": null,
                 "email": null,
                 "tipo": "Organización/Departamento",
-                "source_url": "https://www.telde.es"
+                "source_url": "https://teror.es/"
             },
             {
-                "nombre": "Oficina de Atención Ciudadana",
+                "nombre": "Información del Ayuntamiento de Teror",
+                "partido": null,
+                "cargo": "Oficina de atención ciudadana",
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://teror.es/"
+            },
+            {
+                "nombre": "Yolanda Guerra",
                 "partido": null,
                 "cargo": null,
                 "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.telde.es"
+                "tipo": "Persona",
+                "source_url": "https://teror.es/"
             },
             {
-                "nombre": "Ayuntamiento de Telde",
+                "nombre": "Gonzalo Ortega",
                 "partido": null,
                 "cargo": null,
                 "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.telde.es"
+                "tipo": "Persona",
+                "source_url": "https://teror.es/"
+            },
+            {
+                "nombre": "Francisco Sánchez",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://teror.es/"
+            },
+            {
+                "nombre": "Francisco Santana",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://teror.es/"
+            },
+            {
+                "nombre": "Rubén Naranjo Rodríguez",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://teror.es/"
+            },
+            {
+                "nombre": "Vicente Suárez Grimón",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://teror.es/"
             }
         ],
         "error": null
     },
     {
         "municipality": "Valsequillo de Gran Canaria",
-        "url": "https://www.valsequillogc.es",
+        "url": "https://www.valsequillogc.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
@@ -294,98 +138,23 @@
     },
     {
         "municipality": "Valleseco",
-        "url": "https://www.valleseco.es",
+        "url": "https://www.valleseco.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
         "error": "No se extrajeron datos de IA"
     },
     {
-        "municipality": "Vega de San Mateo",
-        "url": "https://www.vegasanmateo.es",
+        "municipality": "Arrecife",
+        "url": "https://www.arrecife.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.vegasanmateo.es/\nCall log:\n  - navigating to \"https://www.vegasanmateo.es/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "Haría",
-        "url": "https://www.ayuntamientodeharia.com",
-        "status": "success",
-        "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Área de Artesanía",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodeharia.com"
-            },
-            {
-                "nombre": "Área de Bienestar Animal",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodeharia.com"
-            },
-            {
-                "nombre": "Área de Comercio y Consumo",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodeharia.com"
-            },
-            {
-                "nombre": "Área de Cultura",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodeharia.com"
-            },
-            {
-                "nombre": "Área de Deportes",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodeharia.com"
-            },
-            {
-                "nombre": "Área de Educación",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodeharia.com"
-            },
-            {
-                "nombre": "Área de Festejos",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodeharia.com"
-            },
-            {
-                "nombre": "Área de Igualdad",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodeharia.com"
-            },
-            {
-                "nombre": "Área de Juventud",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodeharia.com"
-            },
-            {
-                "nombre": "Oficina de Atención Ciudadana",
-                "cargo": "Oficina",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodeharia.com"
-            },
-            {
-                "nombre": "Oficina Electrónica",
-                "cargo": "Oficina",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodeharia.com"
-            }
-        ],
-        "error": null
+        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.arrecife.es/\", waiting until \"networkidle\"\n"
     },
     {
         "municipality": "San Bartolomé",
-        "url": "https://www.sanbartolome.es",
+        "url": "https://www.sanbartolome.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
@@ -393,541 +162,228 @@
     },
     {
         "municipality": "Teguise",
-        "url": "https://www.teguise.es",
-        "status": "error",
+        "url": "https://teguise.es/",
+        "status": "success",
         "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.teguise.es/\nCall log:\n  - navigating to \"https://www.teguise.es/\", waiting until \"networkidle\"\n"
+        "data": [
+            {
+                "nombre": "Olivia Duque",
+                "partido": null,
+                "cargo": "Alcaldesa",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://teguise.es/"
+            },
+            {
+                "nombre": "Domingo Cejas",
+                "partido": null,
+                "cargo": "Vicepresidente del consorcio del agua de lanzarote",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://teguise.es/"
+            },
+            {
+                "nombre": "Luis Ángel Argota Martín",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://teguise.es/"
+            },
+            {
+                "nombre": "Raul Prada",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://teguise.es/"
+            },
+            {
+                "nombre": "Ayuntamiento de Teguise",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://teguise.es/"
+            },
+            {
+                "nombre": "Oficina de Atención Ciudadana",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://teguise.es/"
+            },
+            {
+                "nombre": "Centralita",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "telefono": "928 84 50 01",
+                "source_url": "https://teguise.es/"
+            },
+            {
+                "nombre": "Oficinas Municipales de Costa Teguise",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "telefono": "928 82 70 76",
+                "source_url": "https://teguise.es/"
+            },
+            {
+                "nombre": "Oficinas Municipales de Caleta de Sebo",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "telefono": "928 84 20 00",
+                "source_url": "https://teguise.es/"
+            }
+        ],
+        "error": null
     },
     {
         "municipality": "Tías",
-        "url": "https://www.ayuntamientodetias.es",
+        "url": "https://www.ayuntamientodetias.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
         "error": "No se extrajeron datos de IA"
     },
     {
-        "municipality": "Yaiza",
-        "url": "https://www.yaiza.org",
+        "municipality": "Tinajo",
+        "url": "https://www.tinajo.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "Page.goto: net::ERR_CONNECTION_REFUSED at https://www.yaiza.org/\nCall log:\n  - navigating to \"https://www.yaiza.org/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "Antigua",
-        "url": "https://www.ayto-antigua.es",
-        "status": "success",
-        "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Matías Fidel Peña García",
-                "partido": null,
-                "cargo": "Alcalde",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.ayto-antigua.es"
-            },
-            {
-                "nombre": "Juan Pedro Galván Lasso",
-                "partido": null,
-                "cargo": "1° teniente de alcalde",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.ayto-antigua.es"
-            },
-            {
-                "nombre": "Atención al ciudadano",
-                "partido": null,
-                "cargo": "Oficina de atención ciudadana",
-                "email": "atencionalciudadano@ayto-antigua.es",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayto-antigua.es"
-            }
-        ],
-        "error": null
-    },
-    {
-        "municipality": "Betancuria",
-        "url": "https://www.aytobetancuria.org",
-        "status": "success",
-        "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Enrique Cerdeña Méndez",
-                "partido": null,
-                "cargo": "Alcalde - presidente",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.aytobetancuria.org"
-            },
-            {
-                "nombre": "Esperanza González Méndez",
-                "partido": null,
-                "cargo": "Second deputy mayor",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.aytobetancuria.org"
-            },
-            {
-                "nombre": "Elsa Perera Padrón",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.aytobetancuria.org"
-            },
-            {
-                "nombre": "José Sardeña Rodríguez",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.aytobetancuria.org"
-            },
-            {
-                "nombre": "Enrique Pérez Brito",
-                "partido": null,
-                "cargo": "Councillor - opposition",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.aytobetancuria.org"
-            },
-            {
-                "nombre": "Manuel Alejandro Méndez Dominguez",
-                "partido": null,
-                "cargo": "Councillor - opposition",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.aytobetancuria.org"
-            }
-        ],
-        "error": null
+        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.tinajo.es/\", waiting until \"networkidle\"\n"
     },
     {
         "municipality": "La Oliva",
-        "url": "https://www.laoliva.es",
+        "url": "https://laoliva.es/",
         "status": "success",
         "method": "Playwright",
         "data": [
-            {
-                "nombre": "Concejalía de Medio Ambiente",
-                "partido": null,
-                "cargo": "Concejalía de medio ambiente",
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.laoliva.es"
-            },
             {
                 "nombre": "Marlene Figueroa",
                 "partido": null,
                 "cargo": "Consejera",
                 "email": null,
                 "tipo": "Persona",
-                "source_url": "https://www.laoliva.es"
+                "source_url": "https://laoliva.es/"
+            },
+            {
+                "nombre": "Concejalía de Medio Ambiente",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://laoliva.es/"
             },
             {
                 "nombre": "Patronato de Turismo",
                 "partido": null,
-                "cargo": "Patronato de turismo",
+                "cargo": null,
                 "email": null,
                 "tipo": "Organización/Departamento",
-                "source_url": "https://www.laoliva.es"
+                "source_url": "https://laoliva.es/"
+            },
+            {
+                "nombre": "Ayuntamiento de La Oliva",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://laoliva.es/"
+            },
+            {
+                "nombre": "Borja Cabrera",
+                "partido": null,
+                "cargo": "Cocinero",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://laoliva.es/"
             }
         ],
         "error": null
     },
     {
         "municipality": "Pájara",
-        "url": "https://www.pajara.es",
+        "url": "https://www.pajara.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
         "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.pajara.es/\", waiting until \"networkidle\"\n"
     },
     {
-        "municipality": "Puerto del Rosario",
-        "url": "https://www.puertodelrosario.org",
-        "status": "success",
-        "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Ayuntamiento de Puerto del Rosario",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.puertodelrosario.org"
-            }
-        ],
-        "error": null
-    },
-    {
-        "municipality": "Tuineje",
-        "url": "https://www.ayuntamientotuineje.com",
+        "municipality": "Adeje",
+        "url": "https://www.adeje.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "No se extrajeron datos de IA"
+        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.adeje.es/\", waiting until \"networkidle\"\n"
     },
     {
-        "municipality": "Arafo",
-        "url": "https://www.arafo.es",
-        "status": "success",
+        "municipality": "Arona",
+        "url": "https://www.arona.org/",
+        "status": "error",
         "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Alcalde",
-                "partido": null,
-                "cargo": "Alcalde",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.arafo.es"
-            },
-            {
-                "nombre": "Servicio de Atención al Ciudadano",
-                "partido": null,
-                "cargo": "Servicio de atención al ciudadano",
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.arafo.es"
-            },
-            {
-                "nombre": "Unidad VIII Secretaria",
-                "partido": null,
-                "cargo": "Alcaldía",
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.arafo.es"
-            },
-            {
-                "nombre": "Unidad XII Secretaria",
-                "partido": null,
-                "cargo": "Policía local",
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.arafo.es"
-            },
-            {
-                "nombre": "Registro de entrada de este Ayuntamiento",
-                "partido": null,
-                "cargo": "Registro",
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.arafo.es"
-            },
-            {
-                "nombre": "Servicio de Atención al Ciuddaano del Ayuntamiento de Arafo",
-                "partido": null,
-                "cargo": "Servicio de atención al ciudadano",
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.arafo.es"
-            }
-        ],
-        "error": null
+        "data": [],
+        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.arona.org/\", waiting until \"networkidle\"\n"
     },
     {
         "municipality": "Buenavista del Norte",
-        "url": "https://www.buenavistadelnorte.com",
+        "url": "https://www.buenavistadelnorte.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.buenavistadelnorte.com/\", waiting until \"networkidle\"\n"
+        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.buenavistadelnorte.es/\", waiting until \"networkidle\"\n"
     },
     {
-        "municipality": "El Rosario",
-        "url": "https://www.ayuntamientoelrosario.org",
-        "status": "success",
+        "municipality": "Candelaria",
+        "url": "https://www.candelaria.es/",
+        "status": "error",
         "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Alcaldía",
-                "cargo": "Alcaldía",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientoelrosario.org"
-            },
-            {
-                "nombre": "Oficinas de Atención Ciudadana",
-                "cargo": "Oficina de atención ciudadana",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientoelrosario.org"
-            },
-            {
-                "nombre": "Área de Acción Social",
-                "cargo": "Área de acción social",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientoelrosario.org"
-            },
-            {
-                "nombre": "Área de Cultura",
-                "cargo": "Área de cultura",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientoelrosario.org"
-            },
-            {
-                "nombre": "Área de Deportes",
-                "cargo": "Área de deportes",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientoelrosario.org"
-            },
-            {
-                "nombre": "Policía Local",
-                "cargo": "Policía local",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientoelrosario.org"
-            }
-        ],
-        "error": null
+        "data": [],
+        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.candelaria.es/\", waiting until \"networkidle\"\n"
     },
     {
         "municipality": "El Sauzal",
-        "url": "https://www.elsauzal.es",
+        "url": "https://www.elsauzal.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
         "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.elsauzal.es/\", waiting until \"networkidle\"\n"
     },
     {
-        "municipality": "El Tanque",
-        "url": "https://www.eltanque.es",
-        "status": "success",
-        "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Área de Cooperación Municipal",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.eltanque.es"
-            },
-            {
-                "nombre": "Alcaldía",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.eltanque.es"
-            },
-            {
-                "nombre": "Ayuntamiento de El Tanque",
-                "cargo": "Institución",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.eltanque.es"
-            },
-            {
-                "nombre": "Área de Cultura",
-                "cargo": "Departamento",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.eltanque.es"
-            }
-        ],
-        "error": null
-    },
-    {
-        "municipality": "Fasnia",
-        "url": "https://www.ayuntamientodefasnia.es",
-        "status": "success",
-        "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Alcaldía",
-                "cargo": "Alcaldía",
-                "email": "alcaldia@ayto-murcia.es",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodefasnia.es"
-            },
-            {
-                "nombre": "Oficina de Atención Ciudadana",
-                "cargo": "Oficina de atención ciudadana",
-                "email": "oac@ayto-murcia.es",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodefasnia.es"
-            },
-            {
-                "nombre": "Área de Cultura",
-                "cargo": "Área de cultura",
-                "email": "cultura@ayto-murcia.es",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.ayuntamientodefasnia.es"
-            },
-            {
-                "nombre": "Concejal de Fiestas",
-                "partido": "PSOE",
-                "cargo": "Concejal de fiestas",
-                "email": "concejal.fiestas@ayto-murcia.es",
-                "tipo": "Persona",
-                "source_url": "https://www.ayuntamientodefasnia.es"
-            },
-            {
-                "nombre": "Alcalde",
-                "partido": "PP",
-                "cargo": "Alcalde",
-                "email": "alcalde@ayto-murcia.es",
-                "tipo": "Persona",
-                "source_url": "https://www.ayuntamientodefasnia.es"
-            }
-        ],
-        "error": null
-    },
-    {
-        "municipality": "Granadilla de Abona",
-        "url": "https://www.granadilladeabona.org",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: net::ERR_CONNECTION_REFUSED at https://www.granadilladeabona.org/\nCall log:\n  - navigating to \"https://www.granadilladeabona.org/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "Guía de Isora",
-        "url": "https://www.guiadeisora.org",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "No se extrajeron datos de IA"
-    },
-    {
-        "municipality": "Güímar",
-        "url": "https://www.guimar.es",
-        "status": "success",
-        "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Carmen Luisa Castro Dorta",
-                "cargo": "Alcaldesa presidenta",
-                "tipo": "Persona",
-                "source_url": "https://www.guimar.es"
-            },
-            {
-                "nombre": "Raquel Belén Díaz Castro",
-                "cargo": "Sexta tenencia de alcaldía",
-                "tipo": "Persona",
-                "source_url": "https://www.guimar.es"
-            },
-            {
-                "nombre": "Pedro Daniel Pérez Rodríguez",
-                "cargo": "",
-                "tipo": "Persona",
-                "source_url": "https://www.guimar.es"
-            },
-            {
-                "nombre": "Ana Belén Acosta Rosa",
-                "cargo": "",
-                "tipo": "Persona",
-                "source_url": "https://www.guimar.es"
-            },
-            {
-                "nombre": "María del Carmen Jorge Rodríguez",
-                "cargo": "Séptima tenencia de alcaldía",
-                "tipo": "Persona",
-                "source_url": "https://www.guimar.es"
-            },
-            {
-                "nombre": "José Miguel Hernández Fernández",
-                "cargo": "Quinta tenencia de alcaldía",
-                "tipo": "Persona",
-                "source_url": "https://www.guimar.es"
-            },
-            {
-                "nombre": "Carlos Pablo Llarena González",
-                "cargo": "Cuarta tenencia de alcaldía",
-                "tipo": "Persona",
-                "source_url": "https://www.guimar.es"
-            },
-            {
-                "nombre": "David Román Escobar",
-                "cargo": "Primera tenencia de alcaldía",
-                "tipo": "Persona",
-                "source_url": "https://www.guimar.es"
-            },
-            {
-                "nombre": "Patricia Encinoso Pestano",
-                "cargo": "",
-                "tipo": "Persona",
-                "source_url": "https://www.guimar.es"
-            },
-            {
-                "nombre": "María del Socorro González Reyes",
-                "cargo": "",
-                "tipo": "Persona",
-                "source_url": "https://www.guimar.es"
-            },
-            {
-                "nombre": "Francisco J. del Rosario Delgado",
-                "cargo": "Tercera tenencia de alcaldía",
-                "tipo": "Persona",
-                "source_url": "https://www.guimar.es"
-            },
-            {
-                "nombre": "Áreas de Gobierno / Concejalías",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.guimar.es"
-            },
-            {
-                "nombre": "Información de contacto",
-                "email": null,
-                "cargo": "",
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.guimar.es"
-            }
-        ],
-        "error": null
-    },
-    {
-        "municipality": "La Guancha",
-        "url": "https://www.laguancha.es",
-        "status": "success",
-        "method": "Playwright",
-        "data": [
-            {
-                "nombre": "Elena Hernández",
-                "partido": null,
-                "cargo": "Concejal de comercio",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.laguancha.es"
-            },
-            {
-                "nombre": "Área de Cultura y Fiestas",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.laguancha.es"
-            }
-        ],
-        "error": null
-    },
-    {
-        "municipality": "La Matanza de Acentejo",
-        "url": "https://www.matanceros.com",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: net::ERR_CONNECTION_REFUSED at https://www.matanceros.com/\nCall log:\n  - navigating to \"https://www.matanceros.com/\", waiting until \"networkidle\"\n"
-    },
-    {
         "municipality": "La Orotava",
-        "url": "https://www.villadelaorotava.org",
+        "url": "https://www.laorotava.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "No se extrajeron datos de IA"
+        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.laorotava.es/\", waiting until \"networkidle\"\n"
     },
     {
         "municipality": "La Laguna (San Cristóbal)",
-        "url": "https://www.aytolalaguna.org",
+        "url": "https://www.aytolalaguna.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.aytolalaguna.org/\nCall log:\n  - navigating to \"https://www.aytolalaguna.org/\", waiting until \"networkidle\"\n"
+        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.aytolalaguna.es/\", waiting until \"networkidle\"\n"
     },
     {
         "municipality": "Los Realejos",
-        "url": "https://www.ayto-realejos.es",
+        "url": "https://losrealejos.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "Page.goto: net::ERR_CONNECTION_REFUSED at https://www.ayto-realejos.es/\nCall log:\n  - navigating to \"https://www.ayto-realejos.es/\", waiting until \"networkidle\"\n"
+        "error": "No se extrajeron datos de IA"
     },
     {
         "municipality": "Los Silos",
-        "url": "https://www.lossilos.es",
+        "url": "https://www.lossilos.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
@@ -935,50 +391,163 @@
     },
     {
         "municipality": "San Juan de la Rambla",
-        "url": "https://www.aytosanjuandelarambla.es",
-        "status": "error",
+        "url": "https://www.sanjuandelarambla.es/",
+        "status": "success",
         "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.aytosanjuandelarambla.es/\nCall log:\n  - navigating to \"https://www.aytosanjuandelarambla.es/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "San Miguel de Abona",
-        "url": "https://www.sanmigueldeabona.es",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "No se extrajeron datos de IA"
+        "data": [
+            {
+                "nombre": "Juan Ramos Reyes",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "Yanira Mesa",
+                "partido": null,
+                "cargo": "Concejala de bienestar animal",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "Jonay Méndez",
+                "partido": null,
+                "cargo": "Segundo teniente de alcalde",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "María García",
+                "partido": null,
+                "cargo": "Ferias, festejos, romerías y deportes",
+                "email": null,
+                "tipo": "Persona",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "Concejalía de Cultura",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "Área de Mantenimiento de Vías",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "Oficinas presenciales",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "Alcaldía",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "CULTURA",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "DEPORTE",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "FIESTAS",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "TURISMO",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "EDUCACIÓN",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "SERVICIOS SOCIALES",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "DESARROLLO LOCAL",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            },
+            {
+                "nombre": "URBANISMO",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "tipo": "Organización/Departamento",
+                "source_url": "https://www.sanjuandelarambla.es/"
+            }
+        ],
+        "error": null
     },
     {
         "municipality": "Santa Cruz de Tenerife",
-        "url": "https://www.santacruzdetenerife.es",
+        "url": "https://www.santacruzdetenerife.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
         "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.santacruzdetenerife.es/\", waiting until \"networkidle\"\n"
     },
     {
-        "municipality": "Santa Úrsula",
-        "url": "https://www.santaursula.es",
+        "municipality": "Vilaflor de Chasna",
+        "url": "https://vilaflordechasna.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "No se extrajeron datos de IA"
+        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://vilaflordechasna.es/\", waiting until \"networkidle\"\n"
     },
     {
-        "municipality": "Santiago del Teide",
-        "url": "https://www.santiagodelteide.org",
+        "municipality": "Valle Gran Rey",
+        "url": "https://vallegranrey.es/",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.santiagodelteide.org/\nCall log:\n  - navigating to \"https://www.santiagodelteide.org/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "Tegueste",
-        "url": "https://www.tegueste.org",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.tegueste.org/\nCall log:\n  - navigating to \"https://www.tegueste.org/\", waiting until \"networkidle\"\n"
+        "error": "Page.goto: net::ERR_CONNECTION_REFUSED at https://vallegranrey.es/\nCall log:\n  - navigating to \"https://vallegranrey.es/\", waiting until \"networkidle\"\n"
     }
 ]
