@@ -1,7 +1,15 @@
 [
     {
         "municipality": "Agaete",
-        "url": "https://www.agaete.es/",
+        "url": "https://www.agaete.es",
+        "status": "error",
+        "method": "Playwright",
+        "data": [],
+        "error": "No se extrajeron datos de IA"
+    },
+    {
+        "municipality": "Agüimes",
+        "url": "https://www.aguimes.es",
         "status": "error",
         "method": "Playwright",
         "data": [],
@@ -9,128 +17,654 @@
     },
     {
         "municipality": "Artenara",
-        "url": "https://www.artenara.es/",
+        "url": "https://www.artenara.es",
         "status": "error",
         "method": "Playwright",
         "data": [],
         "error": "No se extrajeron datos de IA"
     },
     {
-        "municipality": "Mogán",
-        "url": "https://www.mogan.es/",
+        "municipality": "Arucas",
+        "url": "https://www.arucas.org",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "Page.goto: net::ERR_TIMED_OUT at https://www.mogan.es/\nCall log:\n  - navigating to \"https://www.mogan.es/\", waiting until \"networkidle\"\n"
+        "error": "No se extrajeron datos de IA"
     },
     {
-        "municipality": "Santa Brígida",
-        "url": "https://www.santabrigida.es/",
+        "municipality": "Firgas",
+        "url": "https://www.firgas.es",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.santabrigida.es/\", waiting until \"networkidle\"\n"
+        "error": "No se extrajeron datos de IA"
     },
     {
-        "municipality": "Tejeda",
-        "url": "https://tejeda.eu/",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://tejeda.eu/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "Teror",
-        "url": "https://teror.es/",
+        "municipality": "Gáldar",
+        "url": "https://www.galdar.es",
         "status": "success",
-        "method": "Playwright",
+        "method": "HTTP",
         "data": [
             {
-                "nombre": "José Agustín Arencibia",
-                "partido": null,
-                "cargo": "Alcalde",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://teror.es/"
+                "nombre": "Teodoro C. Sosa Monzón",
+                "partido": "BNR-NC",
+                "cargo": "Alcalde-presidente",
+                "email": "alcaldia@galdar.es",
+                "url_perfil": "/biografia-teodoro-sosa-monzon/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
             },
             {
-                "nombre": "Concejalía de Igualdad",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://teror.es/"
+                "nombre": "Julio Mateo Castillo",
+                "partido": "BNR-NC",
+                "cargo": "Concejal de presidencia (contratación, secretaría, registro, asesoría jurídica, relaciones institucionales), de cultura y fiestas.",
+                "email": "cultura@galdar.es",
+                "url_perfil": "/biografia-julio-mateo-castillo/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/"
             },
             {
-                "nombre": "Área de Cultura",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://teror.es/"
+                "nombre": "Valeria Guerra Mendoza",
+                "partido": "BNR-NC",
+                "cargo": "Concejala de hacienda, patrimonio, catastro y policía local",
+                "email": "vguerra@galdar.es",
+                "url_perfil": "/biografia-valeria-guerra-mendoza/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
             },
             {
-                "nombre": "Información del Ayuntamiento de Teror",
-                "partido": null,
-                "cargo": "Oficina de atención ciudadana",
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://teror.es/"
+                "nombre": "Carlos Ruiz Moreno",
+                "partido": "BNR-NC",
+                "cargo": "Concejal de patrimonio histórico, archivo y biblioteca, identidad, medianías, fundación canaria ciudad de gáldar, museos, escuela de música e i+d+i",
+                "email": "cmruiz@galdar.es",
+                "url_perfil": "/biografia-de-d-carlos-ruiz-moreno/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
             },
             {
-                "nombre": "Yolanda Guerra",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://teror.es/"
+                "nombre": "Ana Teresa Mendoza Jiménez",
+                "partido": "BNR-NC",
+                "cargo": "Concejala de servicios sociales (centro ocupacional y hogar funcional), sanidad, igualdad y solidaridad",
+                "email": "atmendoza@galdar.es",
+                "url_perfil": "/biografia-ana-teresa-mendoza-jimenez/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
             },
             {
-                "nombre": "Gonzalo Ortega",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://teror.es/"
+                "nombre": "Agustín Martín Ojeda",
+                "partido": "BNR-NC",
+                "cargo": "Concejal de desarrollo local (agricultura, ganadería y pesca) y empleo",
+                "email": "amartin@galdar.es",
+                "url_perfil": "/biografia-agustin-martin-ojeda/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
             },
             {
-                "nombre": "Francisco Sánchez",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://teror.es/"
+                "nombre": "Idaira Mateos Moreno",
+                "partido": "BNR-NC",
+                "cargo": "Concejala de recursos humanos, cementerio y tanatorio, galobra sau (aparcamientos municipales)",
+                "email": "galobra@galdar.es",
+                "url_perfil": "/biografia-de-dona-idaira-chaxiraxi-mateos-moreno/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/"
             },
             {
-                "nombre": "Francisco Santana",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://teror.es/"
+                "nombre": "Heriberto José Reyes Sánchez",
+                "partido": "BNR-NC",
+                "cargo": "Concejal de urbanismo y accesibilidad",
+                "email": "urbanismo@galdar.es",
+                "url_perfil": "/biografia-heriberto-jose-reyes-sanchez/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/"
             },
             {
-                "nombre": "Rubén Naranjo Rodríguez",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://teror.es/"
+                "nombre": "Rita María Cabrera Cruz",
+                "partido": "BNR-NC",
+                "cargo": "Concejala de educación, universidad popular y escuela infantil",
+                "email": "rmcabrera@galdar.es",
+                "url_perfil": "/biografia-de-dona-rita-maria-cabrera-cruz/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
             },
             {
-                "nombre": "Vicente Suárez Grimón",
-                "partido": null,
-                "cargo": null,
+                "nombre": "Ulises David Miranda Guerra",
+                "partido": "BNR-NC",
+                "cargo": "Concejal de comunicación, transparencia, turismo, medio ambiente, nuevas tecnologías y administración electrónica",
+                "email": "udmiranda@galdar.es",
+                "url_perfil": "/biografia-de-d-ulises-d-miranda-guerra/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
+            },
+            {
+                "nombre": "Dolores Delgado Jorge",
+                "partido": "BNR-NC",
+                "cargo": "Concejala de política del mayor (centro de día, residencia, programa de mayores acompañados, servicio de ayuda a domicilio, servicio de promoción de la autonomía personal y envejecimiento activo)",
+                "email": "ddelgado@galdar.es",
+                "url_perfil": "/biografia-de-dna-dolores-delgado-jorge/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
+            },
+            {
+                "nombre": "Nicolás Mederos Díaz",
+                "partido": "BNR-NC",
+                "cargo": "Concejal de parques y jardines y embellecimiento",
+                "email": "nmederos@galdar.es",
+                "url_perfil": "/biografia-de-d-nicolas-pino-mederos-diaz/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
+            },
+            {
+                "nombre": "Ancor Bolaños Delgado",
+                "partido": "BNR-NC",
+                "cargo": "Concejal de actividad física, deporte y salud",
+                "email": "abolanos@galdar.es",
+                "url_perfil": "/biografia-ancor-bolanos-delgado/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
+            },
+            {
+                "nombre": "Nuria Esther Vega Valencia",
+                "partido": "BNR-NC",
+                "cargo": "Concejala de prevención de adicciones, participación ciudadana, asociaciones de vecinos, barrios y playas",
+                "email": "nvega@galdar.es",
+                "url_perfil": "/biografia-nuria-esther-vega-valencia/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
+            },
+            {
+                "nombre": "Eleazar Rodríguez Díaz",
+                "partido": "BNR-NC",
+                "cargo": "Concejal de vivienda, vías y obras y alcantarillado",
+                "email": "emrodriguez@galdar.es",
+                "url_perfil": "/biografia-de-d-eleazar-miguel-rodriguez-diaz/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
+            },
+            {
+                "nombre": "Pedro Mendoza Vega",
+                "partido": "BNR-NC",
+                "cargo": "Concejal de tráfico y ordenación vial, emergencias, movilidad, transporte y parque móvil",
+                "email": "pmendoza@galdar.es",
+                "url_perfil": "/biografia-de-d-pedro-mendoza-vega/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
+            },
+            {
+                "nombre": "Antonia Isabel Moreno Jiménez",
+                "partido": "BNR-NC",
+                "cargo": "Concejala de residuos y limpieza viaria",
+                "email": "aimoreno@galdar.es",
+                "url_perfil": "/biografia-de-dna-antonia-isabel-moreno-jimenez/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
+            },
+            {
+                "nombre": "Cristian Jesús Perdomo Bolaños",
+                "partido": "BNR-NC",
+                "cargo": "Concejal de alumbrado público, consumo, mercado municipal y agua",
+                "email": "cjperdomo@galdar.es",
+                "url_perfil": "/biografia-de-d-cristian-jesus-perdomo-bolanos/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
+            },
+            {
+                "nombre": "Antonio María Benítez Melián",
+                "partido": "BNR-NC",
+                "cargo": "Concejal de bienestar animal, juventud y clubes de mayores",
+                "email": "ambenitez@galdar.es",
+                "url_perfil": "/biografia-de-d-antonio-maria-benitez-melian/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/",
+                "email_source": "detail_page_regex"
+            },
+            {
+                "nombre": "Francisco Javier Hernández Rosales",
+                "partido": "PSC-PSOE",
+                "cargo": "Concejal",
                 "email": null,
-                "tipo": "Persona",
-                "source_url": "https://teror.es/"
+                "url_perfil": "/biografia-de-d-francisco-javier-hernandez-rosales/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/"
+            },
+            {
+                "nombre": "José Blas Díaz Bolaños",
+                "partido": "CC-UXGC",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "/biografia-jose-blas-diaz-bolanos/",
+                "source_url": "https://www.galdar.es/organigrama-municipal-2023-2027/"
             }
         ],
         "error": null
     },
     {
+        "municipality": "Ingenio",
+        "url": "https://www.ingenio.es",
+        "status": "success",
+        "method": "HTTP",
+        "data": [
+            {
+                "nombre": "Ana Hernández Rodríguez",
+                "partido": null,
+                "cargo": "Alcaldesa presidenta",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ingenio.es"
+            },
+            {
+                "nombre": "Oliver de la Cruz Navarro Guerra",
+                "partido": null,
+                "cargo": "Concejal",
+                "email": "oliverng@ingenio.es",
+                "url_perfil": null,
+                "source_url": "https://www.ingenio.es"
+            },
+            {
+                "nombre": "Almudena Isabel Hernández Rodríguez",
+                "partido": null,
+                "cargo": "Concejala",
+                "email": "almudenaihr@ingenio.es",
+                "url_perfil": null,
+                "source_url": "https://www.ingenio.es"
+            },
+            {
+                "nombre": "Vanesa Belén Martín Herrera",
+                "partido": null,
+                "cargo": "Alcaldesa - presidenta",
+                "email": "vanesamh@ingenio.es",
+                "url_perfil": null,
+                "source_url": "https://www.ingenio.es"
+            },
+            {
+                "nombre": "Francisco Javier Espino Espino",
+                "partido": null,
+                "cargo": "Concejal",
+                "email": "franciscojee@ingenio.es",
+                "url_perfil": null,
+                "source_url": "https://www.ingenio.es"
+            },
+            {
+                "nombre": "Sebastián Suárez Trujillo",
+                "partido": null,
+                "cargo": "Concejal",
+                "email": "sebastiandst@ingenio.es",
+                "url_perfil": null,
+                "source_url": "https://www.ingenio.es"
+            },
+            {
+                "nombre": "Fátima Méndez López",
+                "partido": null,
+                "cargo": "Concejala",
+                "email": "fatimaml@ingenio.es",
+                "url_perfil": null,
+                "source_url": "https://www.ingenio.es"
+            },
+            {
+                "nombre": "Rubén Domingo López Sánchez",
+                "partido": null,
+                "cargo": "Concejal",
+                "email": "rubendls@ingenio.es",
+                "url_perfil": null,
+                "source_url": "https://www.ingenio.es"
+            },
+            {
+                "nombre": "Martín Manuel García Cabrera",
+                "partido": null,
+                "cargo": "Concejal",
+                "email": "martinmgc@ingenio.es",
+                "url_perfil": null,
+                "source_url": "https://www.ingenio.es"
+            },
+            {
+                "nombre": "Rayco Nauzet Padilla Cubas",
+                "partido": null,
+                "cargo": "Concejal",
+                "email": "rayconpc@ingenio.es",
+                "url_perfil": null,
+                "source_url": "https://www.ingenio.es"
+            },
+            {
+                "nombre": "Catalina María Sánchez Ramírez",
+                "partido": null,
+                "cargo": "Concejala",
+                "email": "catalinasanchezramirez@gmail.com",
+                "url_perfil": null,
+                "source_url": "https://www.ingenio.es"
+            },
+            {
+                "nombre": "Rosario Viera Hernández",
+                "partido": null,
+                "cargo": "Concejala",
+                "email": "mariarvh@ingenio.es",
+                "url_perfil": null,
+                "source_url": "https://www.ingenio.es"
+            },
+            {
+                "nombre": "Rubén Cruz Liria",
+                "partido": null,
+                "cargo": "Concejal",
+                "email": "rubencl@ingenio.es",
+                "url_perfil": null,
+                "source_url": "https://www.ingenio.es"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "La Aldea de San Nicolás",
+        "url": "https://www.laaldeadesannicolas.es",
+        "status": "error",
+        "method": "Playwright",
+        "data": [],
+        "error": "No se extrajeron datos de IA"
+    },
+    {
+        "municipality": "Las Palmas de Gran Canaria",
+        "url": "https://www.laspalmasgc.es",
+        "status": "success",
+        "method": "HTTP",
+        "data": [
+            {
+                "nombre": "Carolina Darias",
+                "partido": null,
+                "cargo": "Alcaldesa",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.laspalmasgc.es/es/areas-tematicas/innovacion/Redes-Sociales/"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Mogán",
+        "url": "https://www.mogan.es",
+        "status": "error",
+        "method": "Playwright",
+        "data": [],
+        "error": "No se extrajeron datos de IA"
+    },
+    {
+        "municipality": "Moya",
+        "url": "https://www.villademoya.es",
+        "status": "success",
+        "method": "HTTP",
+        "data": [
+            {
+                "nombre": "Raúl Afonso Suárez",
+                "partido": null,
+                "cargo": "Alcalde de la villa de moya",
+                "email": "alcaldia@villademoya.es",
+                "url_perfil": null,
+                "source_url": "https://www.villademoya.es/ayuntamiento/saluda-del-alcalde"
+            },
+            {
+                "nombre": "Raúl Afonso Suárez",
+                "partido": "PARTIDO POPULAR VILLA DE MOYA",
+                "cargo": "Alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+            },
+            {
+                "nombre": "Octavio Pedro Suárez García",
+                "partido": "PARTIDO POPULAR VILLA DE MOYA",
+                "cargo": "Primer teniente de alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+            },
+            {
+                "nombre": "Ana Belén Rivero Medina",
+                "partido": "PARTIDO POPULAR VILLA DE MOYA",
+                "cargo": "Segunda teniente de alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+            },
+            {
+                "nombre": "Lucia Rosa Rodríguez Batista",
+                "partido": "PARTIDO POPULAR VILLA DE MOYA",
+                "cargo": "Tercera teniente de alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+            },
+            {
+                "nombre": "Bernabé Martín Guerra Ojeda",
+                "partido": "PARTIDO POPULAR VILLA DE MOYA",
+                "cargo": "Cuarto teniente de alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+            },
+            {
+                "nombre": "Lidia Esther Rodríguez Díaz",
+                "partido": "PARTIDO POPULAR VILLA DE MOYA",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+            },
+            {
+                "nombre": "Santiago Santana de la Fe",
+                "partido": "PARTIDO POPULAR VILLA DE MOYA",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+            },
+            {
+                "nombre": "Gilberto Sosa Betancor",
+                "partido": "PARTIDO POPULAR VILLA DE MOYA",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.villademoya.es/ayuntamiento/corporacion"
+            },
+            {
+                "nombre": "Raúl Afonso",
+                "partido": null,
+                "cargo": "Alcalde del municipio",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.villademoya.es/cursos-y-talleres/210-la-villa-de-moya-celebra-un-nuevo-pleno-juvenil-"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "San Bartolomé de Tirajana",
+        "url": "https://www.maspalomas.com",
+        "status": "error",
+        "method": "Playwright",
+        "data": [],
+        "error": "No se extrajeron datos de IA"
+    },
+    {
+        "municipality": "Santa Brígida",
+        "url": "https://www.santabrigida.es",
+        "status": "success",
+        "method": "HTTP",
+        "data": [
+            {
+                "nombre": "José Armengol",
+                "partido": null,
+                "cargo": "Alcalde de la villa",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.santabrigida.es"
+            },
+            {
+                "nombre": "José Armengol",
+                "partido": "SIN INFORMACIÓN",
+                "cargo": "Alcalde de la villa",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.santabrigida.es/el-pleno-da-luz-verde-al-reglamento-de-ayudas-tecnicas-a-personas-con-movilidad-reducida/"
+            },
+            {
+                "nombre": "Aridane Herrera",
+                "partido": "VOX",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.santabrigida.es/el-pleno-da-luz-verde-al-reglamento-de-ayudas-tecnicas-a-personas-con-movilidad-reducida/"
+            },
+            {
+                "nombre": "Carlos Carrión",
+                "partido": "SIN INFORMACIÓN",
+                "cargo": "Concejal de servicios sociales",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.santabrigida.es/el-pleno-da-luz-verde-al-reglamento-de-ayudas-tecnicas-a-personas-con-movilidad-reducida/"
+            },
+            {
+                "nombre": "Carlos Carrión",
+                "partido": "SIN INFORMACIÓN",
+                "cargo": "Concejal de recursos humanos",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.santabrigida.es/el-pleno-da-luz-verde-al-reglamento-de-ayudas-tecnicas-a-personas-con-movilidad-reducida/"
+            },
+            {
+                "nombre": "Javier Ramírez Mendoza",
+                "partido": "SIN INFORMACIÓN",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.santabrigida.es/el-pleno-da-luz-verde-al-reglamento-de-ayudas-tecnicas-a-personas-con-movilidad-reducida/"
+            },
+            {
+                "nombre": "Avelina Fernández Manrique de Lara",
+                "partido": null,
+                "cargo": "Concejala de nuevas tecnologías",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.santabrigida.es/el-ayuntamiento-destina-una-subvencion-del-cabildo-insular-a-mejorar-la-tramitacion-electronica-3/"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Santa Lucía de Tirajana",
+        "url": "https://www.santaluciagc.com",
+        "status": "error",
+        "method": "Playwright",
+        "data": [],
+        "error": "No se extrajeron datos de IA"
+    },
+    {
+        "municipality": "Santa María de Guía",
+        "url": "https://www.santamariadeguia.es",
+        "status": "success",
+        "method": "HTTP",
+        "data": [
+            {
+                "nombre": "Alfredo Gonçalves Ferreira",
+                "partido": null,
+                "cargo": "Alcalde de santa maría de guía",
+                "email": null,
+                "url_perfil": "https://santamariadeguia.es/alcaldia/",
+                "source_url": "https://www.santamariadeguia.es"
+            },
+            {
+                "nombre": "Alejandro Rivero",
+                "partido": null,
+                "cargo": "Concejal de política social y mayores",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.santamariadeguia.es"
+            },
+            {
+                "nombre": "Julián Melián",
+                "partido": null,
+                "cargo": "Concejal de recursos humanos",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.santamariadeguia.es"
+            },
+            {
+                "nombre": "Ruth Martín",
+                "partido": null,
+                "cargo": "Concejala de juventud y universidad popular",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.santamariadeguia.es"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Tejeda",
+        "url": "https://www.tejeda.es",
+        "status": "error",
+        "method": "Playwright",
+        "data": [],
+        "error": "Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.tejeda.es/\nCall log:\n  - navigating to \"https://www.tejeda.es/\", waiting until \"networkidle\"\n"
+    },
+    {
+        "municipality": "Telde",
+        "url": "https://www.telde.es",
+        "status": "success",
+        "method": "HTTP",
+        "data": [
+            {
+                "nombre": "Juan Antonio Peña",
+                "partido": null,
+                "cargo": "Alcalde de telde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.telde.es"
+            },
+            {
+                "nombre": "Juan Francisco Jiménez",
+                "partido": null,
+                "cargo": "Concejal de gobierno",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.telde.es"
+            },
+            {
+                "nombre": "Janoa Anceaume",
+                "partido": null,
+                "cargo": "Concejal de gobierno",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.telde.es"
+            },
+            {
+                "nombre": "Juan Antonio Peña",
+                "partido": "SIN INFORMACIÓN",
+                "cargo": "Alcalde de telde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.telde.es/el-alcalde-de-telde-impulsa-la-creacion-de-una-unidad-infantil-especializada-en-autismo-que-aspira-a-ser-referente-en-canarias/"
+            },
+            {
+                "nombre": "Juan Francisco Jiménez",
+                "partido": null,
+                "cargo": "Concejal de gobierno",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.telde.es/el-ayuntamiento-de-telde-recibe-un-reconocimiento-como-agradecimiento-a-su-colaboracion-con-la-asociacion-juvenil-majo/"
+            },
+            {
+                "nombre": "Janoa Anceaume",
+                "partido": null,
+                "cargo": "Concejala de participación ciudadana",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.telde.es/el-ayuntamiento-de-telde-recibe-un-reconocimiento-como-agradecimiento-a-su-colaboracion-con-la-asociacion-juvenil-majo/"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Teror",
+        "url": "https://www.teror.es",
+        "status": "error",
+        "method": "Playwright",
+        "data": [],
+        "error": "No se extrajeron datos de IA"
+    },
+    {
         "municipality": "Valsequillo de Gran Canaria",
-        "url": "https://www.valsequillogc.es/",
+        "url": "https://www.valsequillogc.es",
         "status": "error",
         "method": "Playwright",
         "data": [],
@@ -138,7 +672,15 @@
     },
     {
         "municipality": "Valleseco",
-        "url": "https://www.valleseco.es/",
+        "url": "https://www.valleseco.es",
+        "status": "error",
+        "method": "Playwright",
+        "data": [],
+        "error": "No se extrajeron datos de IA"
+    },
+    {
+        "municipality": "Vega de San Mateo",
+        "url": "https://www.vegasanmateo.es",
         "status": "error",
         "method": "Playwright",
         "data": [],
@@ -146,107 +688,160 @@
     },
     {
         "municipality": "Arrecife",
-        "url": "https://www.arrecife.es/",
+        "url": "https://www.arrecife.es",
         "status": "error",
         "method": "Playwright",
         "data": [],
         "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.arrecife.es/\", waiting until \"networkidle\"\n"
     },
     {
-        "municipality": "San Bartolomé",
-        "url": "https://www.sanbartolome.es/",
+        "municipality": "Haría",
+        "url": "https://www.ayuntamientodeharia.com",
         "status": "error",
         "method": "Playwright",
         "data": [],
         "error": "No se extrajeron datos de IA"
     },
     {
-        "municipality": "Teguise",
-        "url": "https://teguise.es/",
+        "municipality": "San Bartolomé",
+        "url": "https://www.sanbartolome.es",
         "status": "success",
-        "method": "Playwright",
+        "method": "HTTP",
         "data": [
             {
-                "nombre": "Olivia Duque",
+                "nombre": "Isidro Pérez",
                 "partido": null,
-                "cargo": "Alcaldesa",
+                "cargo": "Alcalde del ayuntamiento de san bartolomé",
                 "email": null,
-                "tipo": "Persona",
-                "source_url": "https://teguise.es/"
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es"
             },
             {
-                "nombre": "Domingo Cejas",
-                "partido": null,
-                "cargo": "Vicepresidente del consorcio del agua de lanzarote",
+                "nombre": "Isidro Pérez",
+                "partido": "SIN INFORMACIÓN",
+                "cargo": "Alcalde de san bartolomé",
                 "email": null,
-                "tipo": "Persona",
-                "source_url": "https://teguise.es/"
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-desvela-el-gran-montaje-de-la-cabalgata-de-reyes-2026-una-travesia-magica-por-tierra-mar-y-tradicion/"
             },
             {
-                "nombre": "Luis Ángel Argota Martín",
-                "partido": null,
-                "cargo": null,
+                "nombre": "Estefanía Luzardo",
+                "partido": "SIN INFORMACIÓN",
+                "cargo": "Concejala de festejos",
                 "email": null,
-                "tipo": "Persona",
-                "source_url": "https://teguise.es/"
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-desvela-el-gran-montaje-de-la-cabalgata-de-reyes-2026-una-travesia-magica-por-tierra-mar-y-tradicion/"
             },
             {
-                "nombre": "Raul Prada",
-                "partido": null,
-                "cargo": null,
+                "nombre": "Isidro Pérez",
+                "partido": "SIN INFORMACIÓN",
+                "cargo": "Alcalde de san bartolomé",
                 "email": null,
-                "tipo": "Persona",
-                "source_url": "https://teguise.es/"
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-saca-a-licitacion-la-instalacion-de-alumbrado-publico-en-la-calle-el-parral/"
             },
             {
-                "nombre": "Ayuntamiento de Teguise",
-                "partido": null,
-                "cargo": null,
+                "nombre": "Marlene Romero",
+                "partido": "SIN INFORMACIÓN",
+                "cargo": "Concejala de urbanismo",
                 "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://teguise.es/"
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-saca-a-licitacion-la-instalacion-de-alumbrado-publico-en-la-calle-el-parral/"
             },
             {
-                "nombre": "Oficina de Atención Ciudadana",
+                "nombre": "Isidro Pérez",
                 "partido": null,
-                "cargo": null,
+                "cargo": "Alcalde",
                 "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://teguise.es/"
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-continua-su-programacion-navidena-con-actividades-para-toda-la-familia/"
             },
             {
-                "nombre": "Centralita",
+                "nombre": "Estefanía Luzardo",
                 "partido": null,
-                "cargo": null,
+                "cargo": "Concejala de festejos",
                 "email": null,
-                "tipo": "Organización/Departamento",
-                "telefono": "928 84 50 01",
-                "source_url": "https://teguise.es/"
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-continua-su-programacion-navidena-con-actividades-para-toda-la-familia/"
             },
             {
-                "nombre": "Oficinas Municipales de Costa Teguise",
+                "nombre": "Isidro Pérez",
                 "partido": null,
-                "cargo": null,
+                "cargo": "Alcalde de san bartolomé",
                 "email": null,
-                "tipo": "Organización/Departamento",
-                "telefono": "928 82 70 76",
-                "source_url": "https://teguise.es/"
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-avanza-en-la-gestion-etica-y-el-control-de-colonias-felinas-con-un-quirofano-municipal-para-su-esterilizacion/"
             },
             {
-                "nombre": "Oficinas Municipales de Caleta de Sebo",
+                "nombre": "Fernando Vadillo",
                 "partido": null,
-                "cargo": null,
+                "cargo": "Concejal de bienestar animal",
                 "email": null,
-                "tipo": "Organización/Departamento",
-                "telefono": "928 84 20 00",
-                "source_url": "https://teguise.es/"
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-avanza-en-la-gestion-etica-y-el-control-de-colonias-felinas-con-un-quirofano-municipal-para-su-esterilizacion/"
+            },
+            {
+                "nombre": "Isidro Pérez",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-incorpora-mas-de-5-millones-de-euros-en-remanente-a-su-presupuesto-municipal/"
+            },
+            {
+                "nombre": "Isidro Pérez",
+                "partido": null,
+                "cargo": "Alcalde de san bartolomé",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-acondiciona-los-caminos-rurales-del-municipio-tras-las-lluvias-de-las-ultimas-semanas/"
+            },
+            {
+                "nombre": "Raúl de León",
+                "partido": null,
+                "cargo": "Concejal de servicios públicos",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-acondiciona-los-caminos-rurales-del-municipio-tras-las-lluvias-de-las-ultimas-semanas/"
+            },
+            {
+                "nombre": "Alexis Hernández",
+                "partido": null,
+                "cargo": "Edil de agricultura",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-acondiciona-los-caminos-rurales-del-municipio-tras-las-lluvias-de-las-ultimas-semanas/"
+            },
+            {
+                "nombre": "Isidro Pérez",
+                "partido": null,
+                "cargo": "Alcalde de san bartolomé",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-despide-2025-con-su-tradicional-fiesta-de-fin-de-ano/"
+            },
+            {
+                "nombre": "Estefanía Luzardo",
+                "partido": null,
+                "cargo": "Concejala de festejos",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.sanbartolome.es/el-ayuntamiento-de-san-bartolome-despide-2025-con-su-tradicional-fiesta-de-fin-de-ano/"
             }
         ],
         "error": null
     },
     {
+        "municipality": "Teguise",
+        "url": "https://www.teguise.es",
+        "status": "error",
+        "method": "Playwright",
+        "data": [],
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.teguise.es/\nCall log:\n  - navigating to \"https://www.teguise.es/\", waiting until \"networkidle\"\n"
+    },
+    {
         "municipality": "Tías",
-        "url": "https://www.ayuntamientodetias.es/",
+        "url": "https://www.ayuntamientodetias.es",
         "status": "error",
         "method": "Playwright",
         "data": [],
@@ -254,300 +849,1138 @@
     },
     {
         "municipality": "Tinajo",
-        "url": "https://www.tinajo.es/",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.tinajo.es/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "La Oliva",
-        "url": "https://laoliva.es/",
+        "url": "https://www.tinajo.es",
         "status": "success",
-        "method": "Playwright",
+        "method": "HTTP",
         "data": [
             {
-                "nombre": "Marlene Figueroa",
-                "partido": null,
-                "cargo": "Consejera",
+                "nombre": "Jesús Machín",
+                "partido": "TINAJO",
+                "cargo": "Alcalde de tinajo",
                 "email": null,
-                "tipo": "Persona",
-                "source_url": "https://laoliva.es/"
+                "url_perfil": null,
+                "source_url": "https://www.tinajo.es"
             },
             {
-                "nombre": "Concejalía de Medio Ambiente",
+                "nombre": "Macarena Olivero",
                 "partido": null,
-                "cargo": null,
+                "cargo": "Concejal delegada de la tercera edad",
                 "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://laoliva.es/"
-            },
-            {
-                "nombre": "Patronato de Turismo",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://laoliva.es/"
-            },
-            {
-                "nombre": "Ayuntamiento de La Oliva",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://laoliva.es/"
-            },
-            {
-                "nombre": "Borja Cabrera",
-                "partido": null,
-                "cargo": "Cocinero",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://laoliva.es/"
+                "url_perfil": null,
+                "source_url": "https://www.tinajo.es"
             }
         ],
         "error": null
     },
     {
-        "municipality": "Pájara",
-        "url": "https://www.pajara.es/",
+        "municipality": "Yaiza",
+        "url": "https://www.yaiza.org",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.pajara.es/\", waiting until \"networkidle\"\n"
+        "error": "Page.goto: net::ERR_CONNECTION_REFUSED at https://www.yaiza.org/\nCall log:\n  - navigating to \"https://www.yaiza.org/\", waiting until \"networkidle\"\n"
     },
     {
-        "municipality": "Adeje",
-        "url": "https://www.adeje.es/",
-        "status": "error",
+        "municipality": "Antigua",
+        "url": "https://www.ayto-antigua.es",
+        "status": "success",
+        "method": "HTTP",
+        "data": [
+            {
+                "nombre": "Matías Fidel Peña García",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "url_perfil": "https://www.ayto-antigua.es/<https:/www.ayto-antigua.es/ayuntamiento/#organizacion_politica>",
+                "source_url": "https://www.ayto-antigua.es"
+            },
+            {
+                "nombre": "Juan Pedro Galván Lasso",
+                "partido": null,
+                "cargo": "1° teniente de alcalde",
+                "email": null,
+                "url_perfil": "https://www.ayto-antigua.es/<https:/www.ayto-antigua.es/ayuntamiento/#organizacion_politica>",
+                "source_url": "https://www.ayto-antigua.es"
+            },
+            {
+                "nombre": "Estimado/a vecino/a",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "url_perfil": "https://www.ayto-antigua.es/<https:/ayto-antigua.es/ayuntamiento/>",
+                "source_url": "https://www.ayto-antigua.es/ayuntamiento/"
+            },
+            {
+                "nombre": "Matías Fidel Peña García",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "url_perfil": "https://www.ayto-antigua.es/<https:/www.ayto-antigua.es/ayuntamiento/#organizacion_politica>",
+                "source_url": "https://www.ayto-antigua.es#collapse-56f88cf698dbd1f0e295"
+            },
+            {
+                "nombre": "Juan Pedro Galván Lasso",
+                "partido": null,
+                "cargo": "1° teniente de alcalde",
+                "email": null,
+                "url_perfil": "https://www.ayto-antigua.es/<https:/www.ayto-antigua.es/ayuntamiento/#organizacion_politica>",
+                "source_url": "https://www.ayto-antigua.es#collapse-56f88cf698dbd1f0e295"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Betancuria",
+        "url": "https://www.aytobetancuria.org",
+        "status": "success",
         "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.adeje.es/\", waiting until \"networkidle\"\n"
+        "data": [
+            {
+                "nombre": "Enrique Cerdeña Méndez",
+                "partido": null,
+                "cargo": "Alcalde - presidente",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.aytobetancuria.org"
+            },
+            {
+                "nombre": "Esperanza González Méndez",
+                "partido": null,
+                "cargo": "Segunda teniente de alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.aytobetancuria.org"
+            },
+            {
+                "nombre": "Elsa Perera Padrón",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.aytobetancuria.org"
+            },
+            {
+                "nombre": "José Cerdeña Rodríguez",
+                "partido": null,
+                "cargo": null,
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.aytobetancuria.org"
+            },
+            {
+                "nombre": "Enrique Pérez Brito",
+                "partido": null,
+                "cargo": "Concejal - oposición",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.aytobetancuria.org"
+            },
+            {
+                "nombre": "Manuel Alejandro Méndez Dominguez",
+                "partido": null,
+                "cargo": "Concejal - oposición",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.aytobetancuria.org"
+            }
+        ],
+        "error": null
     },
     {
-        "municipality": "Arona",
-        "url": "https://www.arona.org/",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.arona.org/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "Buenavista del Norte",
-        "url": "https://www.buenavistadelnorte.es/",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.buenavistadelnorte.es/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "Candelaria",
-        "url": "https://www.candelaria.es/",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.candelaria.es/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "El Sauzal",
-        "url": "https://www.elsauzal.es/",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.elsauzal.es/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "La Orotava",
-        "url": "https://www.laorotava.es/",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.laorotava.es/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "La Laguna (San Cristóbal)",
-        "url": "https://www.aytolalaguna.es/",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.aytolalaguna.es/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "Los Realejos",
-        "url": "https://losrealejos.es/",
+        "municipality": "La Oliva",
+        "url": "https://www.laoliva.es",
         "status": "error",
         "method": "Playwright",
         "data": [],
         "error": "No se extrajeron datos de IA"
     },
     {
-        "municipality": "Los Silos",
-        "url": "https://www.lossilos.es/",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.lossilos.es/\", waiting until \"networkidle\"\n"
-    },
-    {
-        "municipality": "San Juan de la Rambla",
-        "url": "https://www.sanjuandelarambla.es/",
+        "municipality": "Pájara",
+        "url": "https://www.pajara.es",
         "status": "success",
         "method": "Playwright",
         "data": [
             {
-                "nombre": "Juan Ramos Reyes",
+                "nombre": "Alexis Alonso",
                 "partido": null,
-                "cargo": "Alcalde",
+                "cargo": "Concejal de urbanismo",
                 "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "Yanira Mesa",
-                "partido": null,
-                "cargo": "Concejala de bienestar animal",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "Jonay Méndez",
-                "partido": null,
-                "cargo": "Segundo teniente de alcalde",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "María García",
-                "partido": null,
-                "cargo": "Ferias, festejos, romerías y deportes",
-                "email": null,
-                "tipo": "Persona",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "Concejalía de Cultura",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "Área de Mantenimiento de Vías",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "Oficinas presenciales",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "Alcaldía",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "CULTURA",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "DEPORTE",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "FIESTAS",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "TURISMO",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "EDUCACIÓN",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "SERVICIOS SOCIALES",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "DESARROLLO LOCAL",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.sanjuandelarambla.es/"
-            },
-            {
-                "nombre": "URBANISMO",
-                "partido": null,
-                "cargo": null,
-                "email": null,
-                "tipo": "Organización/Departamento",
-                "source_url": "https://www.sanjuandelarambla.es/"
+                "url_perfil": null,
+                "source_url": "https://www.pajara.es"
             }
         ],
         "error": null
     },
     {
-        "municipality": "Santa Cruz de Tenerife",
-        "url": "https://www.santacruzdetenerife.es/",
-        "status": "error",
-        "method": "Playwright",
-        "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://www.santacruzdetenerife.es/\", waiting until \"networkidle\"\n"
+        "municipality": "Puerto del Rosario",
+        "url": "https://www.puertodelrosario.org",
+        "status": "success",
+        "method": "HTTP",
+        "data": [
+            {
+                "nombre": "David de Vera",
+                "partido": null,
+                "cargo": "Alcalde de puerto del rosario",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.puertodelrosario.org/el-ayuntamiento-de-puerto-del-rosario-continua-la-ronda-de-visitas-a-los-centros-educativos-del-municipio/"
+            },
+            {
+                "nombre": "Toñi Fdez. Aragón",
+                "partido": null,
+                "cargo": "Concejala de educación",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.puertodelrosario.org/el-ayuntamiento-de-puerto-del-rosario-continua-la-ronda-de-visitas-a-los-centros-educativos-del-municipio/"
+            },
+            {
+                "nombre": "David de Vera",
+                "partido": null,
+                "cargo": "Alcalde de puerto del rosario",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.puertodelrosario.org/puerto-del-rosario-celebra-la-viii-convocatoria-de-huertos-con-la-incorporacion-de-17-nuevos-adjudicatarios/"
+            },
+            {
+                "nombre": "Jenifer Pérez",
+                "partido": null,
+                "cargo": "Concejala de medio ambiente",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.puertodelrosario.org/puerto-del-rosario-celebra-la-viii-convocatoria-de-huertos-con-la-incorporacion-de-17-nuevos-adjudicatarios/"
+            },
+            {
+                "nombre": "David de Vera",
+                "partido": null,
+                "cargo": "Alcalde de puerto del rosario",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.puertodelrosario.org/el-ayuntamiento-de-puerto-del-rosario-y-canaragua-eliminan-los-olores-en-las-estaciones-de-bombeo-con-tecnologia-pionera-de-ozono/"
+            },
+            {
+                "nombre": "David de León",
+                "partido": null,
+                "cargo": "Concejal de servicios municipales",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.puertodelrosario.org/el-ayuntamiento-de-puerto-del-rosario-y-canaragua-eliminan-los-olores-en-las-estaciones-de-bombeo-con-tecnologia-pionera-de-ozono/"
+            },
+            {
+                "nombre": "David de Vera",
+                "partido": "SIN INFORMACIÓN",
+                "cargo": "Alcalde de puerto del rosario",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.puertodelrosario.org/gobierno-de-canarias-consejo-insular-de-aguas-y-ayuntamiento-de-puerto-del-rosario-impulsan-conjuntamente-la-ampliacion-de-la-edar/"
+            }
+        ],
+        "error": null
     },
     {
-        "municipality": "Vilaflor de Chasna",
-        "url": "https://vilaflordechasna.es/",
+        "municipality": "Tuineje",
+        "url": "https://www.ayuntamientotuineje.com",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "Page.goto: Timeout 300000ms exceeded.\nCall log:\n  - navigating to \"https://vilaflordechasna.es/\", waiting until \"networkidle\"\n"
+        "error": "No se extrajeron datos de IA"
     },
     {
-        "municipality": "Valle Gran Rey",
-        "url": "https://vallegranrey.es/",
+        "municipality": "Adeje",
+        "url": "https://www.adeje.es",
+        "status": "success",
+        "method": "HTTP",
+        "data": [
+            {
+                "nombre": "José Miguel  \nRodríguez Fraga",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/alcalde>",
+                "source_url": "https://www.adeje.es"
+            },
+            {
+                "nombre": "José Miguel Rodríguez Fraga",
+                "partido": "PSOE",
+                "cargo": "Alcalde",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/alcalde>",
+                "source_url": "https://www.adeje.es/contenido/582"
+            },
+            {
+                "nombre": "José Miguel Rodríguez Fraga",
+                "partido": "PSOE",
+                "cargo": "Alcalde",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/alcalde>",
+                "source_url": "https://www.adeje.es/alcalde/tu-alcalde"
+            },
+            {
+                "nombre": "José Miguel Rodríguez Fraga",
+                "partido": "PSOE",
+                "cargo": "Alcalde de adeje",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/alcalde>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Epifanio Díaz Hernández",
+                "partido": "PSOE",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/29>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "María Mercedes Vargas Delgado",
+                "partido": "PSOE",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3506>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Adolfo Sebastián Alonso Ferrera",
+                "partido": "PSOE",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Patricia Paulsen Fölling",
+                "partido": "PSOE",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8159>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Manuel Luis Méndez Martín",
+                "partido": "PSOE",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/9>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "María Esther Rivero Vargas",
+                "partido": "PSOE",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/33>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Raquel Rodríguez Alonso",
+                "partido": "PSOE",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3509>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Carmen Lucía Rodríguez del Toro",
+                "partido": "PSOE",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/31>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Alberto Álvarez Jiménez",
+                "partido": "PSOE",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8158>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Coraima Afonso Navarro",
+                "partido": "PSOE",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8160>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Juan Desiderio Afonso Ruiz",
+                "partido": "PSOE",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/35>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "José Antonio López Delgado",
+                "partido": "PSOE",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3507>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Alberto Antonio Melián Álvarez",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3511>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Juan José Gutiérrez Galdona",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8161>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "María Luz Cervero García",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8162>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Aythami Jesús Amaro Rodríguez",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8165>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "José Ricardo González Vargas",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8204>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Marta Isabel Lorenzo Velázquez",
+                "partido": "PARTIDO POPULAR",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3516>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Christian Pablo Comellas Barreneche",
+                "partido": "VOX",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8164>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "Gabriel González Fernández",
+                "partido": "PODEMOS-IU",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3514>",
+                "source_url": "https://www.adeje.es/ayuntamiento"
+            },
+            {
+                "nombre": "José Miguel Rodríguez Fraga",
+                "partido": "PSOE",
+                "cargo": "Alcalde de adeje",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/alcalde>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Epifanio Díaz Hernández",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/29>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "María Mercedes Vargas Delgado",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3506>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Adolfo Sebastián Alonso Ferrera",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Patricia Paulsen Fölling",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8159>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Manuel Luis Méndez Martín",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/9>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "María Esther Rivero Vargas",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/33>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Raquel Rodríguez Alonso",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3509>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Carmen Lucía Rodríguez del Toro",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/31>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Alberto Álvarez Jiménez",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8158>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Coraima Afonso Navarro",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8160>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Juan Desiderio Afonso Ruiz",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/35>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "José Antonio López Delgado",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3507>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Alberto Antonio Melián Álvarez",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3511>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Juan José Gutiérrez Galdona",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8161>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "María Luz Cervero García",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8162>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Aythami Jesús Amaro Rodríguez",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8165>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "José Ricardo González Vargas",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8204>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Marta Isabel Lorenzo Velázquez",
+                "partido": "PARTIDO POPULAR",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3516>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Christian Pablo Comellas Barreneche",
+                "partido": "VOX",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8164>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "Gabriel González Fernández",
+                "partido": "PODEMOS-IU",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3514>",
+                "source_url": "https://www.adeje.es/ayuntamiento/gobierno-municipal"
+            },
+            {
+                "nombre": "José Miguel Rodríguez Fraga",
+                "partido": "PSOE",
+                "cargo": "Alcalde de adeje",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/alcalde>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Epifanio Díaz Hernández",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/29>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "María Mercedes Vargas Delgado",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3506>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Adolfo Sebastián Alonso Ferrera",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Patricia Paulsen Fölling",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8159>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Manuel Luis Méndez Martín",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/9>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "María Esther Rivero Vargas",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/33>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Raquel Rodríguez Alonso",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3509>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Carmen Lucía Rodríguez del Toro",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/31>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Alberto Álvarez Jiménez",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8158>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Coraima Afonso Navarro",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8160>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Juan Desiderio Afonso Ruiz",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/35>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "José Antonio López Delgado",
+                "partido": "PSOE",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3507>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Alberto Antonio Melián Álvarez",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3511>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Juan José Gutiérrez Galdona",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8161>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "María Luz Cervero García",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8162>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Aythami Jesús Amaro Rodríguez",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8165>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "José Ricardo González Vargas",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8204>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Marta Isabel Lorenzo Velázquez",
+                "partido": "PARTIDO POPULAR",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3516>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Christian Pablo Comellas Barreneche",
+                "partido": "VOX",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/8164>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "Gabriel González Fernández",
+                "partido": "PODEMOS-IU",
+                "cargo": null,
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/data/3514>",
+                "source_url": "https://www.adeje.es/ayuntamiento/corporacion-municipal"
+            },
+            {
+                "nombre": "José Miguel  \nRodríguez Fraga",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/<https:/www.adeje.es/alcalde>",
+                "source_url": "https://www.adeje.es/post/21811"
+            },
+            {
+                "nombre": "José Miguel Rodríguez Fraga",
+                "partido": "PSOE",
+                "cargo": "Alcalde de adeje",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/alcalde",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Epifanio Díaz Hernández",
+                "partido": "PSOE",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/29",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "María Mercedes Vargas Delgado",
+                "partido": "PSOE",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/3506",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Adolfo Sebastián Alonso Ferrera",
+                "partido": "PSOE",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/8",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Patricia Paulsen Fölling",
+                "partido": "PSOE",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/8159",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Manuel Luis Méndez Martín",
+                "partido": "PSOE",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/9",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "María Esther Rivero Vargas",
+                "partido": "PSOE",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/33",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Raquel Rodríguez Alonso",
+                "partido": "PSOE",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/3509",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Carmen Lucía Rodríguez del Toro",
+                "partido": "PSOE",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/31",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Alberto Álvarez Jiménez",
+                "partido": "PSOE",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/8158",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Coraima Afonso Navarro",
+                "partido": "PSOE",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/8160",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Juan Desiderio Afonso Ruiz",
+                "partido": "PSOE",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/35",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "José Antonio López Delgado",
+                "partido": "PSOE",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/3507",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Alberto Antonio Melián Álvarez",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/3511",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Juan José Gutiérrez Galdona",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/8161",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "María Luz Cervero García",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/8162",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Aythami Jesús Amaro Rodríguez",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/8165",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "José Ricardo González Vargas",
+                "partido": "COALICIÓN CANARIA",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/8204",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Marta Isabel Lorenzo Velázquez",
+                "partido": "PARTIDO POPULAR",
+                "cargo": "Concejala",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/3516",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Christian Pablo Comellas Barreneche",
+                "partido": "VOX",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/8164",
+                "source_url": "https://www.adeje.es/contenido/317"
+            },
+            {
+                "nombre": "Gabriel González Fernández",
+                "partido": "PODEMOS-IU",
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": "https://www.adeje.es/data/3514",
+                "source_url": "https://www.adeje.es/contenido/317"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Arafo",
+        "url": "https://www.arafo.es",
         "status": "error",
         "method": "Playwright",
         "data": [],
-        "error": "Page.goto: net::ERR_CONNECTION_REFUSED at https://vallegranrey.es/\nCall log:\n  - navigating to \"https://vallegranrey.es/\", waiting until \"networkidle\"\n"
+        "error": "No se extrajeron datos de IA"
+    },
+    {
+        "municipality": "Arico",
+        "url": "https://www.ayuntamientodearico.com",
+        "status": "success",
+        "method": "HTTP",
+        "data": [
+            {
+                "nombre": "Andrés Martínez",
+                "partido": "PSOE Y PP",
+                "cargo": "Alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com"
+            },
+            {
+                "nombre": "Andrés Martínez",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-presenta-su-i-plan-de-igualdad/"
+            },
+            {
+                "nombre": "Eudelia Pestano",
+                "partido": null,
+                "cargo": "Concejala de igualdad",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-presenta-su-i-plan-de-igualdad/"
+            },
+            {
+                "nombre": "Olivia Delgado",
+                "partido": null,
+                "cargo": "Primera teniente de alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-presenta-su-i-plan-de-igualdad/"
+            },
+            {
+                "nombre": "Miguel Beby",
+                "partido": null,
+                "cargo": "Concejal",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-presenta-su-i-plan-de-igualdad/"
+            },
+            {
+                "nombre": "Andrés Martínez",
+                "partido": "PP",
+                "cargo": "Alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/andres-martinez-asume-la-alcaldia-de-arico-tras-el-pleno-extraordinario-celebrado-este-martes-23-de-diciembre/"
+            },
+            {
+                "nombre": "Olivia Delgado",
+                "partido": "PSOE",
+                "cargo": "Teniente de alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/andres-martinez-asume-la-alcaldia-de-arico-tras-el-pleno-extraordinario-celebrado-este-martes-23-de-diciembre/"
+            },
+            {
+                "nombre": "Olivia Delgado",
+                "partido": "SIN INFORMACIÓN",
+                "cargo": "Alcaldesa de arico",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-amplia-el-programa-de-bienestar-y-la-participacion-de-sus-mayores-con-dos-nuevos-proyectos-innovadores/"
+            },
+            {
+                "nombre": "Sebastián González",
+                "partido": "SIN INFORMACIÓN",
+                "cargo": "Concejal de mayores",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-amplia-el-programa-de-bienestar-y-la-participacion-de-sus-mayores-con-dos-nuevos-proyectos-innovadores/"
+            },
+            {
+                "nombre": "Olivia Delgado",
+                "partido": "ARICO",
+                "cargo": "Alcaldesa de arico",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-invierte-38-65801-euros-en-la-renovacion-de-la-escuela-infantil-saltimbanquis-para-mejorar-los-espacios/"
+            },
+            {
+                "nombre": "Ariam Álvarez",
+                "partido": null,
+                "cargo": "Segunda teniente de alcaldesa y concejala de obras y servicios",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-invierte-38-65801-euros-en-la-renovacion-de-la-escuela-infantil-saltimbanquis-para-mejorar-los-espacios/"
+            },
+            {
+                "nombre": "Agustín Tejera",
+                "partido": null,
+                "cargo": "Cuarto teniente alcalde y concejal de educación",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-invierte-38-65801-euros-en-la-renovacion-de-la-escuela-infantil-saltimbanquis-para-mejorar-los-espacios/"
+            },
+            {
+                "nombre": "Andrés Martínez",
+                "partido": null,
+                "cargo": "Alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-inicia-el-proceso-para-la-elaboracion-del-nuevo-reglamento-de-participacion-ciudadana/"
+            },
+            {
+                "nombre": "Eudelia Pestano",
+                "partido": null,
+                "cargo": "Concejala de participación ciudadana",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-inicia-el-proceso-para-la-elaboracion-del-nuevo-reglamento-de-participacion-ciudadana/"
+            },
+            {
+                "nombre": "Olivia Delgado",
+                "partido": null,
+                "cargo": "Primera teniente de alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-inicia-el-proceso-para-la-elaboracion-del-nuevo-reglamento-de-participacion-ciudadana/"
+            },
+            {
+                "nombre": "Andrés Martínez",
+                "partido": null,
+                "cargo": "Alcalde de arico",
+                "email": null,
+                "url_perfil": "https://www.ayuntamientodearico.com/<https:/www.ayuntamientodearico.com/andres-martinez-asume-la-alcaldia-de-arico-tras-el-pleno-extraordinario-celebrado-este-martes-23-de-diciembre/>",
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-aprueba-inicialmente-el-presupuesto-de-2026-por-mas-de-148-millones-de-euros-antes-de-finalizar-2025/"
+            },
+            {
+                "nombre": "Olivia Delgado",
+                "partido": null,
+                "cargo": "Primera teniente de alcalde y concejala de hacienda",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-aprueba-inicialmente-el-presupuesto-de-2026-por-mas-de-148-millones-de-euros-antes-de-finalizar-2025/"
+            },
+            {
+                "nombre": "Olivia Delgado",
+                "partido": "PSOE Y PP",
+                "cargo": "Alcaldesa de arico",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-exige-un-cambio-radical-en-la-gestion-de-residuos/"
+            },
+            {
+                "nombre": "Andrés Martínez",
+                "partido": null,
+                "cargo": "Primer teniente de alcalde",
+                "email": null,
+                "url_perfil": null,
+                "source_url": "https://www.ayuntamientodearico.com/el-ayuntamiento-de-arico-exige-un-cambio-radical-en-la-gestion-de-residuos/"
+            }
+        ],
+        "error": null
+    },
+    {
+        "municipality": "Arona",
+        "url": "https://www.arona.org",
+        "status": "success",
+        "method": "HTTP",
+        "data": [
+            {
+                "nombre": "Fátima Lemes Reverón",
+                "partido": "PARTIDO POPULAR",
+                "cargo": "Alcaldesa",
+                "email": "portalweb@arona.org",
+                "url_perfil": "https://www.arona.org/Tu-Ayuntamiento/Ayuntamiento-de-Arona/La-Alcaldesa",
+                "source_url": "https://www.arona.org/Ayuntamiento-de-Arona"
+            }
+        ],
+        "error": null
     }
 ]

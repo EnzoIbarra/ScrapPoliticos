@@ -55,13 +55,13 @@ def load_alternative_routes() -> Dict:
 def load_models_config() -> List[str]:
     """
     Carga lista de modelos de IA a usar.
-    Actualmente usa modelos gratuitos de OpenRouter.
+    ESTRATEGIA SEGURA (Modelos probados en ScrapEntidades).
     """
     return [
-        "google/gemini-2.0-flash-exp:free",
-        "meta-llama/llama-3.3-70b-instruct:free",
-        "deepseek/deepseek-r1-distill-llama-70b:free",
-        "qwen/qwen-2.5-coder-32b-instruct:free",
-        "microsoft/phi-3-medium-128k-instruct:free",
-        "nousresearch/hermes-3-llama-3.1-405b:free",
+        # Opción 1: El modelo de Google que uso en el otro proyecto.
+        # Es rápido, estable y sabemos que la API Key lo abre.
+        "google/gemini-2.0-flash-001",
+        
+        # Opción 2: El respaldo de OpenAI.
+        "openai/gpt-4o-mini"
     ]

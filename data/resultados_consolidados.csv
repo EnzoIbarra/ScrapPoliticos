@@ -1,0 +1,243 @@
+﻿Municipio;Estado Scraping;Nombre;Cargo;Partido;Email;URL Perfil;URL Origen
+Agaete;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.agaete.es
+Agüimes;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.aguimes.es
+Artenara;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.artenara.es
+Arucas;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.arucas.org
+Firgas;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.firgas.es
+Gáldar;success;Teodoro C. Sosa Monzón;Alcalde-presidente;BNR-NC;alcaldia@galdar.es;/biografia-teodoro-sosa-monzon/;https://www.galdar.es
+Gáldar;success;Julio Mateo Castillo;Concejal de presidencia (contratación, secretaría, registro, asesoría jurídica, relaciones institucionales), de cultura y fiestas.;BNR-NC;cultura@galdar.es;/biografia-julio-mateo-castillo/;https://www.galdar.es
+Gáldar;success;Valeria Guerra Mendoza;Concejala de hacienda, patrimonio, catastro y policía local;BNR-NC;vguerra@galdar.es;/biografia-valeria-guerra-mendoza/;https://www.galdar.es
+Gáldar;success;Carlos Ruiz Moreno;Concejal de patrimonio histórico, archivo y biblioteca, identidad, medianías, fundación canaria ciudad de gáldar, museos, escuela de música e i+d+i;BNR-NC;cmruiz@galdar.es;/biografia-de-d-carlos-ruiz-moreno/;https://www.galdar.es
+Gáldar;success;Ana Teresa Mendoza Jiménez;Concejala de servicios sociales (centro ocupacional y hogar funcional), sanidad, igualdad y solidaridad;BNR-NC;atmendoza@galdar.es;/biografia-ana-teresa-mendoza-jimenez/;https://www.galdar.es
+Gáldar;success;Agustín Martín Ojeda;Concejal de desarrollo local (agricultura, ganadería y pesca) y empleo;BNR-NC;amartin@galdar.es;/biografia-agustin-martin-ojeda/;https://www.galdar.es
+Gáldar;success;Idaira Mateos Moreno;Concejala de recursos humanos, cementerio y tanatorio, galobra sau (aparcamientos municipales);BNR-NC;galobra@galdar.es;/biografia-de-dona-idaira-chaxiraxi-mateos-moreno/;https://www.galdar.es
+Gáldar;success;Heriberto José Reyes Sánchez;Concejal de urbanismo y accesibilidad;BNR-NC;urbanismo@galdar.es;/biografia-heriberto-jose-reyes-sanchez/;https://www.galdar.es
+Gáldar;success;Rita María Cabrera Cruz;Concejala de educación, universidad popular y escuela infantil;BNR-NC;rmcabrera@galdar.es;/biografia-de-dona-rita-maria-cabrera-cruz/;https://www.galdar.es
+Gáldar;success;Ulises David Miranda Guerra;Concejal de comunicación, transparencia, turismo, medio ambiente, nuevas tecnologías y administración electrónica;BNR-NC;udmiranda@galdar.es;/biografia-de-d-ulises-d-miranda-guerra/;https://www.galdar.es
+Gáldar;success;Dolores Delgado Jorge;Concejala de política del mayor (centro de día, residencia, programa de mayores acompañados, servicio de ayuda a domicilio, servicio de promoción de la autonomía personal y envejecimiento activo);BNR-NC;ddelgado@galdar.es;/biografia-de-dna-dolores-delgado-jorge/;https://www.galdar.es
+Gáldar;success;Nicolás Mederos Díaz;Concejal de parques y jardines y embellecimiento;BNR-NC;nmederos@galdar.es;/biografia-de-d-nicolas-pino-mederos-diaz/;https://www.galdar.es
+Gáldar;success;Ancor Bolaños Delgado;Concejal de actividad física, deporte y salud;BNR-NC;abolanos@galdar.es;/biografia-ancor-bolanos-delgado/;https://www.galdar.es
+Gáldar;success;Nuria Esther Vega Valencia;Concejala de prevención de adicciones, participación ciudadana, asociaciones de vecinos, barrios y playas;BNR-NC;nvega@galdar.es;/biografia-nuria-esther-vega-valencia/;https://www.galdar.es
+Gáldar;success;Eleazar Rodríguez Díaz;Concejal de vivienda, vías y obras y alcantarillado;BNR-NC;emrodriguez@galdar.es;/biografia-de-d-eleazar-miguel-rodriguez-diaz/;https://www.galdar.es
+Gáldar;success;Pedro Mendoza Vega;Concejal de tráfico y ordenación vial, emergencias, movilidad, transporte y parque móvil;BNR-NC;pmendoza@galdar.es;/biografia-de-d-pedro-mendoza-vega/;https://www.galdar.es
+Gáldar;success;Antonia Isabel Moreno Jiménez;Concejala de residuos y limpieza viaria;BNR-NC;aimoreno@galdar.es;/biografia-de-dna-antonia-isabel-moreno-jimenez/;https://www.galdar.es
+Gáldar;success;Cristian Jesús Perdomo Bolaños;Concejal de alumbrado público, consumo, mercado municipal y agua;BNR-NC;cjperdomo@galdar.es;/biografia-de-d-cristian-jesus-perdomo-bolanos/;https://www.galdar.es
+Gáldar;success;Antonio María Benítez Melián;Concejal de bienestar animal, juventud y clubes de mayores;BNR-NC;ambenitez@galdar.es;/biografia-de-d-antonio-maria-benitez-melian/;https://www.galdar.es
+Gáldar;success;Francisco Javier Hernández Rosales;Concejal;PSC-PSOE;;/biografia-de-d-francisco-javier-hernandez-rosales/;https://www.galdar.es
+Gáldar;success;José Blas Díaz Bolaños;Concejal;CC-UXGC;;/biografia-jose-blas-diaz-bolanos/;https://www.galdar.es
+Ingenio;success;Ana Hernández Rodríguez;Alcaldesa presidenta;;;;https://www.ingenio.es
+Ingenio;success;Oliver de la Cruz Navarro Guerra;Concejal;;oliverng@ingenio.es;;https://www.ingenio.es
+Ingenio;success;Almudena Isabel Hernández Rodríguez;Concejala;;almudenaihr@ingenio.es;;https://www.ingenio.es
+Ingenio;success;Vanesa Belén Martín Herrera;Alcaldesa - presidenta;;vanesamh@ingenio.es;;https://www.ingenio.es
+Ingenio;success;Francisco Javier Espino Espino;Concejal;;franciscojee@ingenio.es;;https://www.ingenio.es
+Ingenio;success;Sebastián Suárez Trujillo;Concejal;;sebastiandst@ingenio.es;;https://www.ingenio.es
+Ingenio;success;Fátima Méndez López;Concejala;;fatimaml@ingenio.es;;https://www.ingenio.es
+Ingenio;success;Rubén Domingo López Sánchez;Concejal;;rubendls@ingenio.es;;https://www.ingenio.es
+Ingenio;success;Martín Manuel García Cabrera;Concejal;;martinmgc@ingenio.es;;https://www.ingenio.es
+Ingenio;success;Rayco Nauzet Padilla Cubas;Concejal;;rayconpc@ingenio.es;;https://www.ingenio.es
+Ingenio;success;Catalina María Sánchez Ramírez;Concejala;;catalinasanchezramirez@gmail.com;;https://www.ingenio.es
+Ingenio;success;Rosario Viera Hernández;Concejala;;mariarvh@ingenio.es;;https://www.ingenio.es
+Ingenio;success;Rubén Cruz Liria;Concejal;;rubencl@ingenio.es;;https://www.ingenio.es
+La Aldea de San Nicolás;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.laaldeadesannicolas.es
+Las Palmas de Gran Canaria;success;Carolina Darias;Alcaldesa;;;;https://www.laspalmasgc.es
+Mogán;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.mogan.es
+Moya;success;Raúl Afonso Suárez;Alcalde de la villa de moya;;alcaldia@villademoya.es;;https://www.villademoya.es
+Moya;success;Raúl Afonso Suárez;Alcalde;PARTIDO POPULAR VILLA DE MOYA;;;https://www.villademoya.es
+Moya;success;Octavio Pedro Suárez García;Primer teniente de alcalde;PARTIDO POPULAR VILLA DE MOYA;;;https://www.villademoya.es
+Moya;success;Ana Belén Rivero Medina;Segunda teniente de alcalde;PARTIDO POPULAR VILLA DE MOYA;;;https://www.villademoya.es
+Moya;success;Lucia Rosa Rodríguez Batista;Tercera teniente de alcalde;PARTIDO POPULAR VILLA DE MOYA;;;https://www.villademoya.es
+Moya;success;Bernabé Martín Guerra Ojeda;Cuarto teniente de alcalde;PARTIDO POPULAR VILLA DE MOYA;;;https://www.villademoya.es
+Moya;success;Lidia Esther Rodríguez Díaz;Concejala;PARTIDO POPULAR VILLA DE MOYA;;;https://www.villademoya.es
+Moya;success;Santiago Santana de la Fe;Concejal;PARTIDO POPULAR VILLA DE MOYA;;;https://www.villademoya.es
+Moya;success;Gilberto Sosa Betancor;Concejal;PARTIDO POPULAR VILLA DE MOYA;;;https://www.villademoya.es
+Moya;success;Raúl Afonso;Alcalde del municipio;;;;https://www.villademoya.es
+San Bartolomé de Tirajana;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.maspalomas.com
+Santa Brígida;success;José Armengol;Alcalde de la villa;;;;https://www.santabrigida.es
+Santa Brígida;success;José Armengol;Alcalde de la villa;SIN INFORMACIÓN;;;https://www.santabrigida.es
+Santa Brígida;success;Aridane Herrera;Concejal;VOX;;;https://www.santabrigida.es
+Santa Brígida;success;Carlos Carrión;Concejal de servicios sociales;SIN INFORMACIÓN;;;https://www.santabrigida.es
+Santa Brígida;success;Carlos Carrión;Concejal de recursos humanos;SIN INFORMACIÓN;;;https://www.santabrigida.es
+Santa Brígida;success;Javier Ramírez Mendoza;Concejal;SIN INFORMACIÓN;;;https://www.santabrigida.es
+Santa Brígida;success;Avelina Fernández Manrique de Lara;Concejala de nuevas tecnologías;;;;https://www.santabrigida.es
+Santa Lucía de Tirajana;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.santaluciagc.com
+Santa María de Guía;success;Alfredo Gonçalves Ferreira;Alcalde de santa maría de guía;;;https://santamariadeguia.es/alcaldia/;https://www.santamariadeguia.es
+Santa María de Guía;success;Alejandro Rivero;Concejal de política social y mayores;;;;https://www.santamariadeguia.es
+Santa María de Guía;success;Julián Melián;Concejal de recursos humanos;;;;https://www.santamariadeguia.es
+Santa María de Guía;success;Ruth Martín;Concejala de juventud y universidad popular;;;;https://www.santamariadeguia.es
+Tejeda;error;SIN DATOS;"Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.tejeda.es/
+Call log:
+  - navigating to ""https://www.tejeda.es/"", waiting until ""networkidle""
+";;;;https://www.tejeda.es
+Telde;success;Juan Antonio Peña;Alcalde de telde;;;;https://www.telde.es
+Telde;success;Juan Francisco Jiménez;Concejal de gobierno;;;;https://www.telde.es
+Telde;success;Janoa Anceaume;Concejal de gobierno;;;;https://www.telde.es
+Telde;success;Juan Antonio Peña;Alcalde de telde;SIN INFORMACIÓN;;;https://www.telde.es
+Telde;success;Juan Francisco Jiménez;Concejal de gobierno;;;;https://www.telde.es
+Telde;success;Janoa Anceaume;Concejala de participación ciudadana;;;;https://www.telde.es
+Teror;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.teror.es
+Valsequillo de Gran Canaria;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.valsequillogc.es
+Valleseco;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.valleseco.es
+Vega de San Mateo;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.vegasanmateo.es
+Arrecife;error;SIN DATOS;"Page.goto: Timeout 300000ms exceeded.
+Call log:
+  - navigating to ""https://www.arrecife.es/"", waiting until ""networkidle""
+";;;;https://www.arrecife.es
+Haría;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.ayuntamientodeharia.com
+San Bartolomé;success;Isidro Pérez;Alcalde del ayuntamiento de san bartolomé;;;;https://www.sanbartolome.es
+San Bartolomé;success;Isidro Pérez;Alcalde de san bartolomé;SIN INFORMACIÓN;;;https://www.sanbartolome.es
+San Bartolomé;success;Estefanía Luzardo;Concejala de festejos;SIN INFORMACIÓN;;;https://www.sanbartolome.es
+San Bartolomé;success;Isidro Pérez;Alcalde de san bartolomé;SIN INFORMACIÓN;;;https://www.sanbartolome.es
+San Bartolomé;success;Marlene Romero;Concejala de urbanismo;SIN INFORMACIÓN;;;https://www.sanbartolome.es
+San Bartolomé;success;Isidro Pérez;Alcalde;;;;https://www.sanbartolome.es
+San Bartolomé;success;Estefanía Luzardo;Concejala de festejos;;;;https://www.sanbartolome.es
+San Bartolomé;success;Isidro Pérez;Alcalde de san bartolomé;;;;https://www.sanbartolome.es
+San Bartolomé;success;Fernando Vadillo;Concejal de bienestar animal;;;;https://www.sanbartolome.es
+San Bartolomé;success;Isidro Pérez;Alcalde;;;;https://www.sanbartolome.es
+San Bartolomé;success;Isidro Pérez;Alcalde de san bartolomé;;;;https://www.sanbartolome.es
+San Bartolomé;success;Raúl de León;Concejal de servicios públicos;;;;https://www.sanbartolome.es
+San Bartolomé;success;Alexis Hernández;Edil de agricultura;;;;https://www.sanbartolome.es
+San Bartolomé;success;Isidro Pérez;Alcalde de san bartolomé;;;;https://www.sanbartolome.es
+San Bartolomé;success;Estefanía Luzardo;Concejala de festejos;;;;https://www.sanbartolome.es
+Teguise;error;SIN DATOS;"Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.teguise.es/
+Call log:
+  - navigating to ""https://www.teguise.es/"", waiting until ""networkidle""
+";;;;https://www.teguise.es
+Tías;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.ayuntamientodetias.es
+Tinajo;success;Jesús Machín;Alcalde de tinajo;TINAJO;;;https://www.tinajo.es
+Tinajo;success;Macarena Olivero;Concejal delegada de la tercera edad;;;;https://www.tinajo.es
+Yaiza;error;SIN DATOS;"Page.goto: net::ERR_CONNECTION_REFUSED at https://www.yaiza.org/
+Call log:
+  - navigating to ""https://www.yaiza.org/"", waiting until ""networkidle""
+";;;;https://www.yaiza.org
+Antigua;success;Matías Fidel Peña García;Alcalde;;;https://www.ayto-antigua.es/<https:/www.ayto-antigua.es/ayuntamiento/#organizacion_politica>;https://www.ayto-antigua.es
+Antigua;success;Juan Pedro Galván Lasso;1° teniente de alcalde;;;https://www.ayto-antigua.es/<https:/www.ayto-antigua.es/ayuntamiento/#organizacion_politica>;https://www.ayto-antigua.es
+Antigua;success;Estimado/a vecino/a;Alcalde;;;https://www.ayto-antigua.es/<https:/ayto-antigua.es/ayuntamiento/>;https://www.ayto-antigua.es
+Antigua;success;Matías Fidel Peña García;Alcalde;;;https://www.ayto-antigua.es/<https:/www.ayto-antigua.es/ayuntamiento/#organizacion_politica>;https://www.ayto-antigua.es
+Antigua;success;Juan Pedro Galván Lasso;1° teniente de alcalde;;;https://www.ayto-antigua.es/<https:/www.ayto-antigua.es/ayuntamiento/#organizacion_politica>;https://www.ayto-antigua.es
+Betancuria;success;Enrique Cerdeña Méndez;Alcalde - presidente;;;;https://www.aytobetancuria.org
+Betancuria;success;Esperanza González Méndez;Segunda teniente de alcalde;;;;https://www.aytobetancuria.org
+Betancuria;success;Elsa Perera Padrón;;;;;https://www.aytobetancuria.org
+Betancuria;success;José Cerdeña Rodríguez;;;;;https://www.aytobetancuria.org
+Betancuria;success;Enrique Pérez Brito;Concejal - oposición;;;;https://www.aytobetancuria.org
+Betancuria;success;Manuel Alejandro Méndez Dominguez;Concejal - oposición;;;;https://www.aytobetancuria.org
+La Oliva;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.laoliva.es
+Pájara;success;Alexis Alonso;Concejal de urbanismo;;;;https://www.pajara.es
+Puerto del Rosario;success;David de Vera;Alcalde de puerto del rosario;;;;https://www.puertodelrosario.org
+Puerto del Rosario;success;Toñi Fdez. Aragón;Concejala de educación;;;;https://www.puertodelrosario.org
+Puerto del Rosario;success;David de Vera;Alcalde de puerto del rosario;;;;https://www.puertodelrosario.org
+Puerto del Rosario;success;Jenifer Pérez;Concejala de medio ambiente;;;;https://www.puertodelrosario.org
+Puerto del Rosario;success;David de Vera;Alcalde de puerto del rosario;;;;https://www.puertodelrosario.org
+Puerto del Rosario;success;David de León;Concejal de servicios municipales;;;;https://www.puertodelrosario.org
+Puerto del Rosario;success;David de Vera;Alcalde de puerto del rosario;SIN INFORMACIÓN;;;https://www.puertodelrosario.org
+Tuineje;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.ayuntamientotuineje.com
+Adeje;success;"José Miguel  
+Rodríguez Fraga";Alcalde;;;https://www.adeje.es/<https:/www.adeje.es/alcalde>;https://www.adeje.es
+Adeje;success;José Miguel Rodríguez Fraga;Alcalde;PSOE;;https://www.adeje.es/<https:/www.adeje.es/alcalde>;https://www.adeje.es
+Adeje;success;José Miguel Rodríguez Fraga;Alcalde;PSOE;;https://www.adeje.es/<https:/www.adeje.es/alcalde>;https://www.adeje.es
+Adeje;success;José Miguel Rodríguez Fraga;Alcalde de adeje;PSOE;;https://www.adeje.es/<https:/www.adeje.es/alcalde>;https://www.adeje.es
+Adeje;success;Epifanio Díaz Hernández;Concejal;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/29>;https://www.adeje.es
+Adeje;success;María Mercedes Vargas Delgado;Concejala;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/3506>;https://www.adeje.es
+Adeje;success;Adolfo Sebastián Alonso Ferrera;Concejal;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/8>;https://www.adeje.es
+Adeje;success;Patricia Paulsen Fölling;Concejala;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/8159>;https://www.adeje.es
+Adeje;success;Manuel Luis Méndez Martín;Concejal;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/9>;https://www.adeje.es
+Adeje;success;María Esther Rivero Vargas;Concejala;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/33>;https://www.adeje.es
+Adeje;success;Raquel Rodríguez Alonso;Concejala;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/3509>;https://www.adeje.es
+Adeje;success;Carmen Lucía Rodríguez del Toro;Concejala;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/31>;https://www.adeje.es
+Adeje;success;Alberto Álvarez Jiménez;Concejal;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/8158>;https://www.adeje.es
+Adeje;success;Coraima Afonso Navarro;Concejala;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/8160>;https://www.adeje.es
+Adeje;success;Juan Desiderio Afonso Ruiz;Concejal;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/35>;https://www.adeje.es
+Adeje;success;José Antonio López Delgado;Concejal;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/3507>;https://www.adeje.es
+Adeje;success;Alberto Antonio Melián Álvarez;Concejal;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/3511>;https://www.adeje.es
+Adeje;success;Juan José Gutiérrez Galdona;Concejal;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/8161>;https://www.adeje.es
+Adeje;success;María Luz Cervero García;Concejala;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/8162>;https://www.adeje.es
+Adeje;success;Aythami Jesús Amaro Rodríguez;Concejal;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/8165>;https://www.adeje.es
+Adeje;success;José Ricardo González Vargas;Concejal;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/8204>;https://www.adeje.es
+Adeje;success;Marta Isabel Lorenzo Velázquez;Concejala;PARTIDO POPULAR;;https://www.adeje.es/<https:/www.adeje.es/data/3516>;https://www.adeje.es
+Adeje;success;Christian Pablo Comellas Barreneche;Concejal;VOX;;https://www.adeje.es/<https:/www.adeje.es/data/8164>;https://www.adeje.es
+Adeje;success;Gabriel González Fernández;Concejal;PODEMOS-IU;;https://www.adeje.es/<https:/www.adeje.es/data/3514>;https://www.adeje.es
+Adeje;success;José Miguel Rodríguez Fraga;Alcalde de adeje;PSOE;;https://www.adeje.es/<https:/www.adeje.es/alcalde>;https://www.adeje.es
+Adeje;success;Epifanio Díaz Hernández;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/29>;https://www.adeje.es
+Adeje;success;María Mercedes Vargas Delgado;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/3506>;https://www.adeje.es
+Adeje;success;Adolfo Sebastián Alonso Ferrera;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/8>;https://www.adeje.es
+Adeje;success;Patricia Paulsen Fölling;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/8159>;https://www.adeje.es
+Adeje;success;Manuel Luis Méndez Martín;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/9>;https://www.adeje.es
+Adeje;success;María Esther Rivero Vargas;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/33>;https://www.adeje.es
+Adeje;success;Raquel Rodríguez Alonso;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/3509>;https://www.adeje.es
+Adeje;success;Carmen Lucía Rodríguez del Toro;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/31>;https://www.adeje.es
+Adeje;success;Alberto Álvarez Jiménez;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/8158>;https://www.adeje.es
+Adeje;success;Coraima Afonso Navarro;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/8160>;https://www.adeje.es
+Adeje;success;Juan Desiderio Afonso Ruiz;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/35>;https://www.adeje.es
+Adeje;success;José Antonio López Delgado;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/3507>;https://www.adeje.es
+Adeje;success;Alberto Antonio Melián Álvarez;;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/3511>;https://www.adeje.es
+Adeje;success;Juan José Gutiérrez Galdona;;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/8161>;https://www.adeje.es
+Adeje;success;María Luz Cervero García;;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/8162>;https://www.adeje.es
+Adeje;success;Aythami Jesús Amaro Rodríguez;;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/8165>;https://www.adeje.es
+Adeje;success;José Ricardo González Vargas;;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/8204>;https://www.adeje.es
+Adeje;success;Marta Isabel Lorenzo Velázquez;;PARTIDO POPULAR;;https://www.adeje.es/<https:/www.adeje.es/data/3516>;https://www.adeje.es
+Adeje;success;Christian Pablo Comellas Barreneche;;VOX;;https://www.adeje.es/<https:/www.adeje.es/data/8164>;https://www.adeje.es
+Adeje;success;Gabriel González Fernández;;PODEMOS-IU;;https://www.adeje.es/<https:/www.adeje.es/data/3514>;https://www.adeje.es
+Adeje;success;José Miguel Rodríguez Fraga;Alcalde de adeje;PSOE;;https://www.adeje.es/<https:/www.adeje.es/alcalde>;https://www.adeje.es
+Adeje;success;Epifanio Díaz Hernández;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/29>;https://www.adeje.es
+Adeje;success;María Mercedes Vargas Delgado;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/3506>;https://www.adeje.es
+Adeje;success;Adolfo Sebastián Alonso Ferrera;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/8>;https://www.adeje.es
+Adeje;success;Patricia Paulsen Fölling;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/8159>;https://www.adeje.es
+Adeje;success;Manuel Luis Méndez Martín;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/9>;https://www.adeje.es
+Adeje;success;María Esther Rivero Vargas;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/33>;https://www.adeje.es
+Adeje;success;Raquel Rodríguez Alonso;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/3509>;https://www.adeje.es
+Adeje;success;Carmen Lucía Rodríguez del Toro;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/31>;https://www.adeje.es
+Adeje;success;Alberto Álvarez Jiménez;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/8158>;https://www.adeje.es
+Adeje;success;Coraima Afonso Navarro;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/8160>;https://www.adeje.es
+Adeje;success;Juan Desiderio Afonso Ruiz;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/35>;https://www.adeje.es
+Adeje;success;José Antonio López Delgado;;PSOE;;https://www.adeje.es/<https:/www.adeje.es/data/3507>;https://www.adeje.es
+Adeje;success;Alberto Antonio Melián Álvarez;;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/3511>;https://www.adeje.es
+Adeje;success;Juan José Gutiérrez Galdona;;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/8161>;https://www.adeje.es
+Adeje;success;María Luz Cervero García;;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/8162>;https://www.adeje.es
+Adeje;success;Aythami Jesús Amaro Rodríguez;;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/8165>;https://www.adeje.es
+Adeje;success;José Ricardo González Vargas;;COALICIÓN CANARIA;;https://www.adeje.es/<https:/www.adeje.es/data/8204>;https://www.adeje.es
+Adeje;success;Marta Isabel Lorenzo Velázquez;;PARTIDO POPULAR;;https://www.adeje.es/<https:/www.adeje.es/data/3516>;https://www.adeje.es
+Adeje;success;Christian Pablo Comellas Barreneche;;VOX;;https://www.adeje.es/<https:/www.adeje.es/data/8164>;https://www.adeje.es
+Adeje;success;Gabriel González Fernández;;PODEMOS-IU;;https://www.adeje.es/<https:/www.adeje.es/data/3514>;https://www.adeje.es
+Adeje;success;"José Miguel  
+Rodríguez Fraga";Alcalde;;;https://www.adeje.es/<https:/www.adeje.es/alcalde>;https://www.adeje.es
+Adeje;success;José Miguel Rodríguez Fraga;Alcalde de adeje;PSOE;;https://www.adeje.es/alcalde;https://www.adeje.es
+Adeje;success;Epifanio Díaz Hernández;Concejal;PSOE;;https://www.adeje.es/data/29;https://www.adeje.es
+Adeje;success;María Mercedes Vargas Delgado;Concejala;PSOE;;https://www.adeje.es/data/3506;https://www.adeje.es
+Adeje;success;Adolfo Sebastián Alonso Ferrera;Concejal;PSOE;;https://www.adeje.es/data/8;https://www.adeje.es
+Adeje;success;Patricia Paulsen Fölling;Concejala;PSOE;;https://www.adeje.es/data/8159;https://www.adeje.es
+Adeje;success;Manuel Luis Méndez Martín;Concejal;PSOE;;https://www.adeje.es/data/9;https://www.adeje.es
+Adeje;success;María Esther Rivero Vargas;Concejala;PSOE;;https://www.adeje.es/data/33;https://www.adeje.es
+Adeje;success;Raquel Rodríguez Alonso;Concejala;PSOE;;https://www.adeje.es/data/3509;https://www.adeje.es
+Adeje;success;Carmen Lucía Rodríguez del Toro;Concejala;PSOE;;https://www.adeje.es/data/31;https://www.adeje.es
+Adeje;success;Alberto Álvarez Jiménez;Concejal;PSOE;;https://www.adeje.es/data/8158;https://www.adeje.es
+Adeje;success;Coraima Afonso Navarro;Concejala;PSOE;;https://www.adeje.es/data/8160;https://www.adeje.es
+Adeje;success;Juan Desiderio Afonso Ruiz;Concejal;PSOE;;https://www.adeje.es/data/35;https://www.adeje.es
+Adeje;success;José Antonio López Delgado;Concejal;PSOE;;https://www.adeje.es/data/3507;https://www.adeje.es
+Adeje;success;Alberto Antonio Melián Álvarez;Concejal;COALICIÓN CANARIA;;https://www.adeje.es/data/3511;https://www.adeje.es
+Adeje;success;Juan José Gutiérrez Galdona;Concejal;COALICIÓN CANARIA;;https://www.adeje.es/data/8161;https://www.adeje.es
+Adeje;success;María Luz Cervero García;Concejala;COALICIÓN CANARIA;;https://www.adeje.es/data/8162;https://www.adeje.es
+Adeje;success;Aythami Jesús Amaro Rodríguez;Concejal;COALICIÓN CANARIA;;https://www.adeje.es/data/8165;https://www.adeje.es
+Adeje;success;José Ricardo González Vargas;Concejal;COALICIÓN CANARIA;;https://www.adeje.es/data/8204;https://www.adeje.es
+Adeje;success;Marta Isabel Lorenzo Velázquez;Concejala;PARTIDO POPULAR;;https://www.adeje.es/data/3516;https://www.adeje.es
+Adeje;success;Christian Pablo Comellas Barreneche;Concejal;VOX;;https://www.adeje.es/data/8164;https://www.adeje.es
+Adeje;success;Gabriel González Fernández;Concejal;PODEMOS-IU;;https://www.adeje.es/data/3514;https://www.adeje.es
+Arafo;error;SIN DATOS;No se extrajeron datos de IA;;;;https://www.arafo.es
+Arico;success;Andrés Martínez;Alcalde;PSOE Y PP;;;https://www.ayuntamientodearico.com
+Arico;success;Andrés Martínez;Alcalde;;;;https://www.ayuntamientodearico.com
+Arico;success;Eudelia Pestano;Concejala de igualdad;;;;https://www.ayuntamientodearico.com
+Arico;success;Olivia Delgado;Primera teniente de alcalde;;;;https://www.ayuntamientodearico.com
+Arico;success;Miguel Beby;Concejal;;;;https://www.ayuntamientodearico.com
+Arico;success;Andrés Martínez;Alcalde;PP;;;https://www.ayuntamientodearico.com
+Arico;success;Olivia Delgado;Teniente de alcalde;PSOE;;;https://www.ayuntamientodearico.com
+Arico;success;Olivia Delgado;Alcaldesa de arico;SIN INFORMACIÓN;;;https://www.ayuntamientodearico.com
+Arico;success;Sebastián González;Concejal de mayores;SIN INFORMACIÓN;;;https://www.ayuntamientodearico.com
+Arico;success;Olivia Delgado;Alcaldesa de arico;ARICO;;;https://www.ayuntamientodearico.com
+Arico;success;Ariam Álvarez;Segunda teniente de alcaldesa y concejala de obras y servicios;;;;https://www.ayuntamientodearico.com
+Arico;success;Agustín Tejera;Cuarto teniente alcalde y concejal de educación;;;;https://www.ayuntamientodearico.com
+Arico;success;Andrés Martínez;Alcalde;;;;https://www.ayuntamientodearico.com
+Arico;success;Eudelia Pestano;Concejala de participación ciudadana;;;;https://www.ayuntamientodearico.com
+Arico;success;Olivia Delgado;Primera teniente de alcalde;;;;https://www.ayuntamientodearico.com
+Arico;success;Andrés Martínez;Alcalde de arico;;;https://www.ayuntamientodearico.com/<https:/www.ayuntamientodearico.com/andres-martinez-asume-la-alcaldia-de-arico-tras-el-pleno-extraordinario-celebrado-este-martes-23-de-diciembre/>;https://www.ayuntamientodearico.com
+Arico;success;Olivia Delgado;Primera teniente de alcalde y concejala de hacienda;;;;https://www.ayuntamientodearico.com
+Arico;success;Olivia Delgado;Alcaldesa de arico;PSOE Y PP;;;https://www.ayuntamientodearico.com
+Arico;success;Andrés Martínez;Primer teniente de alcalde;;;;https://www.ayuntamientodearico.com
+Arona;success;Fátima Lemes Reverón;Alcaldesa;PARTIDO POPULAR;portalweb@arona.org;https://www.arona.org/Tu-Ayuntamiento/Ayuntamiento-de-Arona/La-Alcaldesa;https://www.arona.org
