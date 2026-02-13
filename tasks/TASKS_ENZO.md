@@ -15,47 +15,47 @@
 ### 📍 Tu Lista de Municipios (22):
 
 | # | Municipio | Web Principal (Entrada) | ✅ URL CORRECTA (Pegar aquí) | 📧 Emails (Sí/No/Ocultos) | Notas |
-|---|---|---|---|---|---|
-| 1 | Agaete | www.agaete.es | | | |
+|---|---       |---                       |---                            |---                        |---    |
+| 1 | Agaete | www.agaete.es      |https://www.agaete.es/ayuntamiento/corporacion-municipal |Ocultos (mailto) |Requiere limpieza de comentarios HTML y expansión de mailto |
 
-| 2 | Agüimes | www.aguimes.es | | | |
+| 2 | Agüimes | www.aguimes.es    |https://aguimes.es/corporacion-municipal/ |Sí (mailto) |Botón "Escríbele" con mailto. |
 
-| 3 | Artenara | www.artenara.es | | | |
+| 3 | Artenara | www.artenara.es  |https://www.artenara.es/portal-ciudadano/grupo-de-gobierno/ |No |Solo nombres y cargos disponibles en esta sección. |
 
-| 4 | Arucas | www.arucas.org | | | |
+| 4 | Arucas | www.arucas.org     |https://www.arucas.org/modules.php?mod=portal&file=ver_gen&id=TkRnek13PT0= |Visibles (Texto) |Texto plano dentro de tablas HTML antiguas. |
+ 
+| 5 | Firgas | www.firgas.es      |https://www.villadefirgas.es/el-ayuntamiento/ |Visibles (Enricher) |Requiere entrar al perfil (/team/). El código ya hace esto. |
 
-| 5 | Firgas | www.firgas.es | | | |
+| 6 | Gáldar | www.galdar.es      |https://www.galdar.es/organigrama-municipal-2023-2027/ |Visibles |⚠️ REVISAR EN 2027. La URL incluye el periodo de mandato.|
 
-| 6 | Gáldar | www.galdar.es | | | |
+| 7 | Ingenio | www.ingenio.es    |https://ingenio.es/grupo-de-gobierno/ |Sí (mailto) |Emails directos en la lista principal (módulos Divi). |
 
-| 7 | Ingenio | www.ingenio.es | | | |
+| 8 | La Aldea de San Nicolás | www.laaldeadesannicolas.es |https://laaldeasanicolas.es/ayuntamiento/  |Sí (mailto) |Iconos de email con enlace mailto estándar. |
 
-| 8 | La Aldea de San Nicolás | www.laaldeadesannicolas.es | | | |
+| 9 | Las Palmas de GC | www.laspalmasgc.es |https://www.laspalmasgc.es/es/ayuntamiento/areas-de-gobierno/| NO |Solo nombres y cargos disponibles en esta sección |
 
-| 9 | Las Palmas de GC | www.laspalmasgc.es | | | |
+| 10 | Mogán | www.mogan.es | | |Bloqueo de ip |
 
-| 10 | Mogán | www.mogan.es | | | |
+| 11 | Moya | www.villademoya.es |https://www.villademoya.es/ayuntamiento/corporacion |No | Solo nombres y cargos. No publican emails.|
 
-| 11 | Moya | www.villademoya.es | | | |
+| 12 | San Bartolomé de Tirajana | www.maspalomas.com |https://www.maspalomas.com/mnuayto-grupogobierno |Sí (mailto) |Emails en botones de icono (UIkit), scrapeables. |
 
-| 12 | San Bartolomé de Tirajana | www.maspalomas.com | | | |
+| 13 | Santa Brígida | www.santabrigida.es |https://www.santabrigida.es/ayuntamiento/corporacion/equipo-gobierno-delegacion-areas/ |Sí (mailto) |Emails en iconos con enlace mailto estándar. |
 
-| 13 | Santa Brígida | www.santabrigida.es | | | |
+| 14 | Santa Lucía de Tirajana | www.santaluciagc.com |https://www.santaluciagc.com/ayuntamiento/corporacion/ |No |Solo listado de nombres y cargos. |
 
-| 14 | Santa Lucía de Tirajana | www.santaluciagc.com | | | |
+| 15 | Santa María de Guía | www.santamariadeguia.es |https://santamariadeguia.es/corporacion-ayuntamiento-guia/ | No|Solo listado de nombres y cargos. |
 
-| 15 | Santa María de Guía | www.santamariadeguia.es | | | |
+| 16 | Tejeda | www.tejeda.es |https://tejeda.eu/corporacion-municipal/ |Sí (mailto) |Emails directos en la ficha. |
 
-| 16 | Tejeda | www.tejeda.es | | | |
+| 17 | Telde | www.telde.es |https://www.telde.es/ayuntamiento/areas-de-gobierno-y-concejalias-delegadas/ |Sí (mailto) | Botón "Contacto" funcional.|
 
-| 17 | Telde | www.telde.es | | | |
+| 18 | Teror | www.teror.es |https://teror.es/organizacion/grupo-de-gobierno-2023-2027/ |Sí (Texto) |Email visible en texto plano. URL caduca en 2027. |
 
-| 18 | Teror | www.teror.es | | | |
+| 19 | Valsequillo | www.valsequillogc.es |https://www.valsequillogc.es/ayto3/corporacion-2023-2027-2/ | Sí (mailto)|Icono de sobre con mailto. |
 
-| 19 | Valsequillo | www.valsequillogc.es | | | |
+| 20 | Valleseco | www.valleseco.es |https://valleseco.es/valleseco/grupo-gobierno/ |Sí (Error) |Tienen un error tipográfico (mailto:http://...). El scraper lo limpiará. |
 
-| 20 | Valleseco | www.valleseco.es | | | |
+| 21 | Vega de San Mateo | www.vegasanmateo.es |https://www.vegadesanmateo.es/ayuntamiento/equipo-de-gobierno |Sí (mailto) |Emails claros en listado. |
 
-| 21 | Vega de San Mateo | www.vegasanmateo.es | | | |
-
-| 22 | Arrecife | www.arrecife.es | | | |
+| 22 | Arrecife | www.arrecife.es | |Posiblemente No |Web insegura.No se encontraron datos |
