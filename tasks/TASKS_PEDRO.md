@@ -1,22 +1,23 @@
-﻿# ­ƒôï Tareas de Validaci├│n - Pedro (nuestro l├¡der)
+﻿# 📋 Tareas de Validación - Pedro (nuestro líder)
 
-**Objetivo:** Localizar la URL exacta del "Equipo de Gobierno Actual" para configurar el robot de b├║squeda.
+**Objetivo:** Localizar la URL exacta del "Equipo de Gobierno Actual" para configurar el robot de búsqueda.
 
-### ­ƒôØ Instrucciones:
+### 📝 Instrucciones:
+
 1. Entra a la web del municipio.
-2. Navega hasta encontrar la lista de **Concejales** del mandato actual. A veces est├í en "Transparencia" o "Organizaci├│n".
+2. Navega hasta encontrar la lista de **Concejales** del mandato actual. A veces está en "Transparencia" o "Organización".
 3. **Copia la URL exacta** donde salen los nombres.
-4. Anota si encuentras problemas (web ca├¡da, error de seguridad, solo salen fotos sin texto).
+4. Anota si encuentras problemas (web caída, error de seguridad, solo salen fotos sin texto).
 
-### ­ƒôì Tu Lista de Municipios (22):
+### 📍 Tu Lista de Municipios (22):
 
-| # | Municipio | Web Principal | Ô£à URL CORRECTA (Pegar aqu├¡) | ­ƒôº Observaciones |
-|---|---|---|---|---|
-| 1 | Alajer├│ | www.ayuntamientoalajero.es | | |
+| #   | Municipio | Web Principal              | ✅ URL CORRECTA (Pegar aquí) | 📧 Observaciones |
+| --- | --------- | -------------------------- | ---------------------------- | ---------------- |
+| 1   | Alajeró   | www.ayuntamientoalajero.es |                              |                  |
 
 | 2 | Hermigua | www.hermigua.es | | |
 
-| 3 | San Sebasti├ín Gomera | www.sansebastiangomera.org | | |
+| 3 | San Sebastián Gomera | www.sansebastiangomera.org | | |
 
 | 4 | Valle Gran Rey | www.vallegranrey.es | | |
 
@@ -30,13 +31,13 @@
 
 | 9 | Barlovento | www.barlovento.es | | |
 
-| 10 | Bre├▒a Alta | www.balta.org | | |
+| 10 | Breña Alta | www.balta.org | | |
 
-| 11 | Bre├▒a Baja | www.bbaja.es | | |
+| 11 | Breña Baja | www.bbaja.es | | |
 
 | 12 | Fuencaliente | www.fuencalientedelapalma.es | | |
 
-| 13 | Garaf├¡a | www.garafia.es | | |
+| 13 | Garafía | www.garafia.es | | |
 
 | 14 | Los Llanos de Aridane | www.aridane.org | | |
 
@@ -46,7 +47,7 @@
 
 | 17 | Puntallana | www.puntallana.es | | |
 
-| 18 | San Andr├®s y Sauces | www.sanandresysauces.es | | |
+| 18 | San Andrés y Sauces | www.sanandresysauces.es | | |
 
 | 19 | S.C. de La Palma | www.santacruzdelapalma.es | | |
 
