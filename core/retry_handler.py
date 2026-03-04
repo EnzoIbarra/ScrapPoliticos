@@ -34,6 +34,11 @@ def retry_with_fallback(max_retries: int = 3, backoff: int = 2):
                     return func(*args, **kwargs)
                     
                 except Exception as e:
+                    # GESTIÓN DE FALLOS (Incluye errores de Proxy):
+                    # Si Tor o la conexión directa fallan (ProxyError, 503, etc.),
+                    # el sistema pausará la ejecución y reintentará automáticamente
+                    # hasta agotar el número máximo de intentos.
+                    
                     # Último intento, propagar error
                     if attempt == max_retries - 1:
                         logger.error(f"{func.__name__} falló después de {max_retries} intentos: {e}")

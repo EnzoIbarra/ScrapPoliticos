@@ -1,13 +1,16 @@
 version: "3.8"
 
 services:
+  # Red Tor: Proporciona anonimato y evita bloqueos por IP.
+  # Utiliza la imagen dockage/tor-privoxy para ofrecer un proxy HTTP en el puerto 8118.
   tor:
     image: dockage/tor-privoxy:latest
     ports:
-      - "8118:8118" # HTTP Proxy
-      - "9050:9050" # SOCKS5 Proxy
+      - "8118:8118" # Puerto para Proxy HTTP/HTTPS (usado por requests)
+      - "9050:9050" # Puerto para Proxy SOCKS5 (opcional)
     restart: always
 
+  # Scraper: El motor principal de recolección.
   scraper:
     build: .
     volumes:
@@ -16,6 +19,9 @@ services:
       - ./.env:/app/.env
       - ./scripts:/app/scripts
     environment:
+      # CONFIGURACIÓN GLOBAL DE PROXY (Tor):
+      # Al definir estas variables, todas las librerías que respeten el estándar (como requests)
+      # enviarán el tráfico a través del contenedor de Tor automáticamente.
       - HTTP_PROXY=http://tor:8118
       - HTTPS_PROXY=http://tor:8118
       - PYTHONUNBUFFERED=1

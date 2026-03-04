@@ -1,11 +1,17 @@
 import requests
 import os
 import time
-from src.worker import get_proxy
+
+# Este script verifica si la conexión a través de Tor está funcionando correctamente.
+# No necesita 'get_proxy' si se ejecuta dentro del contenedor Docker, ya que 
+# requests leerá automáticamente las variables HTTP_PROXY definidas en docker-compose.yml.
 
 def test_tor():
-    proxies = get_proxy()
-    print(f"Usando proxies: {proxies}")
+    # Si estamos fuera de Docker, podríamos necesitar definir los proxies manualmente:
+    # proxies = {"http": "http://localhost:8118", "https": "http://localhost:8118"}
+    proxies = None 
+    
+    print(f"Usando proxies del sistema (Tor)...")
     
     # Tor puede tardar en establecer el circuito
     for i in range(5):

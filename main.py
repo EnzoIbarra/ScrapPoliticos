@@ -13,21 +13,24 @@ from core.logger import get_logger
 from core.strategy_manager import StrategyManager
 from config import load_domains, load_special_cases
 
-# Cargar variables de entorno
+# Cargar variables de entorno (incluye API Keys y configuración de Proxies de Tor)
 load_dotenv()
 
 logger = get_logger("ScrapPoliticos")
 
 class ScraperApp:
     def __init__(self):
+        # 1. INICIO DEL SISTEMA:
+        # Se inicializan los componentes básicos: el gestor de estrategias (que decide el CÓMO),
+        # y se cargan las configuraciones de casos especiales (municipios que requieren JS u OCR).
         self.manager = StrategyManager()
         self.special_cases = load_special_cases()
         
-        # Configuración de carpetas
+        # 2. DEFINICIÓN DE SALIDA:
+        # Se preparan las carpetas y archivos donde se volcarán los datos finales.
         self.output_dir = Path("data")
         self.output_dir.mkdir(exist_ok=True)
         
-        # Archivos de salida
         self.results_json = self.output_dir / "results.json"
         self.results_csv = self.output_dir / "resultados_consolidados.csv"
 
@@ -46,22 +49,28 @@ class ScraperApp:
         
         results = []
         
+        # 4. BUCLE PRINCIPAL DE PROCESAMIENTO:
+        # Aquí se recorre cada ayuntamiento uno a uno de forma secuencial.
         for i, muni in enumerate(municipalities):
             try:
                 muni_name = muni['municipality']
                 logger.info(f"👉 Procesando {i+1}/{len(municipalities)}: {muni_name}")
 
-                # Inyectar configuración especial si existe
+                # 5. AJUSTE DE CONFIGURACIÓN:
+                # Si el municipio está en la lista de 'expertos' (casos especiales), 
+                # inyectamos sus reglas propias (ej: forzar OCR) antes de empezar.
                 if muni_name in self.special_cases:
                     muni['config'] = self.special_cases[muni_name]
 
-                # Ejecutar Pipeline
+                # 6. ENTRADA AL PIPELINE:
+                # Aquí delegamos toda la complejidad técnica al StrategyManager.
+                # Él decidirá si usa Tor, Playwright o OCR según corresponda.
                 result = self.manager.execute_pipeline(muni)
                 results.append(result)
                 
-                # --- GUARDADO INCREMENTAL (JSON y CSV) ---
-                # Esto es clave: guarda cada vez que termina un municipio.
-                # Si falla en el 80, no pierdes los 79 anteriores.
+                # 7. RESILIENCIA Y GUARDADO:
+                # Tras cada municipio, actualizamos los archivos en disco. 
+                # Esto garantiza que si el proceso se interrumpe, tenemos los datos salvados hasta ese punto.
                 self._save_json(results)
                 self._save_csv_incremental(results)
                 

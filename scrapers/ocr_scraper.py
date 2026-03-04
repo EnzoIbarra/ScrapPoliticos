@@ -42,6 +42,8 @@ class OCRScraper(BaseScraper):
 
         for url in urls_to_check:
             try:
+                # Descarga del HTML de la página que contiene las imágenes.
+                # Usa el proxy de Tor por defecto.
                 response = requests.get(url, timeout=30, verify=False)
                 soup = BeautifulSoup(response.text, 'html.parser')
                 
@@ -86,6 +88,7 @@ class OCRScraper(BaseScraper):
     def _process_image_url(self, url: str, muni_name: str) -> str:
         """Descarga y aplica OCR a una imagen individual."""
         try:
+            # La descarga de la imagen también pasa por la red Tor.
             resp = requests.get(url, timeout=20)
             img = Image.open(BytesIO(resp.content))
             

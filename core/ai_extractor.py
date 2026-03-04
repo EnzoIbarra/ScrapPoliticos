@@ -129,6 +129,8 @@ class AIExtractor:
             return None
         
         if "data" in data and isinstance(data["data"], list):
+            # Una vez extraídos, los datos vuelven al Scraper que hizo la llamada
+            # para ser validados y finalmente guardados en el archivo central.
             return data["data"]
         
         return None

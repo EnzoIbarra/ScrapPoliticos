@@ -25,43 +25,49 @@ class StrategyManager:
 
     def execute_pipeline(self, municipality: Dict[str, Any]) -> Dict[str, Any]:
         """
-        Ejecuta la tubería de estrategias.
+        PUNTO DE DECISIÓN TÉCNICA (Cerebro del Sistema):
+        Recibe un municipio y decide qué estrategia(s) aplicar siguiendo un orden lógico
+        de menor a mayor costo/complejidad (HTTP -> JS -> OCR).
         """
         muni_name = municipality['municipality']
         
-        # --- CORRECCIÓN CRÍTICA ---
-        # Aseguramos que la URL base tenga esquema (https://) para que el Enricher no falle.
+        # --- PREPARACIÓN DE URL ---
         base_url = municipality['url']
         if not base_url.startswith('http'):
             base_url = 'https://' + base_url
             
         config = municipality.get('config', {})
 
-        # 0. CASO ESPECIAL: Forzar OCR si la configuración lo pide (ej: Puntallana)
+        # PASO A: VERIFICACIÓN DE CASOS FORZADOS (Atajos para ahorrar tiempo)
         if config.get('requires') == 'ocr':
             logger.info(f"[{muni_name}] 📸 Detectado caso especial: Forzando OCR...")
             result = self._try_strategy(self.ocr_scraper, municipality, use_proxy=False)
             return self._enrich_result(result, base_url)
 
-        # 0. CASO ESPECIAL: Forzar JS si la configuración lo pide (ej: Santa Cruz)
         if config.get('requires') == 'javascript':
             logger.info(f"[{muni_name}] ☢️ Detectado caso especial: Forzando JS...")
             result = self._try_strategy(self.js_scraper, municipality, use_proxy=False)
             return self._enrich_result(result, base_url)
 
-        # 1. Nivel 1: Tor + HTTP
+        # PASO B: FLUJO EN CASCADA (Sistemas Estándar)
+        
+        # 1. Nivel 1: Tor + HTTP (Paso Seguro y Anónimo)
+        # Se intenta primero por Tor para proteger la IP y evitar bloqueos preventivos.
         logger.info(f"[{muni_name}] 🛡️ Intentando Nivel 1: HTTP + Tor (Privacidad)...")
         result = self._try_strategy(self.http_scraper, municipality, use_proxy=True)
         if self._is_success(result):
+            # Si el Nivel 1 funciona, pasamos directamente al enriquecimiento final.
             return self._enrich_result(result, base_url)
         
-        # 2. Nivel 2: Direct IP + HTTP
+        # 2. Nivel 2: Direct IP + HTTP (Paso de Velocidad/Evasión de bloqueos a Tor)
+        # Si Tor falla o el sitio bloquea salidas de Tor, se intenta con nuestra IP real.
         logger.warning(f"[{muni_name}] ⚠️ Nivel 1 falló. 🚀 Intentando Nivel 2: HTTP + IP Directa...")
         result = self._try_strategy(self.http_scraper, municipality, use_proxy=False)
         if self._is_success(result):
             return self._enrich_result(result, base_url)
 
-        # 3. Nivel 3: JavaScript (Directo)
+        # 3. Nivel 3: JavaScript con Playwright (La artillería pesada)
+        # Si el sitio requiere JavaScript para mostrar datos (SPA/React), usamos Playwright.
         logger.warning(f"[{muni_name}] ⚠️ Nivel 2 falló. ☢️ Intentando Nivel 3: JavaScript + IP Directa...")
         result = self._try_strategy(self.js_scraper, municipality, use_proxy=False)
         if self._is_success(result):
@@ -95,6 +101,8 @@ class StrategyManager:
         else:
             current_config = {}
             
+        # Inyectamos el flag de proxy en la configuración que recibirá el scraper.
+        # 'use_proxy=True' activará Tor, 'False' activará conexión directa.
         current_config['use_proxy'] = use_proxy
         muni_config['config'] = current_config
 

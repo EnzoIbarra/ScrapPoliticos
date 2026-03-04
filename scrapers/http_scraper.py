@@ -79,11 +79,13 @@ class HTTPScraper(BaseScraper):
                 continue
 
             try:
-                config = municipality_info.get('config', {})
-                use_proxy = config.get('use_proxy', True)
-                
+                # GESTIÓN DE PROXY (TOR):
+                # Por defecto, el sistema usa las variables de entorno HTTP_PROXY y HTTPS_PROXY.
+                # Si el municipio requiere conexión directa (use_proxy=False), anulamos los proxies.
                 proxies = None
                 if not use_proxy:
+                    # Inyectamos diccionarios vacíos para forzar a la librería requests
+                    # a ignorar las variables de entorno del sistema.
                     proxies = {"http": None, "https": None}
                     
                 html = self._fetch_url(current_url, proxies=proxies)
@@ -129,6 +131,11 @@ class HTTPScraper(BaseScraper):
 
     @retry_with_fallback(max_retries=3, backoff=2)
     def _fetch_url(self, url: str, proxies: Dict[str, str] = None) -> str:
+        """
+        Realiza la petición HTTP real.
+        El parámetro 'proxies' decide si se usa la red Tor o conexión directa.
+        """
+        # verify=False se usa porque muchos ayuntamientos tienen certificados SSL mal configurados.
         response = requests.get(url, timeout=30, verify=False, proxies=proxies)
         response.raise_for_status()
         response.encoding = response.apparent_encoding

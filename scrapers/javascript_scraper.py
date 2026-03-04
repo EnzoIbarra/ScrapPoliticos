@@ -36,7 +36,10 @@ class JavaScriptScraper(BaseScraper):
         launch_args = {"headless": True}
         
         if not use_proxy:
-            # Crear un entorno limpio sin variables de proxy
+            # MANIOBRA DE CONEXIÓN DIRECTA (PLAYWRIGHT bypass):
+            # Playwright lee automáticamente las variables de entorno HTTP_PROXY del sistema.
+            # Para forzar una conexión directa sin pasar por Tor, debemos crear una copia 
+            # del entorno de ejecución y eliminar explícitamente estas variables antes de lanzar el navegador.
             import os
             env = os.environ.copy()
             env.pop("HTTP_PROXY", None)

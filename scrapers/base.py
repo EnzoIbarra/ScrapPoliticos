@@ -14,7 +14,9 @@ class BaseScraper(ABC):
     """Interfaz y funcionalidad base para estrategias de scraping."""
 
     def __init__(self):
+        # Todos los scrapers comparten el mismo motor de IA para extraer datos del texto
         self.extractor = AIExtractor()
+        # Y el mismo validador para limpiar y estandarizar los nombres/cargos/partidos
         self.validator = DataValidator()
 
     @abstractmethod

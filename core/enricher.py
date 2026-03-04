@@ -19,6 +19,8 @@ class DataEnricher:
         self.headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         }
+        # NOTA: Esta clase hereda la configuración de proxy global (Tor)
+        # definida en el contenedor de Docker para todas sus peticiones.
 
     def enrich_emails(self, data: List[Dict[str, Any]], base_url: str) -> List[Dict[str, Any]]:
         """
@@ -40,6 +42,7 @@ class DataEnricher:
                         logger.debug(f"🔍 Inspeccionando detalle: {persona['nombre']} -> {target_url}")
                         
                         # Hacemos la petición (con verify=False por si acaso el SSL del ayuntamiento es viejo)
+                        # Este 'get' fluye automáticamente a través de Tor por la red de Docker.
                         response = session.get(target_url, headers=self.headers, timeout=10, verify=False)
                         
                         if response.status_code == 200:
