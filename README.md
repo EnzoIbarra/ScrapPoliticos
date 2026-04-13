@@ -1,3 +1,59 @@
+# ScrapPoliticos | Intelligent Scraping & Data Extraction System
+
+> [!IMPORTANT]
+> **Project Context:** This system was developed as part of a specialized data extraction initiative focused on Spanish municipalities. It is uploaded here to demonstrate advanced Python capabilities, infrastructure management with Docker, and automated ETL (Extract, Transform, Load) processes.
+> 
+> **Contexto del Proyecto:** Este sistema fue desarrollado como parte de una iniciativa especializada de extracción de datos en municipios españoles. Se publica para demostrar habilidades avanzadas en Python, gestión de infraestructura con Docker y procesos automatizados de ETL.
+
+---
+
+## 🇺🇸 English Version
+
+### 🚀 Overview
+An advanced, multi-layered scraping system designed to extract contact information for political officials (Mayors and Councilors). The engine is built with a **Waterfall Architecture**, automatically switching between strategies to bypass blocks and handle both static and dynamic (SPA) websites.
+
+### 🛠 Tech Stack
+* **Language:** Python 3.x.
+* **Scraping Engines:** Playwright (Chromium), Requests, BeautifulSoup4.
+* **Infrastructure:** Docker & Docker Compose.
+* **Network & Privacy:** Tor Network integration for IP rotation.
+* **Data Processing:** Pandas (Excel/JSON export), Regex-based AI for email de-obfuscation.
+
+### 🎯 Key Engineering Features
+* **Waterfall Strategy Engine:** A 3-level fallback system:
+    1. **Level 1 (Tor):** Total anonymity for static HTML.
+    2. **Level 2 (Direct IP):** High-speed extraction for non-restricted sites.
+    3. **Level 3 (Playwright):** Real browser automation for React/Angular/Vue sites.
+* **Intelligent Filtering:** Strict whitelist logic to isolate political roles, actively discarding administrative or technical staff.
+* **Hybrid Email Recovery:** Combines regex patterns with AI-driven logic to recover hidden or obfuscated `mailto:` links.
+* **On-Boarding Ready Code:** The codebase is **exhaustively commented** and documented. This was a strategic requirement to ensure a smooth hand-off to new developers, minimizing the learning curve for system maintenance.
+* **Automated Toolset:** Includes custom scripts for data cleaning ("Garbage Collector"), email diagnostics, and corporate Excel reporting.
+
+---
+
+## 🇦🇷 Versión en Español
+
+### 🚀 Resumen
+Sistema avanzado de scraping multicapa diseñado para la extracción de datos de contacto de cargos políticos. El motor utiliza una **Arquitectura en Cascada ("The Waterfall")**, alternando automáticamente entre estrategias para evadir bloqueos y procesar sitios tanto estáticos como dinámicos (SPA).
+
+### 🛠 Stack Tecnológico
+* **Lenguaje:** Python 3.x.
+* **Motores de Scraping:** Playwright, Requests, BeautifulSoup4.
+* **Infraestructura:** Docker & Docker Compose.
+* **Red y Privacidad:** Integración con la red Tor para rotación de IPs.
+* **Procesamiento:** Pandas (Excel/JSON), Lógica de IA con Regex para desofuscación de emails.
+
+### 🎯 Características de Ingeniería
+* **Motor de Estrategia en Cascada:** Sistema de tres niveles:
+    1. **Nivel 1 (Tor):** Anonimato total para HTML estático.
+    2. **Nivel 2 (IP Directa):** Extracción veloz para sitios sin restricciones.
+    3. **Nivel 3 (Playwright):** Automatización de navegador real para sitios en React/Angular/Vue.
+* **Filtrado Inteligente:** Lógica de lista blanca estricta para aislar cargos políticos, descartando personal técnico o administrativo.
+* **Código para Nuevos Ingresantes:** Todo el código fuente cuenta con **comentarios exhaustivos y documentación interna**. Este fue un requerimiento estratégico para facilitar el traspaso a nuevos desarrolladores y reducir la curva de aprendizaje en el mantenimiento del sistema.
+* **Herramientas Automatizadas:** Incluye scripts personalizados para limpieza de datos ("Garbage Collector"), diagnóstico de emails y generación de reportes corporativos en Excel.
+
+---
+
 # ScrapPoliticos 🕵️‍♂️🏛️
 
 Sistema avanzado de scraping para la extracción de datos de contacto de cargos políticos (Alcaldes y Concejales) en municipios de Canarias.
